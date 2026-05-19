@@ -1,0 +1,323 @@
+{
+  "meta": {
+    "title": "La Grande Arche de la Défense - Monument Moderne Emblématique à Paris",
+    "description": "Guide complet de La Grande Arche de la Défense à Paris. Découvrez cette architecture moderne emblématique, son histoire, sa conception et les informations de visite. Située dans le quartier d'affaires de La Défense."
+  },
+  "header": {
+    "home": "Accueil",
+    "gallery": "Galerie",
+    "reviews": "Avis",
+    "map": "Carte",
+    "backToHome": "Retour à l'accueil"
+  },
+  "hero": {
+    "title": "La Grande Arche de la Défense",
+    "subtitle": "Monument Moderne Emblématique & Chef-d'œuvre Architectural à Paris",
+    "rating": "4.4(11,839)",
+    "reviewCount": "11,839 avis",
+    "type": "Architecture Moderne · Monument Culturel · Pont d'Observation",
+    "openMaps": "Voir l'emplacement"
+  },
+  "intro": {
+    "title": "Découvrez La Grande Arche de la Défense",
+    "description": "La Grande Arche de la Défense, également connue sous le nom de 'Arc de Triomphe Moderne', est l'un des chefs-d'œuvre architecturaux modernes les plus emblématiques de France. Conçue par l'architecte danois Johan Otto von Spreckelsen, elle a été achevée en 1989 pour commémorer le 200e anniversaire de la Révolution française.\n\nCette magnifique structure en marbre blanc s'élève à 110 mètres de haut, 110 mètres de large et 110 mètres de profondeur, formant une énorme 'arche' cubique. Elle s'aligne parfaitement avec l'axe historique de Paris—de la pyramide du Louvre, à travers les Champs-Élysées, jusqu'à l'Arc de Triomphe, et enfin jusqu'à la Grande Arche.\n\nL'Arche n'est pas seulement un chef-d'œuvre architectural mais aussi un espace multifonctionnel abritant des espaces de bureaux, des espaces d'exposition et un pont d'observation au sommet. Depuis le pont, les visiteurs peuvent profiter d'une vue panoramique à 360 degrés sur Paris, y compris l'emblématique axe historique.\n\nEn tant que pièce maîtresse du quartier d'affaires de La Défense, ce monument symbolise la modernisation et la vision de la France pour l'avenir tout en conservant le respect de l'histoire et de la tradition.",
+    "visitGuide": {
+      "title": "Conseils de visite",
+      "items": [
+        "Horaires du pont d'observation : Mardi-Dimanche 10h00-19h00 (prolongé jusqu'à 20h00 en été)",
+        "Réservez vos billets en ligne à l'avance pour éviter les files d'attente",
+        "Le pont d'observation supérieur offre une vue à 360 degrés sur Paris, idéale par temps clair",
+        "Combinez avec une visite du complexe architectural moderne de La Défense",
+        "Visitez avant le coucher du soleil pour le meilleur éclairage pour les photos"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Points forts architecturaux",
+      "items": [
+        "Achevée en 1989, commémorant le 200e anniversaire de la Révolution française",
+        "Conçue par l'architecte danois Johan Otto von Spreckelsen",
+        "Construction en marbre de Carrare blanc et en verre, pesant 300 000 tonnes",
+        "Parfaitement alignée avec l'axe historique de Paris (Louvre-Champs-Élysées-Arc de Triomphe)",
+        "Pont d'observation supérieur à 110m d'altitude, offrant des vues panoramiques de Paris"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "L'Histoire de La Grande Arche",
+    "sections": [
+      {
+        "id": "history",
+        "title": "Histoire & Construction",
+        "content": "Le projet de La Grande Arche de la Défense a commencé en 1982 dans le cadre du programme des 'Grands Travaux' initié par le président François Mitterrand. Le but était de créer un arc de triomphe moderne parfaitement aligné avec l'axe historique de Paris.\n\nL'architecte danois Johan Otto von Spreckelsen a remporté le concours international de design en 1983. Son design était un énorme cube de marbre blanc avec un centre évidé formant une 'arche'. L'inauguration officielle a eu lieu le 14 juillet 1989, coïncidant avec le 200e anniversaire de la Révolution française."
+      },
+      {
+        "id": "meaning",
+        "title": "Signification Architecturale",
+        "content": "La Grande Arche n'est pas seulement un bâtiment mais un symbole. Elle représente la vision de la France pour l'avenir tout en conservant le respect de l'histoire et de la tradition. Les lignes pures et l'échelle monumentale de la structure incarnent les idéaux modernistes.\n\nL'emplacement de l'Arche est profondément significatif—elle se trouve à l'extrémité ouest de l'axe historique de Paris, qui commence au Louvre, traverse le jardin des Tuileries, les Champs-Élysées, l'Arc de Triomphe, et atteint enfin La Défense. Cet aménagement spatial reflète la continuité de la France de l'histoire à la modernité."
+      },
+      {
+        "id": "architecture",
+        "title": "Caractéristiques Architecturales",
+        "content": "La Grande Arche est un exploit d'ingénierie stupéfiant :\n\n1. Dimensions : 110m de haut, 110m de large, 110m de profondeur—un cube parfait\n2. Matériaux : Marbre de Carrare blanc, verre et acier\n3. Poids : Environ 300 000 tonnes\n4. Design : Cube creux formant une forme de 'porte'\n5. Pont d'observation : Pont en plein air au sommet, pouvant accueillir des centaines de personnes\n\nLes ailes nord et sud du bâtiment sont des espaces de bureaux fermés, tandis que les faces est et ouest sont des 'arches' ouvertes. Ce design est à la fois fonctionnel et riche en symbolisme."
+      },
+      {
+        "id": "designer",
+        "title": "À propos de l'architecte",
+        "content": "Johan Otto von Spreckelsen (1929-1987) était un célèbre architecte et designer danois. Il était connu pour son style minimaliste et moderniste classique.\n\nD'autres œuvres notables de Spreckelsen incluent l'église Saint-Bernard à Copenhague. Sa philosophie de conception mettait l'accent sur des formes géométriques pures, des matériaux de haute qualité et une manipulation soigneuse de la lumière. Malheureusement, Spreckelsen est décédé en 1987 et n'a pas vécu pour voir l'achèvement de la Grande Arche. Le projet a été achevé par l'architecte français Paul Andreu."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Informations de Base",
+    "officialName": "Nom Officiel",
+    "officialNameValue": "La Grande Arche de la Défense",
+    "type": "Type d'Attraction",
+    "typeValue": "Architecture Moderne, Monument Culturel, Pont d'Observation",
+    "country": "Pays",
+    "countryValue": "France",
+    "city": "Ville",
+    "cityValue": "Puteaux, Quartier de Paris La Défense",
+    "googleRating": "Note Google",
+    "phone": "Téléphone",
+    "phoneValue": "+33 1 49 07 27 57",
+    "address": "Adresse",
+    "addressValue": "1 Parv. de la Défense, 92800 Puteaux, France"
+  },
+  "hours": {
+    "title": "Informations de Visite",
+    "park": "Horaires du Pont d'Observation",
+    "parkTime": "Mardi-Dimanche : 10h00-19h00 (jusqu'à 20h00 en été), Fermé le lundi",
+    "bestTime": "Meilleur moment pour visiter",
+    "bestTimeSpring": "Printemps (Avril-Juin) : Climat doux, idéal pour les visites et les photos",
+    "bestTimeSummer": "Été (Juillet-Août) : Horaires prolongés, vues spectaculaires au coucher du soleil",
+    "bestTimeAutumn": "Automne (Septembre-Octobre) : Beaucoup de jours clairs, vues dégagées",
+    "bestTimeWinter": "Hiver (Novembre-Mars) : Moins de touristes, mais notez que la météo peut affecter le pont d'observation",
+    "tip": "Réservez vos billets en ligne à l'avance et choisissez un temps clair pour les meilleures vues"
+  },
+  "tickets": {
+    "title": "Prix des Billets",
+    "park": "Billet Pont d'Observation",
+    "parkPrice": "Adultes : 15€, Réduit : 12€, Moins de 18 ans : Gratuit",
+    "parking": "Parking à Proximité",
+    "parkingPrice": "Parking Centre-Grande Arche recommandé, env. 3-5€/heure",
+    "guided": "Visites Guidées",
+    "guidedPrice": "Disponibles, vérifiez le site officiel pour plus de détails"
+  },
+  "transport": {
+    "title": "Comment S'y Rendre",
+    "fromAirport": "Depuis l'Aéroport Charles de Gaulle (CDG)",
+    "fromAirportDesc": "Prenez le RER B jusqu'à Châtelet-Les Halles, puis transférez au RER A jusqu'à La Défense. Temps de trajet total d'environ 60 minutes.",
+    "fromCenter": "Depuis le Centre de Paris",
+    "fromCenterDesc": "Prenez la ligne 1 du métro depuis l'Arc de Triomphe, descendez à la station 'La Défense - Grande Arche'. Le trajet dure environ 10 minutes. C'est l'option de transport la plus pratique.",
+    "fromStation": "Depuis la Cathédrale Notre-Dame",
+    "fromStationDesc": "Prenez la ligne 4 du métro puis transférez à la ligne 1, descendez à la station 'La Défense - Grande Arche'. Trajet total d'environ 30 minutes.",
+    "publicTransport": "Transports Publics",
+    "publicTransportDesc": "Ligne 1 du Métro : Station terminus 'La Défense - Grande Arche'\nRER A : Station 'La Défense'\nBus : Plusieurs lignes desservent La Défense",
+    "walking": "Explorer la Région",
+    "walkingDesc": "Le quartier de La Défense lui-même est un musée d'architecture en plein air, parfait pour des visites à pied de nombreux chefs-d'œuvre architecturaux modernes.",
+    "driving": "Conduite & Parking",
+    "drivingDesc": "Plusieurs parkings souterrains disponibles dans le quartier de La Défense. Cependant, les transports publics sont recommandés pour des raisons de commodité et environnementales."
+  },
+  "route": {
+    "title": "Itinéraire Recommandé",
+    "overview": "Commencez à l'Arc de Triomphe, prenez la ligne 1 du métro jusqu'à La Grande Arche (10 minutes), visitez l'Arche et le pont d'observation (1h30), profitez d'une vue panoramique sur Paris depuis le sommet, puis explorez le quartier de l'architecture moderne de La Défense (1 heure). Le voyage total dure environ une demi-journée.",
+    "steps": [
+      "Commencez à l'Arc de Triomphe, prenez la ligne 1 du métro à la station 'Charles de Gaulle - Étoile'",
+      "Descendez à la station 'La Défense - Grande Arche', suivez les panneaux indiquant la Grande Arche",
+      "Visitez la base de l'Arche, admirez l'échelle monumentale et la façade en marbre blanc",
+      "Prenez l'ascenseur jusqu'au pont d'observation supérieur, profitez d'une vue panoramique à 360 degrés sur Paris",
+      "Depuis le pont, identifiez l'axe historique de Paris : Arc de Triomphe, Champs-Élysées, Louvre",
+      "Visitez les espaces d'exposition à l'intérieur de l'Arche (si disponibles)",
+      "Sortez de l'Arche, explorez les autres bâtiments modernes du quartier de La Défense",
+      "Visitez le 'Delta' à proximité et la Plaza de La Défense",
+      "Choisissez parmi de nombreux restaurants à La Défense pour le déjeuner ou le dîner",
+      "Prenez le métro pour retourner au centre-ville de Paris, ou profitez de la vue nocturne de l'Arche au crépuscule"
+    ]
+  },
+  "photoSpots": {
+    "title": "Spots Photos",
+    "spots": [
+      {
+        "name": "Place Avant",
+        "desc": "Angle classique montrant la vue de face complète et l'échelle monumentale de l'Arche"
+      },
+      {
+        "name": "Vue Aérienne depuis le Pont d'Observation",
+        "desc": "Plan aérien depuis le pont supérieur capturant le quartier de La Défense et l'horizon lointain de Paris"
+      },
+      {
+        "name": "Vue de Côté",
+        "desc": "Angle latéral mettant en évidence la forme cubique et la beauté géométrique de la structure"
+      },
+      {
+        "name": "Alignement de l'Axe Historique",
+        "desc": "Photographiez vers l'est depuis l'intérieur de l'Arche, capturant l'alignement avec l'Arc de Triomphe et les Champs-Élysées"
+      },
+      {
+        "name": "Éclairage Nocturne",
+        "desc": "Photos en soirée après que l'Arche s'illumine, mettant en valeur le charme différent du bâtiment"
+      }
+    ]
+  },
+  "hotels": {
+    "title": "Hébergement",
+    "hotels": [
+      {
+        "name": "Hôtels d'Affaires de Luxe",
+        "desc": "Situés dans le quartier de La Défense, offrant des équipements modernes et à distance de marche de la Grande Arche.",
+        "price": "~150-300€/nuit"
+      },
+      {
+        "name": "Hôtels Boutiques",
+        "desc": "Souvent proches de l'Arc de Triomphe, offrant des environnements élégants et un accès facile via la ligne 1 du métro.",
+        "price": "~200-400€/nuit"
+      },
+      {
+        "name": "Hôtels de Chaîne Économiques",
+        "desc": "Options économiques avec des emplacements pratiques, répondant aux besoins de base en matière d'hébergement.",
+        "price": "~80-150€/nuit"
+      },
+      {
+        "name": "Appart'hôtels",
+        "desc": "Équipés de cuisines, chambres spacieuses adaptées aux familles ou aux séjours prolongés.",
+        "price": "~100-200€/nuit"
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Galerie Photos",
+    "subtitle": "La Grande Arche de la Défense - Chef-d'œuvre Architectural Moderne à Paris",
+    "captions": [
+      "Vue de Face Complète de l'Arche",
+      "Détails en Marbre Blanc",
+      "Vues depuis le Pont d'Observation",
+      "Géométrie Architecturale",
+      "Alignement de l'Axe Historique",
+      "Éclairage Nocturne",
+      "Architecture Moderne Environnante",
+      "Place de La Défense"
+    ],
+    "viewAll": "Voir sur Google Maps",
+    "showAll": "Voir Toutes les Photos",
+    "showLess": "Voir Moins",
+    "photoAlt": "Photo de la Grande Arche {id}"
+  },
+  "reviews": {
+    "title": "Avis des Visiteurs",
+    "declaration": "Les commentaires des visiteurs peuvent être consultés via Google Maps (lien externe).",
+    "moreReviews": "Voir plus d'avis sur Google Maps",
+    "items": [
+      {
+        "name": "Zhang Ming",
+        "date": "Mai 2026",
+        "rating": 5,
+        "text": "Une architecture moderne absolument magnifique ! La vue depuis le pont d'observation surplombant tout Paris est incroyable, en particulier l'axe historique. Fortement recommandé !"
+      },
+      {
+        "name": "Sophie Martin",
+        "date": "Avril 2026",
+        "rating": 5,
+        "text": "Une visite incontournable à Paris ! L'architecture est à couper le souffle et la vue depuis le sommet est inégalée. Vaut chaque euro du prix du billet."
+      },
+      {
+        "name": "Li Hua",
+        "date": "Mars 2026",
+        "rating": 4,
+        "text": "L'architecture est spectaculaire et la vue depuis le pont d'observation est vraiment incroyable. Cependant, les billets sont un peu chers. Il est recommandé d'acheter en ligne à l'avance pour économiser de l'argent."
+      },
+      {
+        "name": "Pierre Dubois",
+        "date": "Février 2026",
+        "rating": 5,
+        "text": "En tant que Français, je considère cela comme l'une des plus grandes réalisations architecturales modernes en France. Cela relie parfaitement l'histoire et l'avenir. La vue depuis le pont surplombant tout Paris est absolument à ne pas manquer !"
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "Comment S'y Rendre",
+    "subtitle": "1 Parv. de la Défense, 92800 Puteaux, France",
+    "openMaps": "Voir sur Google Maps"
+  },
+  "footer": {
+    "rights": "© 2026 Association Indépendante de Recherche Touristique sur La Grande Arche de la Défense · Tous droits réservés.",
+    "privacy": "Politique de Confidentialité",
+    "terms": "Conditions d'Utilisation",
+    "cookies": "Paramètres des Cookies",
+    "officialResourcesTitle": "Ressources & Informations Connexes",
+    "officialLinks": {
+      "hautsDeSeine": "Département des Hauts-de-Seine",
+      "ileDeFrance": "Région Île-de-France",
+      "cultureGouv": "Culture Française",
+      "visitParisRegion": "Visiter la Région Paris",
+      "servicePublic": "Services Publics Français"
+    },
+    "disclaimer": "Ce site web est un projet d'information touristique tiers indépendant. Nous ne sommes pas affiliés au gouvernement local ou à toute autre institution officielle."
+  },
+  "privacy": {
+    "title": "Politique de Confidentialité",
+    "lastUpdated": "Dernière mise à jour : Mai 2026",
+    "sections": [
+      {
+        "heading": "1. Collecte d'Informations",
+        "content": "Nous ne collectons généralement pas activement d'informations personnellement identifiables auprès des utilisateurs. Toute information fournie par vous via des formulaires de contact ou des e-mails sera gardée strictement confidentielle."
+      },
+      {
+        "heading": "2. Utilisation des Informations",
+        "content": "Les informations que nous collectons sont utilisées uniquement pour fournir, maintenir et améliorer nos services, et pour communiquer avec vous. Nous ne vendons ni ne partageons vos informations personnelles avec des tiers à des fins de marketing."
+      },
+      {
+        "heading": "3. Cookies et Suivi",
+        "content": "Nous utilisons des cookies et des technologies de suivi similaires pour suivre l'activité sur notre site web et conserver certaines informations. Vous pouvez configurer votre navigateur pour refuser tous les cookies ou pour indiquer quand un cookie est envoyé."
+      },
+      {
+        "heading": "4. Sécurité des Données",
+        "content": "La sécurité de vos données est importante pour nous. Nous utilisons des moyens commercialement acceptables pour protéger vos données personnelles, bien qu'aucune méthode de transmission sur Internet ne soit sécurisée à 100 %."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Conditions d'Utilisation",
+    "lastUpdated": "Dernière mise à jour : Mai 2026",
+    "sections": [
+      {
+        "heading": "1. Acceptation des Conditions",
+        "content": "En accédant et en utilisant ce site web, vous acceptez d'être lié par ces conditions d'utilisation. Si vous n'êtes pas d'accord avec une partie des conditions, vous ne pouvez pas accéder au service."
+      },
+      {
+        "heading": "2. Utilisation du Service",
+        "content": "Ce site web est un projet d'information touristique tiers indépendant. Les informations fournies le sont uniquement à des fins d'information générale. Vous acceptez d'utiliser le site de manière responsable et légale."
+      },
+      {
+        "heading": "3. Propriété Intellectuelle",
+        "content": "Tout le contenu de ce site web, y compris les textes, images et logos, est la propriété du propriétaire du site web sauf indication contraire. L'utilisation, la reproduction ou la distribution non autorisée est strictement interdite."
+      },
+      {
+        "heading": "4. Limitation de Responsabilité",
+        "content": "Nous ne serons pas tenus responsables de tout dommage direct, indirect, accessoire ou consécutif résultant de l'utilisation ou de l'impossibilité d'utiliser ce site web ou les informations qu'il contient."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Paramètres des Cookies",
+    "description": "Gérez vos préférences en matière de cookies.",
+    "essential": {
+      "title": "Cookies Essentiels",
+      "description": "Requis pour la fonctionnalité de base du site web.",
+      "badge": "Toujours actif"
+    },
+    "analytics": {
+      "title": "Cookies Analytiques",
+      "description": "Aidez-nous à comprendre comment les visiteurs interagissent avec le site."
+    },
+    "marketing": {
+      "title": "Cookies de Marketing",
+      "description": "Utilisés pour suivre les visiteurs sur les sites web."
+    },
+    "save": "Enregistrer les Préférences",
+    "saved": "Préférences enregistrées !"
+  },
+  "officialManagement": {
+    "title": "À propos de La Grande Arche de la Défense",
+    "text": "La Grande Arche de la Défense est l'un des chefs-d'œuvre architecturaux modernes les plus emblématiques de France, conçu par l'architecte danois Johan Otto von Spreckelsen et achevé en 1989 pour commémorer le 200e anniversaire de la Révolution française.\n\nCette magnifique structure en marbre blanc est située au cœur du quartier d'affaires de La Défense à Paris, parfaitement alignée avec l'axe historique du Louvre à l'Arc de Triomphe. La Grande Arche n'est pas seulement un chef-d'œuvre architectural mais dispose également d'un pont d'observation offrant aux visiteurs des vues panoramiques à 360 degrés sur Paris."
+  }
+}

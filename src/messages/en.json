@@ -319,22 +319,5 @@
   "officialManagement": {
     "title": "About The Great Arch of the Defense",
     "text": "The Great Arch of the Defense (La Grande Arche de la Défense) is one of France's most iconic modern architectural masterpieces, designed by Danish architect Johan Otto von Spreckelsen and completed in 1989 to commemorate the 200th anniversary of the French Revolution.\n\nThis magnificent white marble structure is located at the heart of Paris's La Défense business district, perfectly aligned with the historical axis from the Louvre to the Arc de Triomphe. The Grande Arche is not just an architectural masterpiece but also features an observation deck offering visitors 360-degree panoramic views of Paris."
-  },
-  "recommendations": {
-    "title": "Discover More",
-    "attractionsTitle": "Nearby Attractions",
-    "toursTitle": "Recommended Tours & Activities",
-    "attractions": [
-      {"name": "Arc de Triomphe", "url": "https://www.paris.fr/"},
-      {"name": "Champs-Élysées", "url": "https://www.paris.fr/"},
-      {"name": "Louvre Museum", "url": "https://www.louvre.fr/"},
-      {"name": "La Défense Business District", "url": "https://www.ladefense.fr/"}
-    ],
-    "tours": [
-      {"name": "Paris Historical Axis Walking Tour", "url": "https://www.visitparisregion.com/"},
-      {"name": "La Défense Modern Architecture Tour", "url": "https://www.visitparisregion.com/"},
-      {"name": "Paris Panoramic Day Tour", "url": "https://www.visitparisregion.com/"},
-      {"name": "Seine River Cruise & City Sightseeing", "url": "https://www.visitparisregion.com/"}
-    ]
   }
 }

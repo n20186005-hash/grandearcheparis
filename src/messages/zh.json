@@ -318,22 +318,5 @@
   "officialManagement": {
     "title": "关于拉德芳斯大拱门",
     "text": "拉德芳斯大拱门是法国最具标志性的现代建筑之一，由丹麦建筑师约翰·奥托·冯·斯普雷克森设计，于1989年竣工。"
-  },
-  "recommendations": {
-    "title": "探索更多",
-    "attractionsTitle": "附近景点",
-    "toursTitle": "推荐行程与活动",
-    "attractions": [
-      {"name": "凯旋门", "url": "https://www.paris.fr/"},
-      {"name": "香榭丽舍大街", "url": "https://www.paris.fr/"},
-      {"name": "卢浮宫", "url": "https://www.louvre.fr/"},
-      {"name": "拉德芳斯商务区", "url": "https://www.ladefense.fr/"}
-    ],
-    "tours": [
-      {"name": "巴黎历史轴线徒步游", "url": "https://www.visitparisregion.com/"},
-      {"name": "拉德芳斯现代建筑导览", "url": "https://www.visitparisregion.com/"},
-      {"name": "巴黎全景一日游", "url": "https://www.visitparisregion.com/"},
-      {"name": "塞纳河游船与城市观光", "url": "https://www.visitparisregion.com/"}
-    ]
   }
 }
