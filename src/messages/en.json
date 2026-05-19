@@ -1,0 +1,337 @@
+{
+  "meta": {
+    "title": "The Great Arch of the Defense | La Grande Arche - Iconic Modern Landmark in Paris",
+    "description": "Complete guide to The Great Arch of the Defense (La Grande Arche de la Défense) in Paris. Learn about this iconic modern architecture, its history, design, and visiting information. Located in La Défense business district."
+  },
+  "header": {
+    "home": "Home",
+    "gallery": "Gallery",
+    "reviews": "Reviews",
+    "map": "Map",
+    "backToHome": "Back to Home"
+  },
+  "hero": {
+    "title": "The Great Arch of the Defense",
+    "subtitle": "Iconic Modern Landmark & Architectural Masterpiece in Paris",
+    "rating": "4.4(11,838)",
+    "reviewCount": "11,838 reviews",
+    "type": "Modern Architecture · Cultural Landmark · Observation Deck",
+    "openMaps": "View Location"
+  },
+  "intro": {
+    "title": "Discover The Great Arch of the Defense",
+    "description": "The Great Arch of the Defense (La Grande Arche de la Défense), also known as the 'Modern Arc de Triomphe', is one of France's most iconic modern architectural masterpieces. Designed by Danish architect Johan Otto von Spreckelsen, it was completed in 1989 to commemorate the 200th anniversary of the French Revolution.\n\nThis magnificent white marble structure stands 110 meters high, 110 meters wide, and 110 meters deep, forming a massive cubic 'arch'. It perfectly aligns with Paris's historical axis—from the Louvre Pyramid, through the Champs-Élysées, to the Arc de Triomphe, and finally to La Grande Arche.\n\nThe Arche is not just an architectural masterpiece but also a multifunctional space containing office areas, exhibition spaces, and an observation deck at the top. From the deck, visitors can enjoy 360-degree panoramic views of Paris, including the iconic historical axis.\n\nAs the centerpiece of the La Défense business district, this monument symbolizes France's modernization and vision for the future while maintaining respect for history and tradition.",
+    "visitGuide": {
+      "title": "Visit Tips",
+      "items": [
+        "Observation deck hours: Tuesday-Sunday 10:00-19:00 (extended to 20:00 in summer)",
+        "Book tickets online in advance to avoid queues",
+        "Top observation deck offers 360-degree views of Paris, best on clear days",
+        "Combine with a tour of La Défense's modern architecture cluster",
+        "Visit before sunset for the best lighting for photos"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Architectural Highlights",
+      "items": [
+        "Completed in 1989, commemorating 200th anniversary of French Revolution",
+        "Designed by Danish architect Johan Otto von Spreckelsen",
+        "White Carrara marble and glass construction, weighing 300,000 tons",
+        "Perfectly aligned with Paris's historical axis (Louvre-Champs-Élysées-Arc de Triomphe)",
+        "Top observation deck at 110m altitude, offering panoramic Paris views"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "The Story of The Great Arch",
+    "sections": [
+      {
+        "id": "history",
+        "title": "History & Construction",
+        "content": "The Great Arch of the Defense project began in 1982 as part of France's 'Grands Travaux' (Great Works) program initiated by President François Mitterrand. The goal was to create a modern triumphal arch perfectly aligned with Paris's historical axis.\n\nDanish architect Johan Otto von Spreckelsen won the international design competition in 1983. His design was a massive white marble cube with a hollowed center forming an 'arch'. The official inauguration took place on July 14, 1989, coinciding with the 200th anniversary of the French Revolution."
+      },
+      {
+        "id": "meaning",
+        "title": "Architectural Significance",
+        "content": "La Grande Arche is not just a building but a symbol. It represents France's vision for the future while maintaining respect for history and tradition. The structure's pure lines and monumental scale embody modernist ideals.\n\nThe location of the Arche is deeply meaningful—it sits at the western end of Paris's historical axis, which begins at the Louvre, continues through the Tuileries Garden, Champs-Élysées, Arc de Triomphe, and finally reaches La Défense. This spatial arrangement reflects France's continuity from history to modernity."
+      },
+      {
+        "id": "architecture",
+        "title": "Architectural Features",
+        "content": "La Grande Arche is an astounding engineering feat:\n\n1. Dimensions: 110m high, 110m wide, 110m deep—a perfect cube\n2. Materials: White Carrara marble, glass, and steel\n3. Weight: Approximately 300,000 tons\n4. Design: Hollow cube forming a 'gate' shape\n5. Observation deck: Open-air deck at the top, accommodating hundreds\n\nThe north and south wings of the building are enclosed office spaces, while the east and west faces are open 'arches'. This design is both functional and rich in symbolism."
+      },
+      {
+        "id": "designer",
+        "title": "About the Architect",
+        "content": "Johan Otto von Spreckelsen (1929-1987) was a renowned Danish architect and designer. He was known for his minimalist and classical modernist style.\n\nOther notable works by Spreckelsen include St. Bernard's Church in Copenhagen. His design philosophy emphasized pure geometric forms, high-quality materials, and careful handling of light. Unfortunately, Spreckelsen passed away in 1987 and did not live to see the completion of the Grande Arche. The project was completed by French architect Paul Andreu."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Basic Information",
+    "officialName": "Official Name",
+    "officialNameValue": "La Grande Arche de la Défense",
+    "type": "Attraction Type",
+    "typeValue": "Modern Architecture, Cultural Landmark, Observation Deck",
+    "country": "Country",
+    "countryValue": "France",
+    "city": "City",
+    "cityValue": "Puteaux, Paris La Défense district",
+    "googleRating": "Google Rating",
+    "phone": "Phone",
+    "phoneValue": "+33 1 49 07 27 57",
+    "address": "Address",
+    "addressValue": "1 Parv. de la Défense, 92800 Puteaux, France"
+  },
+  "hours": {
+    "title": "Visiting Information",
+    "park": "Observation Deck Hours",
+    "parkTime": "Tuesday-Sunday: 10:00-19:00 (until 20:00 in summer), Closed on Mondays",
+    "bestTime": "Best Time to Visit",
+    "bestTimeSpring": "Spring (April-June): Mild climate, ideal for visits and photos",
+    "bestTimeSummer": "Summer (July-August): Extended hours, spectacular sunset views",
+    "bestTimeAutumn": "Autumn (September-October): Many clear days, clear views",
+    "bestTimeWinter": "Winter (November-March): Fewer tourists, but note weather may affect observation deck",
+    "tip": "Book tickets online in advance and choose clear weather for the best views"
+  },
+  "tickets": {
+    "title": "Ticket Prices",
+    "park": "Observation Deck Ticket",
+    "parkPrice": "Adults: €15, Concession: €12, Under 18: Free",
+    "parking": "Parking Information",
+    "parkingPrice": "Multiple underground parking lots, approx. €3-5/hour",
+    "guided": "Guided Tours",
+    "guidedPrice": "Available, check official website for details"
+  },
+  "transport": {
+    "title": "How to Get Here",
+    "fromCenter": "From Paris City Center",
+    "fromCenterDesc": "Take Metro Line 1 from Arc de Triomphe, get off at 'La Défense - Grande Arche' station. Journey takes about 10 minutes. This is the most convenient transport option.",
+    "fromStation": "From Notre-Dame Cathedral",
+    "fromStationDesc": "Take Metro Line 4 then transfer to Line 1, get off at 'La Défense - Grande Arche' station. Total journey about 30 minutes.",
+    "publicTransport": "Public Transport",
+    "publicTransportDesc": "Metro Line 1: Terminal station 'La Défense - Grande Arche'\nRER A: 'La Défense' station\nBus: Multiple lines serve La Défense",
+    "walking": "Exploring the Area",
+    "walkingDesc": "La Défense district itself is an open-air architecture museum, perfect for walking tours of numerous modern architectural masterpieces.",
+    "driving": "Driving & Parking",
+    "drivingDesc": "Multiple underground parking lots available in La Défense district. However, public transport is recommended for convenience and environmental reasons."
+  },
+  "route": {
+    "title": "Recommended Itinerary",
+    "overview": "Start from Arc de Triomphe, take Metro Line 1 to La Grande Arche (10 minutes), visit the Arche and observation deck (1.5 hours), enjoy panoramic views of Paris from the top, then explore La Défense modern architecture district (1 hour). Total trip takes about half a day.",
+    "steps": [
+      "Start at Arc de Triomphe, take Metro Line 1 at 'Charles de Gaulle - Étoile' station",
+      "Get off at 'La Défense - Grande Arche' station, follow signs to the Grande Arche",
+      "Visit the base of the Arche, admire the monumental scale and white marble facade",
+      "Take the elevator to the top observation deck, enjoy 360-degree panoramic views of Paris",
+      "From the deck, identify Paris's historical axis: Arc de Triomphe, Champs-Élysées, Louvre",
+      "Visit exhibition spaces inside the Arche (if available)",
+      "Exit the Arche, explore other modern buildings in La Défense district",
+      "Visit the nearby 'Le Delta' and La Défense Plaza",
+      "Choose from numerous restaurants in La Défense for lunch or dinner",
+      "Take the Metro back to Paris city center, or enjoy the night view of the Arche at dusk"
+    ]
+  },
+  "photoSpots": {
+    "title": "Photo Spots",
+    "spots": [
+      {
+        "name": "Front Plaza",
+        "desc": "Classic angle showing the full front view and monumental scale of the Arche"
+      },
+      {
+        "name": "Observation Deck Overhead",
+        "desc": "Overhead shot from the top deck capturing La Défense district and distant Paris skyline"
+      },
+      {
+        "name": "Side View",
+        "desc": "Side angle highlighting the cubic shape and geometric beauty of the structure"
+      },
+      {
+        "name": "Historical Axis Alignment",
+        "desc": "Shoot eastward from inside the Arche, capturing alignment with Arc de Triomphe and Champs-Élysées"
+      },
+      {
+        "name": "Night Lighting",
+        "desc": "Evening shots after the Arche lights up, showcasing the building's different charm"
+      }
+    ]
+  },
+  "hotels": {
+    "title": "Accommodation",
+    "hotels": [
+      {
+        "name": "Mercure Paris La Défense",
+        "desc": "Located in La Défense district, modern hotel, walking distance to Grande Arche, about 10 minutes",
+        "price": "~€120-180/night"
+      },
+      {
+        "name": "Paris Marriott Arc de Triomphe",
+        "desc": "Close to Arc de Triomphe, convenient for visiting Grande Arche, luxury hotel",
+        "price": "~€200-300/night"
+      },
+      {
+        "name": "Ibis Paris La Défense",
+        "desc": "Budget-friendly option, convenient location, clean and comfortable",
+        "price": "~€80-120/night"
+      },
+      {
+        "name": "Residhome Paris La Défense",
+        "desc": "Aparthotel, suitable for families or extended stays, equipped with kitchen facilities",
+        "price": "~€100-150/night"
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Photo Gallery",
+    "subtitle": "The Great Arch of the Defense - Modern Architectural Masterpiece in Paris",
+    "captions": [
+      "Full Front View of the Arche",
+      "White Marble Details",
+      "Observation Deck Views",
+      "Architectural Geometry",
+      "Historical Axis Alignment",
+      "Night Lighting",
+      "Surrounding Modern Architecture",
+      "La Défense Plaza"
+    ],
+    "viewAll": "View on Google Maps",
+    "showAll": "View All Photos",
+    "showLess": "Show Less"
+  },
+  "reviews": {
+    "title": "Visitor Reviews",
+    "declaration": "Visitor feedback can be viewed via Google Maps (external link).",
+    "moreReviews": "View more reviews on Google Maps",
+    "items": [
+      {
+        "name": "Zhang Ming",
+        "date": "May 2026",
+        "rating": 5,
+        "text": "Absolutely stunning modern architecture! The view from the observation deck overlooking all of Paris is incredible, especially the historical axis. Highly recommended!"
+      },
+      {
+        "name": "Sophie Martin",
+        "date": "April 2026",
+        "rating": 5,
+        "text": "A must-visit when in Paris! The architecture is breathtaking and the view from the top is unparalleled. Worth every euro of the ticket price."
+      },
+      {
+        "name": "Li Hua",
+        "date": "March 2026",
+        "rating": 4,
+        "text": "The architecture is spectacular and the view from the observation deck is truly amazing. However, tickets are a bit expensive. Recommend buying online in advance to save some money."
+      },
+      {
+        "name": "Pierre Dubois",
+        "date": "February 2026",
+        "rating": 5,
+        "text": "As a French person, I consider this one of the greatest modern architectural achievements in France. It perfectly connects history and the future. The view from the deck overlooking all of Paris is absolutely not to be missed!"
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "How to Get Here",
+    "subtitle": "1 Parv. de la Défense, 92800 Puteaux, France",
+    "openMaps": "View on Google Maps"
+  },
+  "footer": {
+    "rights": "© 2026 The Great Arch of the Defense Independent Tourism Research Association · All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Settings",
+    "officialResourcesTitle": "Related Resources & Information",
+    "officialLinks": {
+      "hautsDeSeine": "Hauts-de-Seine Department",
+      "ileDeFrance": "Île-de-France Region",
+      "cultureGouv": "French Culture",
+      "visitParisRegion": "Visit Paris Region",
+      "servicePublic": "French Public Services"
+    },
+    "disclaimer": "This website is an independent third-party tourist information project. We are not affiliated with the local government or any other official institutions."
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last updated: May 2026",
+    "sections": [
+      {
+        "heading": "1. Information Collection",
+        "content": "We generally do not actively collect personally identifiable information from users. Any information provided by you through contact forms or emails will be kept strictly confidential."
+      },
+      {
+        "heading": "2. Use of Information",
+        "content": "The information we collect is used solely to provide, maintain, and improve our services, and to communicate with you. We do not sell or share your personal information with third parties for marketing purposes."
+      },
+      {
+        "heading": "3. Cookies and Tracking",
+        "content": "We use cookies and similar tracking technologies to track the activity on our website and hold certain information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent."
+      },
+      {
+        "heading": "4. Data Security",
+        "content": "The security of your data is important to us. We use commercially acceptable means to protect your Personal Data, though no method of transmission over the Internet is 100% secure."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "lastUpdated": "Last updated: May 2026",
+    "sections": [
+      {
+        "heading": "1. Acceptance of Terms",
+        "content": "By accessing and using this website, you agree to be bound by these terms of service. If you disagree with any part of the terms, you may not access the service."
+      },
+      {
+        "heading": "2. Use of Service",
+        "content": "This website is an independent third-party tourist information project. The information provided is for general informational purposes only. You agree to use the site responsibly and lawfully."
+      },
+      {
+        "heading": "3. Intellectual Property",
+        "content": "All content on this website, including texts, images, and logos, is the property of the website owner unless otherwise stated. Unauthorized use, reproduction, or distribution is strictly prohibited."
+      },
+      {
+        "heading": "4. Limitation of Liability",
+        "content": "We shall not be held liable for any direct, indirect, incidental, or consequential damages resulting from the use or inability to use this website or the information contained herein."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie Settings",
+    "description": "Manage your cookie preferences.",
+    "essential": {
+      "title": "Essential Cookies",
+      "description": "Required for basic website functionality.",
+      "badge": "Always active"
+    },
+    "analytics": {
+      "title": "Analytics Cookies",
+      "description": "Help us understand how visitors interact with the site."
+    },
+    "marketing": {
+      "title": "Marketing Cookies",
+      "description": "Used to track visitors across websites."
+    },
+    "save": "Save Preferences",
+    "saved": "Preferences saved!"
+  },
+  "officialManagement": {
+    "title": "About The Great Arch of the Defense",
+    "text": "The Great Arch of the Defense (La Grande Arche de la Défense) is one of France's most iconic modern architectural masterpieces, designed by Danish architect Johan Otto von Spreckelsen and completed in 1989 to commemorate the 200th anniversary of the French Revolution.\n\nThis magnificent white marble structure is located at the heart of Paris's La Défense business district, perfectly aligned with the historical axis from the Louvre to the Arc de Triomphe. The Grande Arche is not just an architectural masterpiece but also features an observation deck offering visitors 360-degree panoramic views of Paris."
+  },
+  "recommendations": {
+    "title": "Discover More",
+    "attractionsTitle": "Nearby Attractions",
+    "toursTitle": "Recommended Tours & Activities",
+    "attractions": [
+      {"name": "Arc de Triomphe", "url": "https://www.paris.fr/"},
+      {"name": "Champs-Élysées", "url": "https://www.paris.fr/"},
+      {"name": "Louvre Museum", "url": "https://www.louvre.fr/"},
+      {"name": "La Défense Business District", "url": "https://www.ladefense.fr/"}
+    ],
+    "tours": [
+      {"name": "Paris Historical Axis Walking Tour", "url": "https://www.visitparisregion.com/"},
+      {"name": "La Défense Modern Architecture Tour", "url": "https://www.visitparisregion.com/"},
+      {"name": "Paris Panoramic Day Tour", "url": "https://www.visitparisregion.com/"},
+      {"name": "Seine River Cruise & City Sightseeing", "url": "https://www.visitparisregion.com/"}
+    ]
+  }
+}

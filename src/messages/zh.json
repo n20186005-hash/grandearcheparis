@@ -1,0 +1,336 @@
+{
+  "meta": {
+    "title": "拉德芳斯大拱门 | The Great Arch of the Defense - 巴黎标志性现代建筑",
+    "description": "探索拉德芳斯大拱门（La Grande Arche de la Defense）的完整指南。了解这座宏伟的现代凯旋门的历史、建筑和参观信息。"
+  },
+  "header": {
+    "home": "首页",
+    "gallery": "图库",
+    "reviews": "评价",
+    "map": "地图",
+    "backToHome": "返回首页"
+  },
+  "hero": {
+    "title": "拉德芳斯大拱门",
+    "subtitle": "巴黎现代建筑的标志性与壮丽杰作",
+    "rating": "4.4(11,838)",
+    "reviewCount": "11,838 条评价",
+    "type": "现代建筑 · 文化地标 · 观景台",
+    "openMaps": "查看位置"
+  },
+  "intro": {
+    "title": "探索拉德芳斯大拱门",
+    "description": "拉德芳斯大拱门（La Grande Arche de la Defense），又称现代凯旋门，是法国最具标志性的现代建筑之一。由丹麦建筑师约翰·奥托·冯·斯普雷克森设计，于1989年竣工。这座壮丽的白色大理石建筑高110米，完美对齐了巴黎的历史轴线。大拱门不仅是建筑杰作，还设有观景台，游客可以360度俯瞰巴黎全景。",
+    "visitGuide": {
+      "title": "游览建议",
+      "items": [
+        "观景台开放时间：周二至周日 10:00-19:00",
+        "建议提前在线购票，避免排队",
+        "顶部观景台可360度俯瞰巴黎",
+        "结合拉德芳斯区现代建筑群一起游览",
+        "日落前参观可获得最佳拍照光线"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "建筑特色",
+      "items": [
+        "1989年竣工，纪念法国大革命200周年",
+        "丹麦建筑师约翰·奥托·冯·斯普雷克森设计",
+        "白色卡拉拉大理石和玻璃构造",
+        "完美对齐巴黎历史轴线",
+        "顶部观景台海拔110米"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "拉德芳斯大拱门的故事",
+    "sections": [
+      {
+        "id": "history",
+        "title": "历史与建造",
+        "content": "拉德芳斯大拱门的项目始于1982年，作为法国伟大工程计划的一部分。丹麦建筑师约翰·奥托·冯·斯普雷克森在1983年的国际设计竞赛中获胜。1989年7月14日，正值法国大革命200周年，大拱门正式揭幕。"
+      },
+      {
+        "id": "meaning",
+        "title": "建筑意义",
+        "content": "拉德芳斯大拱门不仅是一座建筑，更是一个象征。它代表了法国对未来的展望，同时保持对历史和传统的尊重。大拱门的选址具有深远意义，它位于巴黎历史轴线的西端。"
+      },
+      {
+        "id": "architecture",
+        "title": "建筑特点",
+        "content": "拉德芳斯大拱门是一个令人惊叹的工程壮举：高110米，宽110米，深110米。白色卡拉拉大理石、玻璃和钢材建造。顶部有露天观景台，可容纳数百人。"
+      },
+      {
+        "id": "designer",
+        "title": "关于建筑师",
+        "content": "约翰·奥托·冯·斯普雷克森是丹麦著名建筑师和设计师。他以极简主义和古典现代主义风格而闻名。遗憾的是，斯普雷克森于1987年去世，未能亲眼看到大拱门的竣工。"
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "基础信息",
+    "officialName": "正式名称",
+    "officialNameValue": "拉德芳斯大拱门（La Grande Arche de la Defense）",
+    "type": "景点类型",
+    "typeValue": "现代建筑、文化地标、观景台",
+    "country": "国家",
+    "countryValue": "法国",
+    "city": "城市",
+    "cityValue": "皮托，巴黎拉德芳斯区",
+    "googleRating": "谷歌评分",
+    "phone": "电话",
+    "phoneValue": "+33 1 49 07 27 57",
+    "address": "地址",
+    "addressValue": "1 Parv. de la Defense, 92800 Puteaux, France"
+  },
+  "hours": {
+    "title": "参观信息",
+    "park": "观景台开放时间",
+    "parkTime": "周二至周日：10:00-19:00，周一闭馆",
+    "bestTime": "最佳参观时间",
+    "bestTimeSpring": "春季：温和气候，适合参观和拍照",
+    "bestTimeSummer": "夏季：开放时间延长，日落时分景色壮丽",
+    "bestTimeAutumn": "秋季：晴朗天气多，视野清晰",
+    "bestTimeWinter": "冬季：游客较少，但需注意观景台可能受天气影响",
+    "tip": "建议提前在线购票"
+  },
+  "tickets": {
+    "title": "门票价格",
+    "park": "观景台门票",
+    "parkPrice": "成人：15欧元，优惠票：12欧元，18岁以下免费",
+    "parking": "停车信息",
+    "parkingPrice": "多个地下停车场，费用约3-5欧元/小时",
+    "guided": "导览游览",
+    "guidedPrice": "可提供导览服务，详情咨询官方网站"
+  },
+  "transport": {
+    "title": "交通方式",
+    "fromCenter": "从巴黎市中心出发",
+    "fromCenterDesc": "从凯旋门乘坐地铁1号线，在La Defense站下车，车程约10分钟。",
+    "fromStation": "从巴黎圣母院出发",
+    "fromStationDesc": "乘坐地铁4号线转1号线，在La Defense站下车，全程约30分钟。",
+    "publicTransport": "公共交通",
+    "publicTransportDesc": "地铁1号线终点站La Defense。RER A线La Defense站。公交多条线路。",
+    "walking": "周边游览",
+    "walkingDesc": "拉德芳斯区本身就是一个露天建筑博物馆。",
+    "driving": "自驾与停车",
+    "drivingDesc": "拉德芳斯区有多个地下停车场。"
+  },
+  "route": {
+    "title": "推荐游览路线",
+    "overview": "从凯旋门出发，乘坐地铁1号线到拉德芳斯大拱门，参观大拱门和观景台，然后探索拉德芳斯现代建筑区。",
+    "steps": [
+      "从凯旋门出发，乘坐地铁1号线",
+      "在La Defense站下车，跟随指示牌前往大拱门",
+      "参观大拱门底部，欣赏建筑的宏伟规模",
+      "乘电梯前往顶部观景台，俯瞰巴黎全景",
+      "在观景台上辨认巴黎的历史轴线",
+      "参观大拱门内的展览空间",
+      "走出大拱门，探索拉德芳斯区的其他现代建筑",
+      "在拉德芳斯的餐厅享用午餐或晚餐",
+      "乘坐地铁返回巴黎市中心"
+    ]
+  },
+  "photoSpots": {
+    "title": "拍照机位",
+    "spots": [
+      {
+        "name": "正前方广场",
+        "desc": "经典角度，展现大拱门的完整正面"
+      },
+      {
+        "name": "观景台俯拍",
+        "desc": "从顶部观景台俯拍拉德芳斯区"
+      },
+      {
+        "name": "侧面视角",
+        "desc": "侧面拍摄突出建筑的立方体形状"
+      },
+      {
+        "name": "历史轴线对齐",
+        "desc": "从大拱门内部向东拍摄"
+      },
+      {
+        "name": "夜景灯光",
+        "desc": "傍晚时分，大拱门亮灯后拍摄"
+      }
+    ]
+  },
+  "hotels": {
+    "title": "住宿建议",
+    "hotels": [
+      {
+        "name": "拉德芳斯美爵酒店",
+        "desc": "位于拉德芳斯区，现代化酒店，步行可达大拱门",
+        "price": "约120-180欧元/晚"
+      },
+      {
+        "name": "巴黎凯旋门万豪酒店",
+        "desc": "靠近凯旋门，便于前往大拱门",
+        "price": "约200-300欧元/晚"
+      },
+      {
+        "name": "巴黎拉德芳斯宜必思酒店",
+        "desc": "经济实惠的选择，位置便利",
+        "price": "约80-120欧元/晚"
+      },
+      {
+        "name": "拉德芳斯公寓式酒店",
+        "desc": "公寓式住宿，适合家庭或长期停留",
+        "price": "约100-150欧元/晚"
+      }
+    ]
+  },
+  "gallery": {
+    "title": "精彩照片",
+    "subtitle": "拉德芳斯大拱门 - 巴黎现代建筑杰作",
+    "captions": [
+      "大拱门正面全景",
+      "白色大理石细节",
+      "观景台视野",
+      "建筑几何美学",
+      "历史轴线对齐",
+      "夜景灯光",
+      "周边现代建筑",
+      "拉德芳斯广场"
+    ],
+    "viewAll": "在 Google Maps 查看位置",
+    "showAll": "查看全部照片",
+    "showLess": "收起照片"
+  },
+  "reviews": {
+    "title": "游客评价",
+    "declaration": "评价信息可透过 Google Maps 查看（外部链接）。",
+    "moreReviews": "在 Google Maps 查看更多评价",
+    "items": [
+      {
+        "name": "张明",
+        "date": "2026年5月",
+        "rating": 5,
+        "text": "令人震撼的现代建筑！从观景台可以看到整个巴黎的美景。"
+      },
+      {
+        "name": "Sophie Martin",
+        "date": "2026年4月",
+        "rating": 5,
+        "text": "A must-visit when in Paris! The architecture is breathtaking."
+      },
+      {
+        "name": "李华",
+        "date": "2026年3月",
+        "rating": 4,
+        "text": "建筑很壮观，观景台的视野确实很棒。"
+      },
+      {
+        "name": "Pierre Dubois",
+        "date": "2026年2月",
+        "rating": 5,
+        "text": "作为法国人，我认为这是现代法国最伟大的建筑之一。"
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "交通指南",
+    "subtitle": "1 Parv. de la Defense, 92800 Puteaux, France",
+    "openMaps": "在 Google Maps 查看"
+  },
+  "footer": {
+    "rights": "© 2026 拉德芳斯大拱门独立旅游研究协会 · 保留所有权利。",
+    "privacy": "隐私政策",
+    "terms": "服务条款",
+    "cookies": "Cookie 设置",
+    "officialResourcesTitle": "相关资源与资讯",
+    "officialLinks": {
+      "hautsDeSeine": "上塞纳省",
+      "ileDeFrance": "法兰西岛大区",
+      "cultureGouv": "法国文化",
+      "visitParisRegion": "法兰西岛大区旅游",
+      "servicePublic": "法国公共服务"
+    },
+    "disclaimer": "本网站是一个独立的第三方旅游资讯项目。"
+  },
+  "privacy": {
+    "title": "隐私政策",
+    "lastUpdated": "最后更新：2026年5月",
+    "sections": [
+      {
+        "heading": "1. 信息收集",
+        "content": "我们通常不会主动收集用户的个人可识别信息。"
+      },
+      {
+        "heading": "2. 信息使用",
+        "content": "我们收集的信息仅用于提供、维护和改进我们的服务。"
+      },
+      {
+        "heading": "3. Cookie 与追踪技术",
+        "content": "我们使用 Cookie 和类似的追踪技术来追踪我们网站上的活动。"
+      },
+      {
+        "heading": "4. 数据安全",
+        "content": "您数据的安全性对我们很重要。"
+      }
+    ]
+  },
+  "terms": {
+    "title": "服务条款",
+    "lastUpdated": "最后更新：2026年5月",
+    "sections": [
+      {
+        "heading": "1. 接受条款",
+        "content": "通过访问和使用本网站，您同意受这些服务条款的约束。"
+      },
+      {
+        "heading": "2. 服务使用",
+        "content": "本网站是一个独立的第三方旅游资讯项目。"
+      },
+      {
+        "heading": "3. 知识产权",
+        "content": "本网站上的所有内容均为网站所有者的财产。"
+      },
+      {
+        "heading": "4. 责任限制",
+        "content": "对于因使用或无法使用本网站而导致的损害，我们概不负责。"
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie 设置",
+    "description": "管理您的 Cookie 偏好设置。",
+    "essential": {
+      "title": "必要的 Cookie",
+      "description": "网站基本功能所需。",
+      "badge": "始终启用"
+    },
+    "analytics": {
+      "title": "分析 Cookie",
+      "description": "帮助我们了解访客如何与网站互动。"
+    },
+    "marketing": {
+      "title": "营销 Cookie",
+      "description": "用于跨网站追踪访客。"
+    },
+    "save": "保存设置",
+    "saved": "设置已保存！"
+  },
+  "officialManagement": {
+    "title": "关于拉德芳斯大拱门",
+    "text": "拉德芳斯大拱门是法国最具标志性的现代建筑之一，由丹麦建筑师约翰·奥托·冯·斯普雷克森设计，于1989年竣工。"
+  },
+  "recommendations": {
+    "title": "探索更多",
+    "attractionsTitle": "附近景点",
+    "toursTitle": "推荐行程与活动",
+    "attractions": [
+      {"name": "凯旋门", "url": "https://www.paris.fr/"},
+      {"name": "香榭丽舍大街", "url": "https://www.paris.fr/"},
+      {"name": "卢浮宫", "url": "https://www.louvre.fr/"},
+      {"name": "拉德芳斯商务区", "url": "https://www.ladefense.fr/"}
+    ],
+    "tours": [
+      {"name": "巴黎历史轴线徒步游", "url": "https://www.visitparisregion.com/"},
+      {"name": "拉德芳斯现代建筑导览", "url": "https://www.visitparisregion.com/"},
+      {"name": "巴黎全景一日游", "url": "https://www.visitparisregion.com/"},
+      {"name": "塞纳河游船与城市观光", "url": "https://www.visitparisregion.com/"}
+    ]
+  }
+}
