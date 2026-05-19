@@ -3,16 +3,10 @@
 import { useTranslations, useMessages } from 'next-intl';
 import { useState, useCallback } from 'react';
 
-const photos = [
-  { src: '/gallery/grandearcheparis (1).jpg', alt: '拉德芳斯大拱门正面' },
-  { src: '/gallery/grandearcheparis (2).jpg', alt: '白色大理石细节' },
-  { src: '/gallery/grandearcheparis (3).jpg', alt: '观景台视野' },
-  { src: '/gallery/grandearcheparis (4).jpg', alt: '建筑几何美学' },
-  { src: '/gallery/grandearcheparis (5).jpg', alt: '历史轴线对齐' },
-  { src: '/gallery/grandearcheparis (6).jpg', alt: '夜景灯光' },
-  { src: '/gallery/grandearcheparis (7).jpg', alt: '周边现代建筑' },
-  { src: '/gallery/grandearcheparis (8).jpg', alt: '拉德芳斯广场' },
-];
+const photos = Array.from({ length: 20 }, (_, i) => ({
+  src: `/gallery/grandearcheparis (${i + 1}).jpg`,
+  id: i + 1
+}));
 
 export default function Gallery() {
   const t = useTranslations('gallery');
@@ -49,7 +43,7 @@ export default function Gallery() {
               {(showAll ? photos : photos.slice(0, 8)).map((photo, i) => (
                 <div
                   key={i}
-                  className={`gallery-item relative group cursor-pointer ${i === 0 && !showAll ? 'col-span-2 row-span-2' : ''}`}
+                  className={`gallery-item relative group cursor-pointer ${i === 0 ? 'col-span-2 row-span-2' : ''}`}
                   onClick={() => {
                     setCurrentIndex(i);
                     openLightbox();
@@ -57,14 +51,14 @@ export default function Gallery() {
                 >
                   <img
                     src={photo.src}
-                    alt={photo.alt}
+                    alt={t('photoAlt', { id: photo.id })}
                     className="w-full h-full object-cover rounded-lg"
                     style={{ minHeight: i === 0 ? '400px' : '180px' }}
                     loading="lazy"
                   />
                   <div className="absolute inset-0 bg-black/0 group-hover:bg-black/30 transition-colors rounded-lg flex items-end">
                     <p className="text-white text-sm p-3 opacity-0 group-hover:opacity-100 transition-opacity">
-                      {photo.alt}
+                      {t('photoAlt', { id: photo.id })}
                     </p>
                   </div>
                 </div>
@@ -151,7 +145,7 @@ export default function Gallery() {
 
           <img
             src={photos[currentIndex].src}
-            alt={photos[currentIndex].alt}
+            alt={t('photoAlt', { id: photos[currentIndex].id })}
             className="max-w-[90vw] max-h-[85vh] object-contain rounded-lg"
             onClick={(e) => e.stopPropagation()}
           />

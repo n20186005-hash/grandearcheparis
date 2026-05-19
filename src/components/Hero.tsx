@@ -8,7 +8,7 @@ export default function Hero() {
       {/* Background image */}
       <div className="absolute inset-0">
         <img
-          src="/gallery/images (1).jpg"
+          src="/gallery/grandearcheparis (1).jpg"
           alt="The Great Arch of the Defense"
           className="w-full h-full object-cover"
         />

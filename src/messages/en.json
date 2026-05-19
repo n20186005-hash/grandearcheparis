@@ -13,8 +13,8 @@
   "hero": {
     "title": "The Great Arch of the Defense",
     "subtitle": "Iconic Modern Landmark & Architectural Masterpiece in Paris",
-    "rating": "4.4(11,838)",
-    "reviewCount": "11,838 reviews",
+    "rating": "4.4(11,839)",
+    "reviewCount": "11,839 reviews",
     "type": "Modern Architecture · Cultural Landmark · Observation Deck",
     "openMaps": "View Location"
   },
@@ -98,13 +98,15 @@
     "title": "Ticket Prices",
     "park": "Observation Deck Ticket",
     "parkPrice": "Adults: €15, Concession: €12, Under 18: Free",
-    "parking": "Parking Information",
-    "parkingPrice": "Multiple underground parking lots, approx. €3-5/hour",
+    "parking": "Nearby Parking",
+    "parkingPrice": "Centre-Grande Arche parking recommended, approx. €3-5/hour",
     "guided": "Guided Tours",
     "guidedPrice": "Available, check official website for details"
   },
   "transport": {
     "title": "How to Get Here",
+    "fromAirport": "From Charles de Gaulle Airport (CDG)",
+    "fromAirportDesc": "Take RER B to Châtelet-Les Halles, then transfer to RER A to La Défense. Total journey about 60 minutes.",
     "fromCenter": "From Paris City Center",
     "fromCenterDesc": "Take Metro Line 1 from Arc de Triomphe, get off at 'La Défense - Grande Arche' station. Journey takes about 10 minutes. This is the most convenient transport option.",
     "fromStation": "From Notre-Dame Cathedral",
@@ -161,24 +163,24 @@
     "title": "Accommodation",
     "hotels": [
       {
-        "name": "Mercure Paris La Défense",
-        "desc": "Located in La Défense district, modern hotel, walking distance to Grande Arche, about 10 minutes",
-        "price": "~€120-180/night"
+        "name": "Luxury Business Hotels",
+        "desc": "Located in the La Défense district, offering modern amenities and walking distance to the Grande Arche.",
+        "price": "~€150-300/night"
       },
       {
-        "name": "Paris Marriott Arc de Triomphe",
-        "desc": "Close to Arc de Triomphe, convenient for visiting Grande Arche, luxury hotel",
-        "price": "~€200-300/night"
+        "name": "Boutique Hotels",
+        "desc": "Often close to the Arc de Triomphe, offering elegant environments and easy access via Metro Line 1.",
+        "price": "~€200-400/night"
       },
       {
-        "name": "Ibis Paris La Défense",
-        "desc": "Budget-friendly option, convenient location, clean and comfortable",
-        "price": "~€80-120/night"
+        "name": "Economy Chain Hotels",
+        "desc": "Budget-friendly options with convenient locations, meeting basic accommodation needs.",
+        "price": "~€80-150/night"
       },
       {
-        "name": "Residhome Paris La Défense",
-        "desc": "Aparthotel, suitable for families or extended stays, equipped with kitchen facilities",
-        "price": "~€100-150/night"
+        "name": "Aparthotels",
+        "desc": "Equipped with kitchen facilities, spacious rooms suitable for families or extended stays.",
+        "price": "~€100-200/night"
       }
     ]
   },
@@ -197,7 +199,8 @@
     ],
     "viewAll": "View on Google Maps",
     "showAll": "View All Photos",
-    "showLess": "Show Less"
+    "showLess": "Show Less",
+    "photoAlt": "Photo of Grande Arche {id}"
   },
   "reviews": {
     "title": "Visitor Reviews",
