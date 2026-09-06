@@ -69,6 +69,16 @@ export default function CookieSettingsClient() {
 
   function handleSave() {
     localStorage.setItem('cookiePrefs', JSON.stringify({ analytics, marketing }));
+    // Push updated consent to GA4 (Consent Mode) if the tag is present.
+    try {
+      if (typeof window !== 'undefined' && (window as any).gtag) {
+        (window as any).gtag('consent', 'update', {
+          analytics_storage: analytics ? 'granted' : 'denied',
+          ad_storage: marketing ? 'granted' : 'denied',
+          personalization_storage: marketing ? 'granted' : 'denied',
+        });
+      }
+    } catch {}
     setSaved(true);
     setTimeout(() => setSaved(false), 2000);
   }

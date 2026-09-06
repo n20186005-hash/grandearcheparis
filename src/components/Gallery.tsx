@@ -104,7 +104,7 @@ export default function Gallery() {
                 </button>
               )}
               <a
-                href="https://maps.app.goo.gl/ecYggGUdsdVyrhJv5"
+                href="https://maps.app.goo.gl/D4CV9coWvF1NQY5DA"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-sm hover:underline"

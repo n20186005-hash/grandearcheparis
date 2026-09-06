@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "La Grande Arche de la Défense - Monument Moderne Emblématique à Paris",
-    "description": "Guide complet de La Grande Arche de la Défense à Paris. Découvrez cette architecture moderne emblématique, son histoire, sa conception et les informations de visite. Située dans le quartier d'affaires de La Défense."
+    "title": "La Grande Arche de la Défense (Puteaux) | Billets, Horaires & Guide",
+    "description": "Guide de La Grande Arche de la Défense à Puteaux, Hauts-de-Seine (92). Billets, horaires d'ouverture, accès Métro/RER, histoire et vue panoramique depuis le toit-terrasse."
   },
   "header": {
     "home": "Accueil",
@@ -13,10 +13,11 @@
   "hero": {
     "title": "La Grande Arche de la Défense",
     "subtitle": "Monument Moderne Emblématique & Chef-d'œuvre Architectural à Paris",
-    "rating": "4.4(11,839)",
-    "reviewCount": "11,839 avis",
+    "rating": "4.4(12,070)",
+    "reviewCount": "12,070 avis",
     "type": "Architecture Moderne · Monument Culturel · Pont d'Observation",
-    "openMaps": "Voir l'emplacement"
+    "openMaps": "Voir l'emplacement",
+    "imageAlt": "La Grande Arche de la Défense (The Great Arch of the Defense) vue principale à Puteaux, Hauts-de-Seine, France"
   },
   "intro": {
     "title": "Découvrez La Grande Arche de la Défense",
@@ -76,10 +77,14 @@
     "country": "Pays",
     "countryValue": "France",
     "city": "Ville",
-    "cityValue": "Puteaux, Quartier de Paris La Défense",
+    "cityValue": "Puteaux, Quartier de La Défense, Paris",
+    "department": "Département (Code)",
+    "departmentValue": "Hauts-de-Seine (92), Île-de-France",
     "googleRating": "Note Google",
     "phone": "Téléphone",
     "phoneValue": "+33 1 49 07 27 57",
+    "plusCode": "Plus Code",
+    "plusCodeValue": "V6VP+2C Puteaux, France",
     "address": "Adresse",
     "addressValue": "1 Parv. de la Défense, 92800 Puteaux, France"
   },
@@ -200,7 +205,7 @@
     "viewAll": "Voir sur Google Maps",
     "showAll": "Voir Toutes les Photos",
     "showLess": "Voir Moins",
-    "photoAlt": "Photo de la Grande Arche {id}"
+    "photoAlt": "La Grande Arche de la Défense à Puteaux, France – Photo {id}"
   },
   "reviews": {
     "title": "Avis des Visiteurs",
@@ -251,7 +256,8 @@
       "visitParisRegion": "Visiter la Région Paris",
       "servicePublic": "Services Publics Français"
     },
-    "disclaimer": "Ce site web est un projet d'information touristique tiers indépendant. Nous ne sommes pas affiliés au gouvernement local ou à toute autre institution officielle."
+    "disclaimer": "Ce site web est un projet d'information touristique tiers indépendant. Nous ne sommes pas affiliés au gouvernement local ou à toute autre institution officielle.",
+    "imageCredit": "Crédits photos : toutes les photographies présentées sur ce site appartiennent à leurs photographes et ayants droit respectifs."
   },
   "privacy": {
     "title": "Politique de Confidentialité",
@@ -319,5 +325,258 @@
   "officialManagement": {
     "title": "À propos de La Grande Arche de la Défense",
     "text": "La Grande Arche de la Défense est l'un des chefs-d'œuvre architecturaux modernes les plus emblématiques de France, conçu par l'architecte danois Johan Otto von Spreckelsen et achevé en 1989 pour commémorer le 200e anniversaire de la Révolution française.\n\nCette magnifique structure en marbre blanc est située au cœur du quartier d'affaires de La Défense à Paris, parfaitement alignée avec l'axe historique du Louvre à l'Arc de Triomphe. La Grande Arche n'est pas seulement un chef-d'œuvre architectural mais dispose également d'un pont d'observation offrant aux visiteurs des vues panoramiques à 360 degrés sur Paris."
+  },
+  "faq": {
+    "title": "Questions Fréquentes (FAQ)",
+    "subtitle": "Questions courantes sur La Grande Arche de la Défense — localisation, transports, billets et toit panoramique.",
+    "items": [
+      {
+        "q": "Où se trouve La Grande Arche de la Défense ?",
+        "a": "La Grande Arche de la Défense (The Great Arch of the Defense) se situe à Puteaux, dans le département des Hauts-de-Seine (92), à l'ouest de Paris. Adresse : 1 Parv. de la Défense, 92800 Puteaux, France."
+      },
+      {
+        "q": "Comment s'y rendre en transports en commun ?",
+        "a": "Prenez la ligne 1 du métro jusqu'à la station La Défense – Grande Arche ou le RER A jusqu'à La Défense. Depuis l'Arc de Triomphe, le trajet dure environ 10 minutes ; l'Arche se rejoint à pied depuis la station en traversant l'esplanade."
+      },
+      {
+        "q": "La Grande Arche est-elle le même monument que l'Arc de Triomphe ?",
+        "a": "Non. L'Arc de Triomphe (1836) se trouve place Charles-de-Gaulle, tandis que la Grande Arche est un cube évidé moderne de 110 mètres achevé en 1989. Les deux monuments marquent les extrémités de l'axe historique de Paris (Louvre – Champs-Élysées – Arc de Triomphe – La Défense)."
+      },
+      {
+        "q": "Quand et pourquoi la Grande Arche a-t-elle été construite ?",
+        "a": "La Grande Arche de la Défense a été conçue par l'architecte danois Johan Otto von Spreckelsen et inaugurée le 14 juillet 1989, pour le bicentenaire de la Révolution française."
+      },
+      {
+        "q": "Peut-on monter au sommet de la Grande Arche ?",
+        "a": "Le toit panoramique (Le Toit de la Grande Arche) est payant et ses horaires d'ouverture peuvent varier selon la saison ou les opérations de maintenance. Vérifiez les jours, horaires et disponibilités sur les canaux officiels avant votre visite."
+      },
+      {
+        "q": "La visite de la Grande Arche est-elle gratuite ?",
+        "a": "L'esplanade, la place publique et l'extérieur du monument sont gratuits. L'accès au toit panoramique et aux expositions intérieures est payant."
+      },
+      {
+        "q": "Que voit-on depuis le sommet ?",
+        "a": "Depuis la terrasse à 110 mètres, on profite d'un panorama à 360° sur le quartier d'affaires de La Défense, la vallée de la Seine et Neuilly-sur-Seine, avec au loin l'Arc de Triomphe, les Champs-Élysées et le Louvre le long de l'axe historique."
+      }
+    ]
+  },
+  "sources": {
+    "title": "Localisation, Références Officielles & Sources",
+    "intro": "Ce guide compile des informations provenant d'offices de tourisme officiels et de sources publiques pour vous aider à préparer votre visite de La Grande Arche de la Défense à Puteaux (Hauts-de-Seine), à l'ouest de Paris.",
+    "breadcrumb": "La Grande Arche de la Défense → Puteaux → Hauts-de-Seine (92) → Île-de-France → France",
+    "nearby": "La Grande Arche se trouve à l'extrémité ouest de l'axe historique de Paris, au cœur du quartier d'affaires de La Défense. L'esplanade voisine permet de visiter à pied le CNIT et Les Quatre Temps ; vers l'est, l'axe historique mène à l'Arc de Triomphe, aux Champs-Élysées et au Louvre. Puteaux, Neuilly-sur-Seine, Courbevoie et Suresnes bordent La Défense, ce qui permet de combiner facilement la visite avec une découverte des Hauts-de-Seine.",
+    "items": [
+      {
+        "label": "Visit Paris Region – comité régional du tourisme Paris Île-de-France",
+        "url": "https://www.visitparisregion.com/"
+      },
+      {
+        "label": "Département des Hauts-de-Seine (site officiel)",
+        "url": "https://www.hauts-de-seine.fr/"
+      },
+      {
+        "label": "France.fr – portail touristique officiel de la France",
+        "url": "https://www.france.fr/"
+      },
+      {
+        "label": "Google Maps – localisation du monument et avis récents",
+        "url": "https://maps.app.goo.gl/D4CV9coWvF1NQY5DA"
+      }
+    ],
+    "note": "Ce site est un projet d'information touristique tiers indépendant, sans affiliation avec les institutions officielles. Les billets, horaires et tarifs pouvant changer, merci de vérifier auprès des canaux officiels avant votre visite."
+  },
+  "facilities": {
+    "title": "Équipements sur place & conseils pratiques",
+    "subtitle": "Repères neutres, organisés par type d'équipement, pour les visiteurs en libre circulation comme pour les automobilistes — aucun établissement n'est recommandé.",
+    "cards": [
+      {
+        "icon": "wc",
+        "title": "Toilettes & soins bébé",
+        "text": "Des toilettes publiques sont généralement disponibles dans les grands bâtiments publics, halls de bureaux, centres commerciaux et stations de métro de La Défense, souvent gratuites ou à faible coût, avec fréquemment des sanitaires accessibles et des espaces à langer. Les couloirs de la gare sont pratiques lors d'une correspondance."
+      },
+      {
+        "icon": "parking",
+        "title": "Stationnement",
+        "text": "Le stationnement se concentre dans des parkings publics souterrains ou en silo payants, complétés par des places en voirie en courte durée. Les parcs-relais (P+R) près des gares conviennent bien à la formule « se garer puis prendre le métro ». Les places se raréfient le week-end et pendant les événements : arrivez tôt ou privilégiez les transports en commun."
+      },
+      {
+        "icon": "food",
+        "title": "Se restaurer",
+        "text": "L'offre va des bistrots et cafés aux boulangeries, cuisines rapides, plats à emporter des supermarchés et points de retrait de livraison. Pour un budget léger, pensez à la boulangerie ou au supermarché. Avant de vous installer, consultez la carte et les prix ; le service du déjeuner culmine vers 12h–14h et le dîner à partir de 19h."
+      },
+      {
+        "icon": "shopping",
+        "title": "Supermarchés & commerces utiles",
+        "text": "Supermarchés, supérettes et pharmacies se trouvent surtout dans les socles d'immeubles et les centres commerciaux, pratiques pour l'eau, les en-cas et les articles de première nécessité. Beaucoup ferment plus tôt le dimanche : vérifiez les horaires du jour de votre visite."
+      },
+      {
+        "icon": "fuel",
+        "title": "Carburant & recharge électrique",
+        "text": "Les automobilistes peuvent faire le plein dans les stations-service le long des grands axes ou dans les grands parkings. Les véhicules électriques peuvent se recharger sur les réseaux publics de recharge ou dans les parkings de centres commerciaux. Avant un long trajet retour, contrôlez le niveau de carburant ou de batterie ; types de chargeurs et tarifs sont indiqués sur place."
+      },
+      {
+        "icon": "stay",
+        "title": "Dormir dans le secteur",
+        "text": "Pour une nuit, privilégiez des catégories comme hôtels d'affaires, appart'hôtels et auberges à quelques minutes à pied du métro ligne 1 ou du RER A. Un tarif annulable est un choix prudent si vos plans évoluent. Voir aussi la section « Hébergement » ci-dessus pour un aperçu par type."
+      }
+    ],
+    "note": "Ce module recense des types d'équipements, à titre de référence neutre, sans recommander aucun établissement. Horaires, tarifs et disponibilités pouvant changer, renseignez-vous sur place."
+  },
+  "weather": {
+    "title": "Météo à La Défense",
+    "subtitle": "Conditions actuelles et prévisions à 7 jours pour Puteaux / La Défense, en heure locale.",
+    "updated": "Mis à jour",
+    "current": "Maintenant",
+    "feelsLike": "Ressenti",
+    "humidity": "Humidité",
+    "wind": "Vent",
+    "precip": "Risque de pluie",
+    "todayHigh": "Max aujourd'hui",
+    "todayLow": "Min aujourd'hui",
+    "disclaimer": "Les prévisions sont actualisées automatiquement et données à titre indicatif. Avant de partir, vérifiez toujours les conditions auprès du service météorologique officiel.",
+    "codes": {
+      "0": "Ciel dégagé",
+      "1": "Plutôt dégagé",
+      "2": "Partiellement nuageux",
+      "3": "Couvert",
+      "45": "Brouillard",
+      "48": "Brouillard givrant",
+      "51": "Bruine légère",
+      "53": "Bruine",
+      "55": "Bruine dense",
+      "56": "Bruine verglaçante",
+      "57": "Bruine verglaçante dense",
+      "61": "Pluie faible",
+      "63": "Pluie",
+      "65": "Pluie forte",
+      "66": "Pluie verglaçante",
+      "67": "Pluie verglaçante forte",
+      "71": "Neige faible",
+      "73": "Neige",
+      "75": "Neige forte",
+      "77": "Grains de neige",
+      "80": "Averses faibles",
+      "81": "Averses",
+      "82": "Averses violentes",
+      "85": "Averses de neige faibles",
+      "86": "Averses de neige fortes",
+      "95": "Orage",
+      "96": "Orage avec grêle",
+      "99": "Orage violent avec grêle"
+    },
+    "suggest": {
+      "dressLabel": "S'habiller",
+      "planLabel": "Organiser sa visite",
+      "gearLabel": "À glisser dans le sac",
+      "riskLabel": "Alerte météo",
+      "dress": {
+        "light": "Il fait chaud aujourd'hui — des vêtements légers et respirants sont conseillés",
+        "waterproof": "Il pleut ou cela s'annonce — pensez à une veste imperméable ou respirante",
+        "cool": "Températures fraîches — couvrez-vous bien",
+        "layer": "Écarts importants entre matin et soir — prévoyez une couche à enfiler ou retirer",
+        "windy": "Le vent souffle — chapeaux et écharpes peuvent s'envoler facilement",
+        "comfortable": "Temps doux — une tenue de saison classique suffit"
+      },
+      "plan": {
+        "sunny": "Le beau temps convient à la marche et à la vue depuis le toit — belle lumière pour les photos",
+        "cloudy": "Le ciel couvert ou nuageux adoucit la lumière — agréable pour une longue visite en extérieur",
+        "indoor": "Pluie probable — privilégiez galeries et boutiques couvertes, et gardez les photos pour une accalmie",
+        "hot": "Il fait plus chaud en milieu de journée — réservez les longues marches au matin ou en fin d'après-midi",
+        "snow": "Neige annoncée — les lieux couverts seront plus agréables et le belvédère peut fermer",
+        "comfortable": "Temps stable — visite extérieure et belvédère peuvent se faire normalement"
+      },
+      "items": {
+        "umbrella": "Parapluie pliant",
+        "raincoat": "Imperméable (évitez le grand parapluie par vent)",
+        "sunscreen": "Crème solaire",
+        "sunglasses": "Lunettes de soleil",
+        "hat": "Chapeau",
+        "water": "Eau à boire",
+        "warm": "Veste chaude ou écharpe"
+      },
+      "risks": {
+        "storm": "Risque d'orage : éloignez-vous des plateformes ouvertes ou surélevées pendant les épisodes orageux et reportez la visite du toit",
+        "heavyRain": "Pluie forte : les rues peuvent être inondées — évitez les zones basses",
+        "strongWind": "Alerte vent fort : en rafales, la sensation de vent est marquée sur le belvédère — tenez-vous à l'écart des palissades et structures provisoires",
+        "fog": "Alerte brouillard : visibilité réduite, les vues lointaines depuis le belvédère peuvent être limitées — ralentissez en marchant comme en voiture"
+      }
+    }
+  },
+  "stories": {
+    "title": "Histoire, légendes & chiffres clés",
+    "subtitle": "Comment un cube évidé bâti en dix ans a couronné la plus belle perspective urbaine du monde — avec les anecdotes, débats et chiffres qui l'entourent.",
+    "timelineLabel": "Dates clés",
+    "timeline": [
+      {
+        "year": "1982",
+        "text": "Le président François Mitterrand et l'établissement public d'aménagement de La Défense (EPAD) lancent le concours international « Tête Défense », pour offrir à l'axe historique un monument digne du XXe siècle."
+      },
+      {
+        "year": "1983",
+        "text": "Le projet de l'architecte danois Johan Otto von Spreckelsen — un immense cube évidé — est retenu parmi des centaines de propositions."
+      },
+      {
+        "year": "1985–86",
+        "text": "Le chantier démarre sur un site traversé par des routes, la voie ferrée et le RER. Des désaccords de budget et de calendrier poussent Spreckelsen à passer la main ; l'architecte français Paul Andreu prend la direction de l'achèvement."
+      },
+      {
+        "year": "1987",
+        "text": "Spreckelsen meurt sans voir le cube s'élever. L'équipe d'Andreu mène son concept jusqu'au bout."
+      },
+      {
+        "year": "14 juillet 1989",
+        "text": "L'Arche est inaugurée le jour du bicentenaire de la Révolution sous le nom de « Grande Arche de la Fraternité », alors que les chefs d'État se réunissent à Paris pour le sommet du G7."
+      },
+      {
+        "year": "Années 1990 – aujourd'hui",
+        "text": "Les tours se remplissent de bureaux, l'esplanade devient l'une des plus grandes places piétonnes d'Europe, et le toit est aménagé en belvédère et espace d'exposition connu sous le nom de « Le Toit »."
+      }
+    ],
+    "storiesLabel": "Histoires & légendes",
+    "stories": [
+      {
+        "title": "Une fenêtre ouverte sur le monde",
+        "text": "Spreckelsen décrivait son cube non comme un arc, mais comme une « fenêtre ouverte sur le monde ». Depuis l'intérieur, regardez vers l'est : le Louvre, les Tuileries, les Champs-Élysées et l'Arc de Triomphe s'alignent dans le cadre."
+      },
+      {
+        "title": "Une légère torsion, presque volontaire",
+        "text": "La Grande Arche n'est pas exactement parallèle à l'axe historique : son axe s'écarte d'environ 6 degrés. Effet de perspective, contrainte des ouvrages ferroviaires souterrains ou les deux ? Le débat demeure. Quoi qu'il en soit, cette légère rotation donne du relief au cube lorsqu'on l'approche depuis les Champs-Élysées."
+      },
+      {
+        "title": "Un cube assez haut pour Notre-Dame",
+        "text": "L'ouverture de l'Arche mesure environ 110 mètres de haut et traverse toute la largeur du cube — assez grande pour que la cathédrale Notre-Dame puisse s'y dresser."
+      },
+      {
+        "title": "Un quartier qui « défend » Paris",
+        "text": "La Défense doit son nom à la statue « La Défense de Paris » (1883), commémorant la défense de la ville en 1870-71. Plus d'un siècle plus tard, le quartier garde toujours l'extrémité ouest du grand axe de la capitale."
+      }
+    ],
+    "factsLabel": "La Grande Arche en chiffres",
+    "facts": [
+      {
+        "value": "110 m",
+        "label": "de hauteur pour le cube évidé"
+      },
+      {
+        "value": "108 × 112 m",
+        "label": "largeur et profondeur de l'édifice"
+      },
+      {
+        "value": "≈ 110 m",
+        "label": "de hauteur sous l'arche — Notre-Dame y tiendrait"
+      },
+      {
+        "value": "6°",
+        "label": "d'écart entre l'axe de l'Arche et l'axe historique"
+      },
+      {
+        "value": "1989",
+        "label": "année d'inauguration, au bicentenaire de la Révolution"
+      },
+      {
+        "value": "≈ 8 km",
+        "label": "d'axe historique entre le Louvre et l'Arche"
+      }
+    ]
   }
 }

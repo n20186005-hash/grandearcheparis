@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "The Great Arch of the Defense | La Grande Arche - Iconic Modern Landmark in Paris",
-    "description": "Complete guide to The Great Arch of the Defense (La Grande Arche de la Défense) in Paris. Learn about this iconic modern architecture, its history, design, and visiting information. Located in La Défense business district."
+    "title": "The Great Arch of the Defense (Puteaux, Paris) | Visitor Guide & Tickets",
+    "description": "Guide to The Great Arch of the Defense (La Grande Arche de la Défense) in Puteaux, Hauts-de-Seine, Paris. Tickets, opening hours, Metro/RER access, history and rooftop 360° views."
   },
   "header": {
     "home": "Home",
@@ -13,10 +13,11 @@
   "hero": {
     "title": "The Great Arch of the Defense",
     "subtitle": "Iconic Modern Landmark & Architectural Masterpiece in Paris",
-    "rating": "4.4(11,839)",
-    "reviewCount": "11,839 reviews",
+    "rating": "4.4(12,070)",
+    "reviewCount": "12,070 reviews",
     "type": "Modern Architecture · Cultural Landmark · Observation Deck",
-    "openMaps": "View Location"
+    "openMaps": "View Location",
+    "imageAlt": "The Great Arch of the Defense (La Grande Arche de la Défense) main view in Puteaux, Hauts-de-Seine, France"
   },
   "intro": {
     "title": "Discover The Great Arch of the Defense",
@@ -76,10 +77,14 @@
     "country": "Country",
     "countryValue": "France",
     "city": "City",
-    "cityValue": "Puteaux, Paris La Défense district",
+    "cityValue": "Puteaux, La Défense district, Paris",
+    "department": "Department (Code)",
+    "departmentValue": "Hauts-de-Seine (92), Île-de-France",
     "googleRating": "Google Rating",
     "phone": "Phone",
     "phoneValue": "+33 1 49 07 27 57",
+    "plusCode": "Plus Code",
+    "plusCodeValue": "V6VP+2C Puteaux, France",
     "address": "Address",
     "addressValue": "1 Parv. de la Défense, 92800 Puteaux, France"
   },
@@ -200,7 +205,7 @@
     "viewAll": "View on Google Maps",
     "showAll": "View All Photos",
     "showLess": "Show Less",
-    "photoAlt": "Photo of Grande Arche {id}"
+    "photoAlt": "La Grande Arche de la Défense in Puteaux, France – Photo {id}"
   },
   "reviews": {
     "title": "Visitor Reviews",
@@ -251,7 +256,8 @@
       "visitParisRegion": "Visit Paris Region",
       "servicePublic": "French Public Services"
     },
-    "disclaimer": "This website is an independent third-party tourist information project. We are not affiliated with the local government or any other official institutions."
+    "disclaimer": "This website is an independent third-party tourist information project. We are not affiliated with the local government or any other official institutions.",
+    "imageCredit": "Image credits: all photographs displayed on this website belong to their original photographers and respective rights holders."
   },
   "privacy": {
     "title": "Privacy Policy",
@@ -319,5 +325,258 @@
   "officialManagement": {
     "title": "About The Great Arch of the Defense",
     "text": "The Great Arch of the Defense (La Grande Arche de la Défense) is one of France's most iconic modern architectural masterpieces, designed by Danish architect Johan Otto von Spreckelsen and completed in 1989 to commemorate the 200th anniversary of the French Revolution.\n\nThis magnificent white marble structure is located at the heart of Paris's La Défense business district, perfectly aligned with the historical axis from the Louvre to the Arc de Triomphe. The Grande Arche is not just an architectural masterpiece but also features an observation deck offering visitors 360-degree panoramic views of Paris."
+  },
+  "faq": {
+    "title": "Frequently Asked Questions (FAQ)",
+    "subtitle": "Common questions about The Great Arch of the Defense — location, transport, tickets and the observation deck.",
+    "items": [
+      {
+        "q": "Where is The Great Arch of the Defense located?",
+        "a": "The Great Arch of the Defense (La Grande Arche de la Défense) stands in Puteaux, in the Hauts-de-Seine department (92), on the western edge of Paris. Address: 1 Parv. de la Défense, 92800 Puteaux, France."
+      },
+      {
+        "q": "How do I get to the Grande Arche de la Défense by public transport?",
+        "a": "Take Métro line 1 to the La Défense – Grande Arche station, or RER A to La Défense. From the Arc de Triomphe the journey takes about 10 minutes; the Arche is a short walk from the station across the esplanade."
+      },
+      {
+        "q": "Is the Grande Arche the same as the Arc de Triomphe?",
+        "a": "No. The Arc de Triomphe (1836) is the 19th-century arch at Place Charles de Gaulle, while the Grande Arche is a modern 110-metre hollow cube completed in 1989. Both mark the ends of Paris's historic axis (Louvre – Champs-Élysées – Arc de Triomphe – La Défense)."
+      },
+      {
+        "q": "When and why was the Grande Arche built?",
+        "a": "The Grande Arche de la Défense was designed by Danish architect Johan Otto von Spreckelsen and inaugurated on 14 July 1989, on the 200th anniversary of the French Revolution."
+      },
+      {
+        "q": "Can you go up to the top of the Grande Arche?",
+        "a": "The rooftop observation deck (Le Toit de la Grande Arche) is ticketed and its opening schedule may change by season or for maintenance. Please confirm current opening days, hours and ticket availability on official channels before your visit."
+      },
+      {
+        "q": "Is visiting the Grande Arche free?",
+        "a": "The public esplanade, the La Défense plaza and the monument's exterior are free to view. Access to the rooftop observation deck and the exhibitions inside is charged."
+      },
+      {
+        "q": "What can you see from the top of the Grande Arche?",
+        "a": "From the 110-metre-high terrace you get a 360° panorama over the La Défense business district, the Seine valley and Neuilly-sur-Seine, with the Arc de Triomphe, the Champs-Élysées and the Louvre aligned along the historic axis to the east."
+      }
+    ]
+  },
+  "sources": {
+    "title": "Location, Official References & Sources",
+    "intro": "This guide compiles information from official tourist boards and public sources to help you plan your visit to The Great Arch of the Defense in Puteaux (Hauts-de-Seine), on the western edge of Paris.",
+    "breadcrumb": "La Grande Arche de la Défense → Puteaux → Hauts-de-Seine (92) → Île-de-France → France",
+    "nearby": "The Great Arch stands at the western end of Paris's historic axis and at the centre of the La Défense business district. A short walk across the esplanade takes you to the CNIT and Les Quatre Temps; looking east along the axis you can see the Arc de Triomphe, the Champs-Élysées and the Louvre. Puteaux, Neuilly-sur-Seine, Courbevoie and Suresnes all border La Défense, making the district easy to combine with a wider visit to Hauts-de-Seine.",
+    "items": [
+      {
+        "label": "Visit Paris Region – official Paris Region tourist board",
+        "url": "https://www.visitparisregion.com/"
+      },
+      {
+        "label": "Hauts-de-Seine department (official website)",
+        "url": "https://www.hauts-de-seine.fr/"
+      },
+      {
+        "label": "France.fr – official French tourism portal",
+        "url": "https://www.france.fr/"
+      },
+      {
+        "label": "Google Maps – monument location and latest reviews",
+        "url": "https://maps.app.goo.gl/D4CV9coWvF1NQY5DA"
+      }
+    ],
+    "note": "This website is an independent third-party tourist information project and is not affiliated with any official institution. Ticket prices, opening hours and other details may change, so always check official channels before your visit."
+  },
+  "facilities": {
+    "title": "On-Site Facilities & Practical Tips",
+    "subtitle": "Neutral, category-based guidance for self-guided and driving visitors — no specific venues are recommended.",
+    "cards": [
+      {
+        "icon": "wc",
+        "title": "Toilets & Baby Care",
+        "text": "Public restrooms are usually available in large public buildings, office lobbies, shopping centres and Metro stations around La Défense, often free or low-cost and frequently with accessible and baby-changing facilities. Station concourses are a convenient stop when transferring between lines."
+      },
+      {
+        "icon": "parking",
+        "title": "Parking",
+        "text": "Parking nearby is dominated by paid underground or multi-storey public car parks, plus short-stay on-street bays. Park-and-ride (P+R) lots beside stations suit the 'park here, take the Metro' pattern. Spaces tighten on weekends and during events, so arrive early or use public transport."
+      },
+      {
+        "icon": "food",
+        "title": "Food & Drink",
+        "text": "Options range from bistros and cafés to bakeries, quick-service kitchens, supermarket grab-and-go and delivery pick-up points. For a lighter budget, consider a bakery or supermarket meal. If you sit down to eat, check the menu and prices first — French lunch service peaks around 12:00–14:00 and dinner from 19:00."
+      },
+      {
+        "icon": "shopping",
+        "title": "Supermarkets & Everyday Shops",
+        "text": "Supermarkets, convenience stores and pharmacies sit mostly in building podiums and shopping malls — handy for water, snacks and essentials. Many close earlier on Sundays and some public holidays, so check opening hours for the day you plan to visit."
+      },
+      {
+        "icon": "fuel",
+        "title": "Fuel & EV Charging",
+        "text": "Drivers can refuel at petrol stations along main roads or inside large car parks. Electric vehicles can charge at public charging networks or chargers inside shopping-centre car parks. Before a long return trip, check your fuel level or battery state; charger types and rates are displayed on site."
+      },
+      {
+        "icon": "stay",
+        "title": "Staying in the Area",
+        "text": "For overnight stays, look at categories such as business hotels, aparthotels and hostels within a short walk of Metro line 1 or RER A. Booking a refundable rate when plans may change is a sensible choice. See the Accommodation section above for more detail by type."
+      }
+    ],
+    "note": "This module lists facility types for neutral reference only and is not a recommendation of any specific venue. Opening hours, prices and availability may change — please check on site."
+  },
+  "weather": {
+    "title": "Weather at La Défense",
+    "subtitle": "Current conditions and 7-day forecast for Puteaux / La Défense, in local time.",
+    "updated": "Updated",
+    "current": "Now",
+    "feelsLike": "Feels like",
+    "humidity": "Humidity",
+    "wind": "Wind",
+    "precip": "Rain chance",
+    "todayHigh": "Today's high",
+    "todayLow": "Today's low",
+    "disclaimer": "Forecast data is updated automatically and is provided for guidance only. Always confirm conditions with the official meteorological service before you travel.",
+    "codes": {
+      "0": "Clear sky",
+      "1": "Mainly clear",
+      "2": "Partly cloudy",
+      "3": "Overcast",
+      "45": "Fog",
+      "48": "Rime fog",
+      "51": "Light drizzle",
+      "53": "Drizzle",
+      "55": "Dense drizzle",
+      "56": "Freezing drizzle",
+      "57": "Dense freezing drizzle",
+      "61": "Light rain",
+      "63": "Rain",
+      "65": "Heavy rain",
+      "66": "Freezing rain",
+      "67": "Heavy freezing rain",
+      "71": "Light snow",
+      "73": "Snow",
+      "75": "Heavy snow",
+      "77": "Snow grains",
+      "80": "Light rain showers",
+      "81": "Rain showers",
+      "82": "Heavy rain showers",
+      "85": "Light snow showers",
+      "86": "Heavy snow showers",
+      "95": "Thunderstorm",
+      "96": "Thunderstorm with hail",
+      "99": "Severe thunderstorm with hail"
+    },
+    "suggest": {
+      "dressLabel": "What to wear",
+      "planLabel": "Plan your day",
+      "gearLabel": "Pack list",
+      "riskLabel": "Weather alert",
+      "dress": {
+        "light": "Hot today — light, breathable clothing works best",
+        "waterproof": "Rain is falling or on the way — a waterproof jacket is a good idea",
+        "cool": "Chilly today — dress warmly",
+        "layer": "Big temperature swings between morning and evening — bring a layer you can take on and off",
+        "windy": "It is windy — hats and scarves can blow away easily",
+        "comfortable": "Mild conditions — your usual seasonal outfit is fine"
+      },
+      "plan": {
+        "sunny": "Clear skies suit walking and the rooftop view — great light for photos",
+        "cloudy": "Overcast or cloudy skies soften the light — comfortable for spending a long time outdoors",
+        "indoor": "Rain is likely — favour indoor galleries and shops, and save photos for a break in the rain",
+        "hot": "It turns hot around midday — plan long walks for early morning or late afternoon",
+        "snow": "Snow is forecast — indoor venues will be more comfortable and high viewing decks may close",
+        "comfortable": "Steady weather — outdoor sightseeing and the viewing deck are fine to go ahead"
+      },
+      "items": {
+        "umbrella": "Compact umbrella",
+        "raincoat": "Rain jacket (skip long umbrellas when windy)",
+        "sunscreen": "Sunscreen",
+        "sunglasses": "Sunglasses",
+        "hat": "Sun hat",
+        "water": "Drinking water",
+        "warm": "Warm layer or scarf"
+      },
+      "risks": {
+        "storm": "Thunderstorm risk: avoid open or high-level viewing areas during the storm and consider rescheduling the roof visit",
+        "heavyRain": "Heavy rain: streets can flood easily — keep clear of low-lying spots",
+        "strongWind": "Strong wind alert: gale-force winds make high viewing decks noticeably gusty — keep clear of hoardings and temporary structures",
+        "fog": "Fog alert: visibility is low, so distant views may be limited — slow down when walking or driving"
+      }
+    }
+  },
+  "stories": {
+    "title": "History, Stories & Fun Facts",
+    "subtitle": "How a hollow cube built in ten years crowned the world's grandest urban sightline — with the legends, debates and numbers behind it.",
+    "timelineLabel": "Key dates",
+    "timeline": [
+      {
+        "year": "1982",
+        "text": "French President François Mitterrand and the La Défense planning authority (EPAD) launch the 'Tête Défense' international competition, to give the historic axis a monument worthy of the 20th century."
+      },
+      {
+        "year": "1983",
+        "text": "Danish architect Johan Otto von Spreckelsen's entry — an immense hollow cube — is chosen from hundreds of submissions."
+      },
+      {
+        "year": "1985–86",
+        "text": "Construction begins on a site crossed by roads, rail and the RER. Differences over budget and schedule lead Spreckelsen to hand over the project; French architect Paul Andreu takes charge of the completion."
+      },
+      {
+        "year": "1987",
+        "text": "Spreckelsen dies without seeing the cube rise. Andreu's team carries his concept through to the very end."
+      },
+      {
+        "year": "14 July 1989",
+        "text": "The arch is inaugurated on the bicentenary of the French Revolution under the name 'Grande Arche de la Fraternité', as heads of state gather in Paris for the G7 summit."
+      },
+      {
+        "year": "1990s – today",
+        "text": "The towers fill with offices, the esplanade becomes one of Europe's largest pedestrian spaces, and the rooftop is developed into the panorama and exhibition deck known as 'Le Toit'."
+      }
+    ],
+    "storiesLabel": "Stories & legends",
+    "stories": [
+      {
+        "title": "A window open to the world",
+        "text": "Spreckelsen always described his cube not as an arch but as a 'window open to the world'. Stand inside and look east: the Louvre, the Tuileries, the Champs-Élysées and the Arc de Triomphe all line up in the frame."
+      },
+      {
+        "title": "A slight, deliberate twist",
+        "text": "The Grande Arche is not perfectly parallel to the historic axis — its own axis deviates by roughly 6 degrees. Whether this was a perspectival trick, a constraint of the underground railway works, or both, is still debated. Either way, the subtle rotation gives the cube real depth when approached from the Champs-Élysées."
+      },
+      {
+        "title": "A cube tall enough for Notre-Dame",
+        "text": "The hollow opening of the arch is about 110 metres high and spans the full width of the cube — big enough that Notre-Dame Cathedral could stand beneath it."
+      },
+      {
+        "title": "A district that 'defends' Paris",
+        "text": "La Défense takes its name from the statue 'La Défense de Paris' (1883), commemorating the city's defence in 1870–71. More than a century later, the district still guards the western end of the capital's great axis."
+      }
+    ],
+    "factsLabel": "The Grande Arche in figures",
+    "facts": [
+      {
+        "value": "110 m",
+        "label": "height of the hollow cube"
+      },
+      {
+        "value": "108 × 112 m",
+        "label": "width and depth of the structure"
+      },
+      {
+        "value": "≈ 110 m",
+        "label": "clear height of the opening — Notre-Dame would fit beneath"
+      },
+      {
+        "value": "6°",
+        "label": "deviation of the arch's axis from the historic axis"
+      },
+      {
+        "value": "1989",
+        "label": "year of inauguration, on the Revolution's bicentenary"
+      },
+      {
+        "value": "≈ 8 km",
+        "label": "historic axis from the Louvre to the Arch"
+      }
+    ]
   }
 }

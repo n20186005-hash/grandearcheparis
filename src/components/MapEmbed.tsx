@@ -25,21 +25,21 @@ export default function MapEmbed() {
             This is for visual cleanliness only. Google's Terms of Service apply.
           */}
           <iframe
-            src="https://maps.google.com/maps?q=La+Grande+Arche+de+la+Défense,+92800+Puteaux,+France&output=embed"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3589.8166824398263!2d2.2361120999999997!3d48.8925978!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e66502128aae1f%3A0x9dce86817f537c!2sThe%20Great%20Arch%20of%20the%20Defense!5e1!3m2!1sen!2s!4v1788694778873!5m2!1sen!2s"
             width="100%"
             height="450"
             style={{ border: 0 }}
             allowFullScreen
             loading="lazy"
-            referrerPolicy="no-referrer-when-downgrade"
-            title="Google Maps - The Great Arch of the Defense"
+            referrerPolicy="strict-origin-when-cross-origin"
+            title="Google Maps - The Great Arch of the Defense, Puteaux, France"
           />
         </div>
 
         {/* Open in Google Maps */}
         <div className="mt-6 flex justify-center">
           <a
-            href="https://maps.app.goo.gl/ecYggGUdsdVyrhJv5"
+            href="https://maps.app.goo.gl/D4CV9coWvF1NQY5DA"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 px-5 py-2.5 rounded-full text-sm font-medium text-white transition-colors"

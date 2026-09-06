@@ -1,0 +1,26 @@
+{
+  "name": "The Great Arch of the Defense | La Grande Arche de la Défense",
+  "short_name": "Grande Arche",
+  "description": "Visitor guide to The Great Arch of the Defense (La Grande Arche de la Défense) in Puteaux, Paris — location, tickets, opening hours and rooftop views.",
+  "lang": "zh-CN",
+  "start_url": "/zh",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#faf8f4",
+  "theme_color": "#234830",
+  "categories": ["travel", "tourism"],
+  "icons": [
+    {
+      "src": "/icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
