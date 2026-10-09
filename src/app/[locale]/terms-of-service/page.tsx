@@ -11,7 +11,9 @@ export async function generateMetadata({
   const baseUrl = 'https://www.grandearcheparis.com';
   const zhUrl = `${baseUrl}/`;
   const enUrl = `${baseUrl}/en/terms-of-service`;
-  const selfUrl = locale === 'zh' ? zhUrl : enUrl;
+  const frUrl = enUrl.replace('/en/', '/fr/');
+  const esUrl = enUrl.replace('/en/', '/es/');
+  const selfUrl = locale === 'zh' ? zhUrl : locale === 'en' ? enUrl : locale === 'fr' ? frUrl : esUrl;
 
   return {
     alternates: {
@@ -19,6 +21,8 @@ export async function generateMetadata({
       languages: {
         'zh': zhUrl,
         'en': enUrl,
+        'fr': frUrl,
+        'es': esUrl,
         'x-default': zhUrl,
       },
     },

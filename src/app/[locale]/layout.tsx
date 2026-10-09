@@ -10,13 +10,14 @@ const MAPS_SHARE_URL = 'https://maps.app.goo.gl/D4CV9coWvF1NQY5DA';
 const TOURISM_OFFICIAL_URL = 'https://www.visitparisregion.com/';
 const HERO_IMAGE_URL = `${BASE_URL}/gallery/grandearcheparis%20(1).jpg`;
 
-const LOCALE_PATH: Record<string, string> = { zh: '/zh', en: '/en', fr: '/fr' };
-const HTML_LANG: Record<string, string> = { zh: 'zh-CN', en: 'en', fr: 'fr' };
-const OG_LOCALE: Record<string, string> = { zh: 'zh_CN', en: 'en_US', fr: 'fr_FR' };
+const LOCALE_PATH: Record<string, string> = { zh: '/zh', en: '/en', fr: '/fr', es: '/es' };
+const HTML_LANG: Record<string, string> = { zh: 'zh-CN', en: 'en', fr: 'fr', es: 'es' };
+const OG_LOCALE: Record<string, string> = { zh: 'zh_CN', en: 'en_US', fr: 'fr_FR', es: 'es_ES' };
 const SITE_NAME: Record<string, string> = {
   zh: '拉德芳斯大拱门 | The Great Arch of the Defense',
   en: 'The Great Arch of the Defense',
   fr: 'La Grande Arche de la Défense',
+  es: 'La Grande Arche de la Défense',
 };
 
 export function generateStaticParams() {
@@ -36,6 +37,7 @@ export async function generateMetadata({
   const zhUrl = `${BASE_URL}/zh`;
   const enUrl = `${BASE_URL}/en`;
   const frUrl = `${BASE_URL}/fr`;
+  const esUrl = `${BASE_URL}/es`;
   const selfUrl = `${BASE_URL}${localePath}`;
 
   return {
@@ -48,6 +50,7 @@ export async function generateMetadata({
         'zh': zhUrl,
         'en': enUrl,
         'fr': frUrl,
+        'es': esUrl,
         'x-default': zhUrl,
       },
     },
@@ -81,17 +84,23 @@ function entityAlternateNames(locale: string): string[] {
   if (locale === 'fr') {
     return ['La Grande Arche', 'The Great Arch of the Defense'];
   }
+  if (locale === 'es') {
+    return ['La Grande Arche de la Défense', 'Arco de la Defensa', 'The Great Arch of the Defense'];
+  }
   return ['The Great Arch of the Defense', 'La Grande Arche'];
 }
 
 function entityDescription(locale: string): string {
   if (locale === 'zh') {
-    return '拉德芳斯大拱门（The Great Arch of the Defense / Grande Arche de la Défense，又称新凯旋门）位于法国皮托（Puteaux，上塞纳省 92），是一座高 110 米的“中空”立方体钢石结构纪念碑，夜间亮灯，顶部可观 360° 巴黎全景。';
+    return '拉德芳斯大拱门（The Great Arch of the Defense / Grande Arche de la Défense，又称新凯旋门）位于法国皮托（Puteaux，上塞纳省 92），是一座高 110 米的“中空”立方体钢石结构纪念碑，夜间亮灯。屋顶平台自 2023 年起已对公众关闭，但纪念碑与拉德芳斯广场可从外部免费欣赏。';
   }
   if (locale === 'fr') {
-    return "La Grande Arche de la Défense (The Great Arch of the Defense) est un monument de 110 mètres d'acier et de pierre en forme de cube évidé, illuminé la nuit, situé à Puteaux (Hauts-de-Seine, 92) à l'ouest de Paris, avec un toit panoramique à 360°.";
+    return "La Grande Arche de la Défense (The Great Arch of the Defense) est un monument de 110 mètres d'acier et de pierre en forme de cube évidé, illuminé la nuit, situé à Puteaux (Hauts-de-Seine, 92) à l'ouest de Paris. La terrasse du toit est fermée au public depuis 2023, mais le monument et l'esplanade de La Défense restent libres d'être contemplés depuis l'extérieur.";
   }
-  return 'The Great Arch of the Defense (La Grande Arche de la Défense) is a 110-metre steel and stone monument shaped like a hollow cube, illuminated at night, standing in Puteaux (Hauts-de-Seine, 92) on the western edge of Paris.';
+  if (locale === 'es') {
+    return 'La Grande Arche de la Défense (The Great Arch of the Defense) es un monumento de 110 metros de acero y piedra con forma de cubo hueco, iluminado por la noche, situado en Puteaux (Hauts-de-Seine, 92) al oeste de París. La terraza de la azotea está cerrada al público desde 2023, pero el monumento y la explanada de La Défense se pueden admirar gratis desde el exterior.';
+  }
+  return 'The Great Arch of the Defense (La Grande Arche de la Défense) is a 110-metre steel and stone monument shaped like a hollow cube, illuminated at night, standing in Puteaux (Hauts-de-Seine, 92) on the western edge of Paris. The rooftop terrace has been closed to the public since 2023, but the monument and the La Défense esplanade are free to admire from outside.';
 }
 
 function buildAttractionLd(locale: string) {

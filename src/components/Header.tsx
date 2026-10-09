@@ -27,7 +27,7 @@ export default function Header() {
     >
       <div className="max-w-6xl mx-auto px-4 sm:px-6 h-16 flex items-center justify-between">
         <a href={`/${locale}`} className="font-display text-lg font-semibold tracking-tight" style={{ color: scrolled ? 'var(--text-primary)' : '#fff' }}>
-          {locale === 'zh' ? '拉德芳斯大拱门' : 'The Great Arch of the Defense'}
+          {locale === 'zh' ? '拉德芳斯大拱门' : locale === 'es' ? 'La Grande Arche de la Défense' : 'The Great Arch of the Defense'}
         </a>
 
         <nav className="hidden md:flex items-center gap-6">

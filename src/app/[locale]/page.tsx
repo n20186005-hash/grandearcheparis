@@ -19,6 +19,7 @@ import SourcesSection from '@/components/SourcesSection';
 import FacilitiesSection from '@/components/FacilitiesSection';
 import WeatherSection from '@/components/WeatherSection';
 import StoriesSection from '@/components/StoriesSection';
+import TopicLinks from '@/components/TopicLinks';
 
 export const revalidate = 900;
 
@@ -67,6 +68,7 @@ export default async function HomePage({
           items={messages.faq?.items ?? []}
         />
         <MapEmbed />
+        <TopicLinks locale={locale} />
         <SourcesSection
           title={messages.sources?.title ?? ''}
           intro={messages.sources?.intro}

@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "The Great Arch of the Defense (Puteaux, Paris) | Visitor Guide & Tickets",
-    "description": "Guide to The Great Arch of the Defense (La Grande Arche de la Défense) in Puteaux, Hauts-de-Seine, Paris. Tickets, opening hours, Metro/RER access, history and rooftop 360° views."
+    "title": "Grande Arche de la Défense, Paris | Visitor Guide & Access",
+    "description": "Explore Paris's Grande Arche de la Défense. Find directions, architecture facts, photo spots and the latest visitor information, including the rooftop closure."
   },
   "header": {
     "home": "Home",
@@ -13,23 +13,23 @@
   "hero": {
     "title": "The Great Arch of the Defense",
     "subtitle": "Iconic Modern Landmark & Architectural Masterpiece in Paris",
-    "rating": "4.4(12,070)",
-    "reviewCount": "12,070 reviews",
-    "type": "Modern Architecture · Cultural Landmark · Observation Deck",
+    "rating": "4.4(12,133)",
+    "reviewCount": "12,133 reviews",
+    "type": "Modern Architecture · Cultural Landmark · Public Monument",
     "openMaps": "View Location",
-    "imageAlt": "The Great Arch of the Defense (La Grande Arche de la Défense) main view in Puteaux, Hauts-de-Seine, France"
+    "imageAlt": "The Great Arch of the Defense (La Grande Arche de la Défense) main view"
   },
   "intro": {
     "title": "Discover The Great Arch of the Defense",
-    "description": "The Great Arch of the Defense (La Grande Arche de la Défense), also known as the 'Modern Arc de Triomphe', is one of France's most iconic modern architectural masterpieces. Designed by Danish architect Johan Otto von Spreckelsen, it was completed in 1989 to commemorate the 200th anniversary of the French Revolution.\n\nThis magnificent white marble structure stands 110 meters high, 110 meters wide, and 110 meters deep, forming a massive cubic 'arch'. It perfectly aligns with Paris's historical axis—from the Louvre Pyramid, through the Champs-Élysées, to the Arc de Triomphe, and finally to La Grande Arche.\n\nThe Arche is not just an architectural masterpiece but also a multifunctional space containing office areas, exhibition spaces, and an observation deck at the top. From the deck, visitors can enjoy 360-degree panoramic views of Paris, including the iconic historical axis.\n\nAs the centerpiece of the La Défense business district, this monument symbolizes France's modernization and vision for the future while maintaining respect for history and tradition.",
+    "description": "The Great Arch of the Defense (La Grande Arche de la Défense), also known as the 'Modern Arc de Triomphe', is one of France's most iconic modern architectural masterpieces. Designed by Danish architect Johan Otto von Spreckelsen, it was completed in 1989 to commemorate the 200th anniversary of the French Revolution.\n\nThis magnificent white marble structure stands 110 meters high, 110 meters wide, and 110 meters deep, forming a massive cubic 'arch'. It perfectly aligns with Paris's historical axis—from the Louvre Pyramid, through the Champs-Élysées, to the Arc de Triomphe, and finally to La Grande Arche.\n\nThe Arche is a multifunctional building with office areas and the vast La Défense esplanade at its base. Its hollow frame opens like a giant 'window' onto the historic axis, and the monument together with the surrounding plaza is free to admire from the outside.\n\nAs the centerpiece of the La Défense business district, this monument symbolizes France's modernization and vision for the future while maintaining respect for history and tradition.",
     "visitGuide": {
       "title": "Visit Tips",
       "items": [
-        "Observation deck hours: Tuesday-Sunday 10:00-19:00 (extended to 20:00 in summer)",
-        "Book tickets online in advance to avoid queues",
-        "Top observation deck offers 360-degree views of Paris, best on clear days",
-        "Combine with a tour of La Défense's modern architecture cluster",
-        "Visit before sunset for the best lighting for photos"
+        "The rooftop observation deck has been permanently closed to the public since April 2023",
+        "Admire the Arche and the esplanade for free from the outside",
+        "The hollow frame lines up the Arc de Triomphe and the Champs-Élysées along the historic axis",
+        "Combine with a walk through La Défense's modern architecture cluster",
+        "Visit around sunset for the best light on the white marble facade"
       ]
     },
     "alsoKnownAs": {
@@ -39,7 +39,7 @@
         "Designed by Danish architect Johan Otto von Spreckelsen",
         "White Carrara marble and glass construction, weighing 300,000 tons",
         "Perfectly aligned with Paris's historical axis (Louvre-Champs-Élysées-Arc de Triomphe)",
-        "Top observation deck at 110m altitude, offering panoramic Paris views"
+        "The 110-metre hollow cube frames the historic axis like a giant 'window to the world'"
       ]
     }
   },
@@ -59,7 +59,7 @@
       {
         "id": "architecture",
         "title": "Architectural Features",
-        "content": "La Grande Arche is an astounding engineering feat:\n\n1. Dimensions: 110m high, 110m wide, 110m deep—a perfect cube\n2. Materials: White Carrara marble, glass, and steel\n3. Weight: Approximately 300,000 tons\n4. Design: Hollow cube forming a 'gate' shape\n5. Observation deck: Open-air deck at the top, accommodating hundreds\n\nThe north and south wings of the building are enclosed office spaces, while the east and west faces are open 'arches'. This design is both functional and rich in symbolism."
+        "content": "La Grande Arche is an astounding engineering feat:\n\n1. Dimensions: 110m high, 110m wide, 110m deep—a perfect cube\n2. Materials: White Carrara marble, glass, and steel\n3. Weight: Approximately 300,000 tons\n4. Design: Hollow cube forming a 'gate' shape\n5. Rooftop terrace: 'Le Toit' once offered open-air panoramic visits at the top, but has been closed to the public since 2023\n\nThe north and south wings of the building are enclosed office spaces, while the east and west faces are open 'arches'. This design is both functional and rich in symbolism."
       },
       {
         "id": "designer",
@@ -73,7 +73,7 @@
     "officialName": "Official Name",
     "officialNameValue": "La Grande Arche de la Défense",
     "type": "Attraction Type",
-    "typeValue": "Modern Architecture, Cultural Landmark, Observation Deck",
+    "typeValue": "Modern Architecture, Cultural Landmark, Public Monument",
     "country": "Country",
     "countryValue": "France",
     "city": "City",
@@ -90,19 +90,19 @@
   },
   "hours": {
     "title": "Visiting Information",
-    "park": "Observation Deck Hours",
-    "parkTime": "Tuesday-Sunday: 10:00-19:00 (until 20:00 in summer), Closed on Mondays",
+    "park": "Rooftop Observation Deck",
+    "parkTime": "Permanently closed to the public since April 2023",
     "bestTime": "Best Time to Visit",
-    "bestTimeSpring": "Spring (April-June): Mild climate, ideal for visits and photos",
-    "bestTimeSummer": "Summer (July-August): Extended hours, spectacular sunset views",
-    "bestTimeAutumn": "Autumn (September-October): Many clear days, clear views",
-    "bestTimeWinter": "Winter (November-March): Fewer tourists, but note weather may affect observation deck",
-    "tip": "Book tickets online in advance and choose clear weather for the best views"
+    "bestTimeSpring": "Spring (April-June): Mild climate, ideal for exterior photos",
+    "bestTimeSummer": "Summer (July-August): Long evenings, spectacular sunset light on the facade",
+    "bestTimeAutumn": "Autumn (September-October): Many clear days, clear views along the axis",
+    "bestTimeWinter": "Winter (November-March): Fewer tourists, crisp light for photos of the exterior",
+    "tip": "The monument's exterior and the La Défense esplanade are free to visit; the rooftop is closed, so no ticket is needed."
   },
   "tickets": {
-    "title": "Ticket Prices",
-    "park": "Observation Deck Ticket",
-    "parkPrice": "Adults: €15, Concession: €12, Under 18: Free",
+    "title": "Tickets & Entry",
+    "park": "Rooftop & Tickets",
+    "parkPrice": "The rooftop is closed and no tickets are sold. The monument and esplanade are free to view from outside.",
     "parking": "Nearby Parking",
     "parkingPrice": "Centre-Grande Arche parking recommended, approx. €3-5/hour",
     "guided": "Guided Tours",
@@ -125,18 +125,16 @@
   },
   "route": {
     "title": "Recommended Itinerary",
-    "overview": "Start from Arc de Triomphe, take Metro Line 1 to La Grande Arche (10 minutes), visit the Arche and observation deck (1.5 hours), enjoy panoramic views of Paris from the top, then explore La Défense modern architecture district (1 hour). Total trip takes about half a day.",
+    "overview": "Start from Arc de Triomphe, take Metro Line 1 to La Défense – Grande Arche (10 minutes), admire the Arche and the esplanade (1 hour), frame the historic axis through its hollow opening, then explore La Défense modern architecture district (1 hour). Total trip takes about half a day.",
     "steps": [
       "Start at Arc de Triomphe, take Metro Line 1 at 'Charles de Gaulle - Étoile' station",
       "Get off at 'La Défense - Grande Arche' station, follow signs to the Grande Arche",
-      "Visit the base of the Arche, admire the monumental scale and white marble facade",
-      "Take the elevator to the top observation deck, enjoy 360-degree panoramic views of Paris",
-      "From the deck, identify Paris's historical axis: Arc de Triomphe, Champs-Élysées, Louvre",
-      "Visit exhibition spaces inside the Arche (if available)",
-      "Exit the Arche, explore other modern buildings in La Défense district",
-      "Visit the nearby 'Le Delta' and La Défense Plaza",
+      "Walk across the esplanade to the base of the Arche, admire the monumental scale and white marble facade",
+      "Look east through the hollow frame to spot the Arc de Triomphe, the Champs-Élysées and the Louvre along the historic axis",
+      "Explore the surrounding La Défense plaza and its modern buildings",
+      "Visit the nearby CNIT and Les Quatre Temps shopping centre",
       "Choose from numerous restaurants in La Défense for lunch or dinner",
-      "Take the Metro back to Paris city center, or enjoy the night view of the Arche at dusk"
+      "Take the Metro back to Paris city center, or enjoy the lit-up Arche at dusk"
     ]
   },
   "photoSpots": {
@@ -147,8 +145,8 @@
         "desc": "Classic angle showing the full front view and monumental scale of the Arche"
       },
       {
-        "name": "Observation Deck Overhead",
-        "desc": "Overhead shot from the top deck capturing La Défense district and distant Paris skyline"
+        "name": "Esplanade Wide Shot",
+        "desc": "Wide-angle view from the forecourt capturing the full white marble facade and the cube's scale"
       },
       {
         "name": "Side View",
@@ -195,7 +193,7 @@
     "captions": [
       "Full Front View of the Arche",
       "White Marble Details",
-      "Observation Deck Views",
+      "Esplanade & Skyline",
       "Architectural Geometry",
       "Historical Axis Alignment",
       "Night Lighting",
@@ -211,36 +209,11 @@
     "title": "Visitor Reviews",
     "declaration": "Visitor feedback can be viewed via Google Maps (external link).",
     "moreReviews": "View more reviews on Google Maps",
-    "items": [
-      {
-        "name": "Zhang Ming",
-        "date": "May 2026",
-        "rating": 5,
-        "text": "Absolutely stunning modern architecture! The view from the observation deck overlooking all of Paris is incredible, especially the historical axis. Highly recommended!"
-      },
-      {
-        "name": "Sophie Martin",
-        "date": "April 2026",
-        "rating": 5,
-        "text": "A must-visit when in Paris! The architecture is breathtaking and the view from the top is unparalleled. Worth every euro of the ticket price."
-      },
-      {
-        "name": "Li Hua",
-        "date": "March 2026",
-        "rating": 4,
-        "text": "The architecture is spectacular and the view from the observation deck is truly amazing. However, tickets are a bit expensive. Recommend buying online in advance to save some money."
-      },
-      {
-        "name": "Pierre Dubois",
-        "date": "February 2026",
-        "rating": 5,
-        "text": "As a French person, I consider this one of the greatest modern architectural achievements in France. It perfectly connects history and the future. The view from the deck overlooking all of Paris is absolutely not to be missed!"
-      }
-    ]
+    "items": []
   },
   "mapSection": {
     "title": "How to Get Here",
-    "subtitle": "1 Parv. de la Défense, 92800 Puteaux, France",
+    "subtitle": "Métro line 1 / RER A, plus walking and driving directions",
     "openMaps": "View on Google Maps"
   },
   "footer": {
@@ -324,15 +297,15 @@
   },
   "officialManagement": {
     "title": "About The Great Arch of the Defense",
-    "text": "The Great Arch of the Defense (La Grande Arche de la Défense) is one of France's most iconic modern architectural masterpieces, designed by Danish architect Johan Otto von Spreckelsen and completed in 1989 to commemorate the 200th anniversary of the French Revolution.\n\nThis magnificent white marble structure is located at the heart of Paris's La Défense business district, perfectly aligned with the historical axis from the Louvre to the Arc de Triomphe. The Grande Arche is not just an architectural masterpiece but also features an observation deck offering visitors 360-degree panoramic views of Paris."
+    "text": "The Great Arch of the Defense (La Grande Arche de la Défense) is one of France's most iconic modern architectural masterpieces, designed by Danish architect Johan Otto von Spreckelsen and completed in 1989 to commemorate the 200th anniversary of the French Revolution.\n\nThis magnificent white marble structure stands at the heart of Paris's La Défense business district, perfectly aligned with the historical axis from the Louvre to the Arc de Triomphe. The rooftop terrace (Le Toit) has been closed to the public since 2023, but the monument and the surrounding esplanade remain free to admire from outside."
   },
   "faq": {
     "title": "Frequently Asked Questions (FAQ)",
-    "subtitle": "Common questions about The Great Arch of the Defense — location, transport, tickets and the observation deck.",
+    "subtitle": "Common questions about The Great Arch of the Defense — location, transport, visiting status and the observation deck.",
     "items": [
       {
         "q": "Where is The Great Arch of the Defense located?",
-        "a": "The Great Arch of the Defense (La Grande Arche de la Défense) stands in Puteaux, in the Hauts-de-Seine department (92), on the western edge of Paris. Address: 1 Parv. de la Défense, 92800 Puteaux, France."
+        "a": "The Great Arch of the Defense (La Grande Arche de la Défense) stands in Puteaux, in the Hauts-de-Seine department (92), on the western edge of Paris."
       },
       {
         "q": "How do I get to the Grande Arche de la Défense by public transport?",
@@ -347,16 +320,16 @@
         "a": "The Grande Arche de la Défense was designed by Danish architect Johan Otto von Spreckelsen and inaugurated on 14 July 1989, on the 200th anniversary of the French Revolution."
       },
       {
-        "q": "Can you go up to the top of the Grande Arche?",
-        "a": "The rooftop observation deck (Le Toit de la Grande Arche) is ticketed and its opening schedule may change by season or for maintenance. Please confirm current opening days, hours and ticket availability on official channels before your visit."
+        "q": "Is the rooftop observation deck open?",
+        "a": "No. The rooftop terrace (Le Toit de la Grande Arche) has been permanently closed to the public since April 2023. There are no ticketed visits or exhibitions at the top, and no timetable or tickets are available."
       },
       {
         "q": "Is visiting the Grande Arche free?",
-        "a": "The public esplanade, the La Défense plaza and the monument's exterior are free to view. Access to the rooftop observation deck and the exhibitions inside is charged."
+        "a": "The monument's exterior, the La Défense esplanade and the public plaza are free to view. As the rooftop is closed, there is nothing to pay for at the monument itself."
       },
       {
-        "q": "What can you see from the top of the Grande Arche?",
-        "a": "From the 110-metre-high terrace you get a 360° panorama over the La Défense business district, the Seine valley and Neuilly-sur-Seine, with the Arc de Triomphe, the Champs-Élysées and the Louvre aligned along the historic axis to the east."
+        "q": "What can you see from the Grande Arche?",
+        "a": "From the esplanade at the foot of the Arche you can see the hollow 'window' framing the historic axis to the east — the Arc de Triomphe, the Champs-Élysées and the Louvre — plus the La Défense skyline all around you."
       }
     ]
   },
@@ -383,7 +356,7 @@
         "url": "https://maps.app.goo.gl/D4CV9coWvF1NQY5DA"
       }
     ],
-    "note": "This website is an independent third-party tourist information project and is not affiliated with any official institution. Ticket prices, opening hours and other details may change, so always check official channels before your visit."
+    "note": "This website is an independent third-party tourist information project and is not affiliated with any official institution. As the rooftop is closed, always check official channels for the latest visitor information before your trip."
   },
   "facilities": {
     "title": "On-Site Facilities & Practical Tips",
@@ -478,12 +451,12 @@
         "comfortable": "Mild conditions — your usual seasonal outfit is fine"
       },
       "plan": {
-        "sunny": "Clear skies suit walking and the rooftop view — great light for photos",
+        "sunny": "Clear skies suit walking the esplanade and photographing the white marble Arch — great light for photos",
         "cloudy": "Overcast or cloudy skies soften the light — comfortable for spending a long time outdoors",
         "indoor": "Rain is likely — favour indoor galleries and shops, and save photos for a break in the rain",
         "hot": "It turns hot around midday — plan long walks for early morning or late afternoon",
-        "snow": "Snow is forecast — indoor venues will be more comfortable and high viewing decks may close",
-        "comfortable": "Steady weather — outdoor sightseeing and the viewing deck are fine to go ahead"
+        "snow": "Snow is forecast — the open esplanade can be slippery, so dress warmly and wear grippy shoes",
+        "comfortable": "Steady weather — outdoor sightseeing around the monument is fine to go ahead"
       },
       "items": {
         "umbrella": "Compact umbrella",
@@ -495,10 +468,10 @@
         "warm": "Warm layer or scarf"
       },
       "risks": {
-        "storm": "Thunderstorm risk: avoid open or high-level viewing areas during the storm and consider rescheduling the roof visit",
+        "storm": "Thunderstorm risk: avoid open or exposed areas during the storm and consider rescheduling outdoor plans",
         "heavyRain": "Heavy rain: streets can flood easily — keep clear of low-lying spots",
-        "strongWind": "Strong wind alert: gale-force winds make high viewing decks noticeably gusty — keep clear of hoardings and temporary structures",
-        "fog": "Fog alert: visibility is low, so distant views may be limited — slow down when walking or driving"
+        "strongWind": "Strong wind alert: gale-force gusts are noticeable across the open esplanade — hold onto hats, bags and lightweight items",
+        "fog": "Fog alert: visibility is low, so distant views along the axis may be limited — slow down when walking or driving"
       }
     }
   },
@@ -529,7 +502,7 @@
       },
       {
         "year": "1990s – today",
-        "text": "The towers fill with offices, the esplanade becomes one of Europe's largest pedestrian spaces, and the rooftop is developed into the panorama and exhibition deck known as 'Le Toit'."
+        "text": "The towers fill with offices, the esplanade becomes one of Europe's largest pedestrian spaces, and the rooftop is developed into the panorama and exhibition deck known as 'Le Toit' — now closed to the public since 2023."
       }
     ],
     "storiesLabel": "Stories & legends",

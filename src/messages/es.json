@@ -1,0 +1,555 @@
+{
+  "meta": {
+    "title": "La Grande Arche de la Défense, París | Guía de visita y acceso",
+    "description": "Explora La Grande Arche de la Défense en París. Encuentra direcciones, datos de arquitectura, puntos para fotos e información de visita actualizada, incluido el cierre de la terraza."
+  },
+  "header": {
+    "home": "Inicio",
+    "gallery": "Galería",
+    "reviews": "Opiniones",
+    "map": "Mapa",
+    "backToHome": "Volver al inicio"
+  },
+  "hero": {
+    "title": "La Grande Arche de la Défense",
+    "subtitle": "Icono de la arquitectura moderna y obra maestra en París",
+    "rating": "4.4(12,133)",
+    "reviewCount": "12.133 reseñas",
+    "type": "Arquitectura moderna · Hito cultural · Monumento público",
+    "openMaps": "Ver ubicación",
+    "imageAlt": "Vista principal de La Grande Arche de la Défense (The Great Arch of the Defense)"
+  },
+  "intro": {
+    "title": "Descubre La Grande Arche de la Defensa",
+    "description": "La Grande Arche de la Défense (La Grande Arche), también conocida como el Arco de Triunfo moderno, es una de las obras maestras arquitectónicas modernas más icónicas de Francia. Diseñada por el arquitecto danés Johan Otto von Spreckelsen, se completó en 1989 para conmemorar el bicentenario de la Revolución francesa. Esta magnífica estructura de mármol blanco mide 110 metros de alto, 110 de ancho y 110 de profundidad, formando un gigantesco arco cúbico. Se alinea perfectamente con el eje histórico de París, desde la Pirámide del Louvre, por los Campos Elíseos, hasta el Arco de Triunfo, y llega hasta La Grande Arche. La Arche es un edificio multifuncional con zonas de oficinas y la vasta explanada de La Défense en su base. Su marco hueco se abre como una gran ventana hacia el eje histórico, y el monumento, junto con la plaza circundante, se puede admirar gratis desde el exterior. Como pieza central del distrito de negocios de La Défense, este monumento simboliza la modernización de Francia y su visión de futuro, respetando a la vez la historia y la tradición.",
+    "visitGuide": {
+      "title": "Consejos de visita",
+      "items": [
+        "La terraza de observación permanece cerrada al público de forma permanente desde abril de 2023",
+        "Admira la Arche y la explanada gratis desde el exterior",
+        "El marco hueco alinea el Arco de Triunfo y los Campos Elíseos a lo largo del eje histórico",
+        "Combínala con un paseo por el clúster de arquitectura moderna de La Défense",
+        "Visita cerca del atardecer para la mejor luz sobre la fachada de mármol blanco"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Aspectos destacados de la arquitectura",
+      "items": [
+        "Completada en 1989, conmemora el bicentenario de la Revolución francesa",
+        "Diseñada por el arquitecto danés Johan Otto von Spreckelsen",
+        "Construcción de mármol blanco de Carrara y vidrio, con 300.000 toneladas",
+        "Alineada perfectamente con el eje histórico de París (Louvre-Campos Elíseos-Arco de Triunfo)",
+        "El cubo hueco de 110 metros enmarca el eje histórico como una gran ventana al mundo"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "La historia de La Grande Arche",
+    "sections": [
+      {
+        "id": "history",
+        "title": "Historia y construcción",
+        "content": "El proyecto de La Grande Arche de la Defensa comenzó en 1982 como parte del programa francés Grands Travaux (Grandes Obras) impulsado por el presidente François Mitterrand. El objetivo era crear un arco triunfal moderno perfectamente alineado con el eje histórico de París. El arquitecto danés Johan Otto von Spreckelsen ganó el concurso internacional de diseño en 1983. Su propuesta era un enorme cubo de mármol blanco con el centro vaciado formando un arco. La inauguración oficial tuvo lugar el 14 de julio de 1989, coincidiendo con el bicentenario de la Revolución francesa."
+      },
+      {
+        "id": "meaning",
+        "title": "Significado arquitectónico",
+        "content": "La Grande Arche no es solo un edificio, sino un símbolo. Representa la visión de Francia hacia el futuro respetando la historia y la tradición. Las líneas puras y la escala monumental de la estructura encarnan los ideales modernistas. La ubicación de la Arche es profundamente significativa: se sitúa en el extremo occidental del eje histórico de París, que comienza en el Louvre, continúa por los Jardines de las Tullerías, los Campos Elíseos y el Arco de Triunfo, y llega finalmente a La Défense. Esta disposición espacial refleja la continuidad de Francia entre la historia y la modernidad."
+      },
+      {
+        "id": "architecture",
+        "title": "Características arquitectónicas",
+        "content": "La Grande Arche es un prodigio de ingeniería: 1. Dimensiones: 110 m de alto, 110 m de ancho, 110 m de profundidad, un cubo perfecto. 2. Materiales: mármol blanco de Carrara, vidrio y acero. 3. Peso: aproximadamente 300.000 toneladas. 4. Diseño: cubo hueco en forma de puerta. 5. Terraza: Le Toit ofreció visitas panorámicas al aire libre en la cima, pero está cerrada al público desde 2023. Las alas norte y sur del edificio son espacios de oficinas cerrados, mientras que las fachadas este y oeste son arcos abiertos. Este diseño es funcional y rico en simbolismo."
+      },
+      {
+        "id": "designer",
+        "title": "Sobre el arquitecto",
+        "content": "Johan Otto von Spreckelsen (1929-1987) fue un renombrado arquitecto y diseñador danés, conocido por su estilo minimalista y clásico-modernista. Otras obras destacadas de Spreckelsen incluyen la Iglesia de San Bernardo en Copenhague. Su filosofía de diseño enfatizaba las formas geométricas puras, los materiales de alta calidad y el tratamiento cuidadoso de la luz. Lamentablemente, Spreckelsen falleció en 1987 y no llegó a ver la finalización de la Grande Arche. El proyecto fue completado por el arquitecto francés Paul Andreu."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Información básica",
+    "officialName": "Nombre oficial",
+    "officialNameValue": "La Grande Arche de la Défense",
+    "type": "Tipo de atracción",
+    "typeValue": "Arquitectura moderna, hito cultural, monumento público",
+    "country": "País",
+    "countryValue": "Francia",
+    "city": "Ciudad",
+    "cityValue": "Puteaux, distrito de La Défense, París",
+    "department": "Departamento (código)",
+    "departmentValue": "Hauts-de-Seine (92), Isla de Francia",
+    "googleRating": "Valoración de Google",
+    "phone": "Teléfono",
+    "phoneValue": "+33 1 49 07 27 57",
+    "plusCode": "Plus Code",
+    "plusCodeValue": "V6VP+2C Puteaux, Francia",
+    "address": "Dirección",
+    "addressValue": "1 Parv. de la Défense, 92800 Puteaux, Francia"
+  },
+  "hours": {
+    "title": "Información de visita",
+    "park": "Terraza de observación",
+    "parkTime": "Cerrada al público de forma permanente desde abril de 2023",
+    "bestTime": "Mejor época para visitar",
+    "bestTimeSpring": "Primavera (abril-junio): clima suave, ideal para fotos exteriores",
+    "bestTimeSummer": "Verano (julio-agosto): tardes largas, luz de atardecer espectacular en la fachada",
+    "bestTimeAutumn": "Otoño (septiembre-octubre): muchos días despejados, vistas claras a lo largo del eje",
+    "bestTimeWinter": "Invierno (noviembre-marzo): menos turistas, luz nítida para fotos del exterior",
+    "tip": "El exterior del monumento y la explanada de La Défense se visitan gratis; la terraza está cerrada, por lo que no se necesita entrada."
+  },
+  "tickets": {
+    "title": "Entradas y acceso",
+    "park": "Terraza y entradas",
+    "parkPrice": "La terraza está cerrada y no se venden entradas. El monumento y la explanada se ven gratis desde el exterior.",
+    "parking": "Aparcamiento cercano",
+    "parkingPrice": "Recomendado el aparcamiento Centre-Grande Arche, unos 3-5 €/hora",
+    "guided": "Visitas guiadas",
+    "guidedPrice": "Disponibles; consulta el sitio web oficial para más detalles"
+  },
+  "transport": {
+    "title": "Cómo llegar",
+    "fromAirport": "Desde el aeropuerto Charles de Gaulle (CDG)",
+    "fromAirportDesc": "Toma el RER B hasta Châtelet-Les Halles y luego transborda al RER A hasta La Défense. El trayecto total dura unos 60 minutos.",
+    "fromCenter": "Desde el centro de París",
+    "fromCenterDesc": "Toma la línea 1 de metro desde el Arco de Triunfo y baja en la estación La Défense - Grande Arche. El trayecto dura unos 10 minutos. Es la opción de transporte más cómoda.",
+    "fromStation": "Desde la catedral de Notre-Dame",
+    "fromStationDesc": "Toma la línea 4 de metro y luego transborda a la línea 1, bajando en la estación La Défense - Grande Arche. El trayecto total dura unos 30 minutos.",
+    "publicTransport": "Transporte público",
+    "publicTransportDesc": "Metro línea 1: estación terminal La Défense - Grande Arche. RER A: estación La Défense. Autobús: varias líneas sirven La Défense.",
+    "walking": "Explorar la zona",
+    "walkingDesc": "El distrito de La Défense es en sí mismo un museo de arquitectura al aire libre, perfecto para rutas a pie entre numerosas obras maestras de la arquitectura moderna.",
+    "driving": "En coche y aparcamiento",
+    "drivingDesc": "Hay varios aparcamientos subterráneos en el distrito de La Défense. No obstante, se recomienda el transporte público por comodidad y por razones medioambientales."
+  },
+  "route": {
+    "title": "Itinerario recomendado",
+    "overview": "Empieza en el Arco de Triunfo, toma la línea 1 de metro hasta La Défense – Grande Arche (10 minutos), admira la Arche y la explanada (1 hora), enmarca el eje histórico a través de su apertura hueca, y luego explora el distrito de arquitectura moderna de La Défense (1 hora). El viaje completo dura unas medio día.",
+    "steps": [
+      "Empieza en el Arco de Triunfo, toma la línea 1 de metro en la estación Charles de Gaulle - Étoile",
+      "Baja en la estación La Défense - Grande Arche, sigue la señalización hacia la Grande Arche",
+      "Cruza la explanada hasta la base de la Arche, admira su escala monumental y la fachada de mármol blanco",
+      "Mira hacia el este a través del marco hueco para ver el Arco de Triunfo, los Campos Elíseos y el Louvre a lo largo del eje histórico",
+      "Explora la plaza circundante de La Défense y sus edificios modernos",
+      "Visita el CNIT y el centro comercial Les Quatre Temps cercanos",
+      "Elige entre numerosos restaurantes en La Défense para comer o cenar",
+      "Toma el metro de vuelta al centro de París, o disfruta de la Arche iluminada al anochecer"
+    ]
+  },
+  "photoSpots": {
+    "title": "Puntos para fotos",
+    "spots": [
+      {
+        "name": "Plaza frontal",
+        "desc": "Ángulo clásico que muestra la vista frontal completa y la escala monumental de la Arche"
+      },
+      {
+        "name": "Vista amplia de la explanada",
+        "desc": "Gran angular desde el pórtico que capta toda la fachada de mármol blanco y la escala del cubo"
+      },
+      {
+        "name": "Vista lateral",
+        "desc": "Ángulo lateral que resalta la forma cúbica y la belleza geométrica de la estructura"
+      },
+      {
+        "name": "Alineación del eje histórico",
+        "desc": "Dispara hacia el este desde dentro de la Arche, captando la alineación con el Arco de Triunfo y los Campos Elíseos"
+      },
+      {
+        "name": "Iluminación nocturna",
+        "desc": "Fotos al anochecer una vez encendida la Arche, mostrando otro encanto del edificio"
+      }
+    ]
+  },
+  "hotels": {
+    "title": "Alojamiento",
+    "hotels": [
+      {
+        "name": "Hoteles de lujo de negocios",
+        "desc": "Situados en el distrito de La Défense, ofrecen comodidades modernas y distancia a pie de la Grande Arche.",
+        "price": "~150-300 €/noche"
+      },
+      {
+        "name": "Hoteles boutique",
+        "desc": "A menudo cerca del Arco de Triunfo, con ambientes elegantes y fácil acceso por la línea 1 de metro.",
+        "price": "~200-400 €/noche"
+      },
+      {
+        "name": "Hoteles económicos de cadena",
+        "desc": "Opciones de bajo presupuesto con ubicaciones convenientes que cubren necesidades básicas.",
+        "price": "~80-150 €/noche"
+      },
+      {
+        "name": "Apartahoteles",
+        "desc": "Equipados con cocina, habitaciones amplias ideales para familias o estancias largas.",
+        "price": "~100-200 €/noche"
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Galería de fotos",
+    "subtitle": "La Grande Arche de la Défense - Obra maestra de la arquitectura moderna en París",
+    "captions": [
+      "Vista frontal completa de la Arche",
+      "Detalles de mármol blanco",
+      "Explanada y horizonte urbano",
+      "Geometría arquitectónica",
+      "Alineación del eje histórico",
+      "Iluminación nocturna",
+      "Arquitectura moderna circundante",
+      "Plaza de La Défense"
+    ],
+    "viewAll": "Ver en Google Maps",
+    "showAll": "Ver todas las fotos",
+    "showLess": "Ver menos",
+    "photoAlt": "La Grande Arche de la Défense en Puteaux, Francia – Foto {id}"
+  },
+  "reviews": {
+    "title": "Opiniones de visitantes",
+    "declaration": "Los comentarios de los visitantes se pueden ver a través de Google Maps (enlace externo).",
+    "moreReviews": "Ver más opiniones en Google Maps",
+    "items": []
+  },
+  "mapSection": {
+    "title": "Cómo llegar",
+    "subtitle": "Metro línea 1 / RER A, con indicaciones a pie y en coche",
+    "openMaps": "Ver en Google Maps"
+  },
+  "footer": {
+    "rights": "© 2026 La Grande Arche de la Défense Asociación Independiente de Investigación Turística · Todos los derechos reservados.",
+    "privacy": "Política de privacidad",
+    "terms": "Términos del servicio",
+    "cookies": "Configuración de cookies",
+    "officialResourcesTitle": "Recursos e información relacionados",
+    "officialLinks": {
+      "hautsDeSeine": "Departamento de Hauts-de-Seine",
+      "ileDeFrance": "Región de Isla de Francia",
+      "cultureGouv": "Cultura de Francia",
+      "visitParisRegion": "Visita la región de París",
+      "servicePublic": "Servicios públicos de Francia"
+    },
+    "disclaimer": "Este sitio web es un proyecto independiente de información turística de terceros. No estamos afiliados con el gobierno local ni con ninguna otra institución oficial.",
+    "imageCredit": "Créditos de imágenes: todas las fotografías mostradas en este sitio web pertenecen a sus fotógrafos originales y respectivos titulares de derechos."
+  },
+  "privacy": {
+    "title": "Política de privacidad",
+    "lastUpdated": "Última actualización: mayo de 2026",
+    "sections": [
+      {
+        "heading": "1. Recopilación de información",
+        "content": "Por lo general, no recopilamos activamente información personal identificable de los usuarios. Cualquier información que nos proporciones a través de formularios de contacto o correos electrónicos se mantendrá estrictamente confidencial."
+      },
+      {
+        "heading": "2. Uso de la información",
+        "content": "La información que recopilamos se usa únicamente para proporcionar, mantener y mejorar nuestros servicios, y para comunicarnos contigo. No vendemos ni compartimos tu información personal con terceros con fines comerciales."
+      },
+      {
+        "heading": "3. Cookies y seguimiento",
+        "content": "Usamos cookies y tecnologías de seguimiento similares para rastrear la actividad en nuestro sitio web y almacenar cierta información. Puedes instruir a tu navegador para que rechace todas las cookies o para que te avise cuando se envía una cookie."
+      },
+      {
+        "heading": "4. Seguridad de los datos",
+        "content": "La seguridad de tus datos es importante para nosotros. Usamos medios comercialmente aceptables para proteger tus datos personales, aunque ningún método de transmisión por Internet es 100% seguro."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Términos del servicio",
+    "lastUpdated": "Última actualización: mayo de 2026",
+    "sections": [
+      {
+        "heading": "1. Aceptación de los términos",
+        "content": "Al acceder y usar este sitio web, aceptas quedar vinculado por estos términos del servicio. Si no estás de acuerdo con alguna parte de los términos, no podrás acceder al servicio."
+      },
+      {
+        "heading": "2. Uso del servicio",
+        "content": "Este sitio web es un proyecto independiente de información turística de terceros. La información proporcionada tiene únicamente fines informativos generales. Aceptas usar el sitio de forma responsable y legal."
+      },
+      {
+        "heading": "3. Propiedad intelectual",
+        "content": "Todo el contenido de este sitio web, incluidos textos, imágenes y logotipos, es propiedad del propietario del sitio salvo que se indique lo contrario. El uso, reproducción o distribución no autorizados están estrictamente prohibidos."
+      },
+      {
+        "heading": "4. Limitación de responsabilidad",
+        "content": "No nos hacemos responsables de daños directos, indirectos, incidentales o consecuentes que resulten del uso o la imposibilidad de uso de este sitio web o de la información que contiene."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Configuración de cookies",
+    "description": "Gestiona tus preferencias de cookies.",
+    "essential": {
+      "title": "Cookies esenciales",
+      "description": "Necesarias para la funcionalidad básica del sitio web.",
+      "badge": "Siempre activas"
+    },
+    "analytics": {
+      "title": "Cookies de analítica",
+      "description": "Nos ayudan a entender cómo interactúan los visitantes con el sitio."
+    },
+    "marketing": {
+      "title": "Cookies de marketing",
+      "description": "Usadas para rastrear visitantes entre sitios web."
+    },
+    "save": "Guardar preferencias",
+    "saved": "¡Preferencias guardadas!"
+  },
+  "officialManagement": {
+    "title": "Sobre La Grande Arche de la Défense",
+    "text": "La Grande Arche de la Défense (La Grande Arche) es una de las obras maestras arquitectónicas modernas más icónicas de Francia, diseñada por el arquitecto danés Johan Otto von Spreckelsen y completada en 1989 para conmemorar el bicentenario de la Revolución francesa. Esta magnífica estructura de mármol blanco se alza en el corazón del distrito de negocios de La Défense en París, perfectamente alineada con el eje histórico desde el Louvre hasta el Arco de Triunfo. La terraza (Le Toit) está cerrada al público desde 2023, pero el monumento y la explanada circundante se pueden admirar gratis desde el exterior."
+  },
+  "faq": {
+    "title": "Preguntas frecuentes (FAQ)",
+    "subtitle": "Preguntas comunes sobre La Grande Arche de la Défense — ubicación, transporte, estado de visita y terraza de observación.",
+    "items": [
+      {
+        "q": "¿Dónde se encuentra La Grande Arche de la Défense?",
+        "a": "La Grande Arche de la Défense (La Grande Arche) se encuentra en Puteaux, en el departamento de Hauts-de-Seine (92), en el extremo occidental de París."
+      },
+      {
+        "q": "¿Cómo llegar a La Grande Arche de la Défense en transporte público?",
+        "a": "Toma la línea 1 de metro hasta la estación La Défense – Grande Arche, o el RER A hasta La Défense. Desde el Arco de Triunfo el trayecto dura unos 10 minutos; la Arche está a un corto paseo desde la estación cruzando la explanada."
+      },
+      {
+        "q": "¿Es La Grande Arche lo mismo que el Arco de Triunfo?",
+        "a": "No. El Arco de Triunfo (1836) es el arco del siglo XIX situado en la plaza Charles de Gaulle, mientras que la Grande Arche es un cubo hueco moderno de 110 metros completado en 1989. Ambos marcan los extremos del eje histórico de París (Louvre – Campos Elíseos – Arco de Triunfo – La Défense)."
+      },
+      {
+        "q": "¿Cuándo y por qué se construyó La Grande Arche?",
+        "a": "La Grande Arche de la Défense fue diseñada por el arquitecto danés Johan Otto von Spreckelsen e inaugurada el 14 de julio de 1989, en el bicentenario de la Revolución francesa."
+      },
+      {
+        "q": "¿Está abierta la terraza de observación?",
+        "a": "No. La terraza (Le Toit de la Grande Arche) está cerrada al público de forma permanente desde abril de 2023. No hay visitas de pago ni exposiciones en la cima, y no hay horario ni entradas disponibles."
+      },
+      {
+        "q": "¿Es gratis visitar La Grande Arche?",
+        "a": "El exterior del monumento, la explanada de La Défense y la plaza pública se ven gratis. Como la terraza está cerrada, no hay nada que pagar en el propio monumento."
+      },
+      {
+        "q": "¿Qué se puede ver desde La Grande Arche?",
+        "a": "Desde la explanada a los pies de la Arche puedes ver el ventanal hueco enmarcando el eje histórico hacia el este —el Arco de Triunfo, los Campos Elíseos y el Louvre— además del horizonte de La Défense a tu alrededor."
+      }
+    ]
+  },
+  "sources": {
+    "title": "Ubicación, referencias oficiales y fuentes",
+    "intro": "Esta guía recopila información de oficinas de turismo oficiales y fuentes públicas para ayudarte a planificar tu visita a La Grande Arche de la Defensa en Puteaux (Hauts-de-Seine), en el extremo occidental de París.",
+    "breadcrumb": "La Grande Arche de la Défense → Puteaux → Hauts-de-Seine (92) → Isla de Francia → Francia",
+    "nearby": "La Grande Arche se alza en el extremo occidental del eje histórico de París y en el centro del distrito de negocios de La Défense. Un corto paseo por la explanada te lleva al CNIT y a Les Quatre Temps; mirando hacia el este a lo largo del eje puedes ver el Arco de Triunfo, los Campos Elíseos y el Louvre. Puteaux, Neuilly-sur-Seine, Courbevoie y Suresnes limitan con La Défense, lo que facilita combinar el distrito con una visita más amplia a Hauts-de-Seine.",
+    "items": [
+      {
+        "label": "Visita la región de París – oficina oficial de turismo de la región",
+        "url": "https://www.visitparisregion.com/"
+      },
+      {
+        "label": "Departamento de Hauts-de-Seine (sitio oficial)",
+        "url": "https://www.hauts-de-seine.fr/"
+      },
+      {
+        "label": "France.fr – portal oficial de turismo de Francia",
+        "url": "https://www.france.fr/"
+      },
+      {
+        "label": "Google Maps – ubicación del monumento y opiniones recientes",
+        "url": "https://maps.app.goo.gl/D4CV9coWvF1NQY5DA"
+      }
+    ],
+    "note": "Este sitio web es un proyecto independiente de información turística de terceros y no está afiliado con ninguna institución oficial. Como la terraza está cerrada, consulta siempre los canales oficiales para la información de visita más reciente antes de tu viaje."
+  },
+  "facilities": {
+    "title": "Instalaciones y consejos prácticos",
+    "subtitle": "Orientación neutra por categorías para visitantes autoguiados y en coche — no se recomienda ningún establecimiento concreto.",
+    "cards": [
+      {
+        "icon": "wc",
+        "title": "Aseos y cambio de bebés",
+        "text": "Los aseos públicos suelen estar disponibles en grandes edificios públicos, vestíbulos de oficinas, centros comerciales y estaciones de metro de La Défense, a menudo gratuitos o de bajo coste y con accesibilidad y cambiadores. Las plantas de transbordo son un alto conveniente al cambiar de línea."
+      },
+      {
+        "icon": "parking",
+        "title": "Aparcamiento",
+        "text": "Cerca predominan los aparcamientos públicos subterráneos o en varias plantas de pago, además de plazas de corta estancia en superficie. Los aparcamientos disuasorios (P+R) junto a las estaciones encajan con el patrón aparca aquí, coge el metro. Las plazas escasean los fines de semana y durante eventos, así que llega temprano o usa transporte público."
+      },
+      {
+        "icon": "food",
+        "title": "Comida y bebida",
+        "text": "Las opciones van desde bistrós y cafés hasta panaderías, cocinas de servicio rápido, supermercados para llevar y puntos de recogida a domicilio. Para un presupuesto más ajustado, considera una panadería o un supermercado. Si te sientas a comer, consulta primero la carta y los precios: el almuerzo francés se concentra sobre las 12:00–14:00 y la cena a partir de las 19:00."
+      },
+      {
+        "icon": "shopping",
+        "title": "Supermercados y tiendas cotidianas",
+        "text": "Los supermercados, tiendas de conveniencia y farmacias se encuentran sobre todo en los podios de los edificios y centros comerciales, prácticos para agua, snacks y artículos básicos. Muchos cierran antes los domingos y en algunos festivos, así que consulta el horario del día que planees visitar."
+      },
+      {
+        "icon": "fuel",
+        "title": "Combustible y carga de VE",
+        "text": "Los conductores pueden repostar en gasolineras junto a las carreteras principales o dentro de grandes aparcamientos. Los vehículos eléctricos pueden cargar en redes públicas de carga o en cargadores dentro de los aparcamientos de centros comerciales. Antes de un viaje de vuelta largo, comprueba el nivel de combustible o de batería; los tipos y tarifas de cargadores se muestran en el lugar."
+      },
+      {
+        "icon": "stay",
+        "title": "Alojarse en la zona",
+        "text": "Para pernoctar, busca categorías como hoteles de negocios, apartahoteles y albergues a un corto paseo de la línea 1 de metro o del RER A. Reservar una tarifa reembolsable cuando los planes puedan cambiar es una opción sensata. Consulta la sección de Alojamiento arriba para más detalle por tipo."
+      }
+    ],
+    "note": "Este módulo enumera tipos de instalaciones solo como referencia neutra y no es una recomendación de ningún establecimiento concreto. Los horarios, precios y disponibilidad pueden cambiar; por favor, consúltalo in situ."
+  },
+  "weather": {
+    "title": "Clima en La Défense",
+    "subtitle": "Condiciones actuales y previsión a 7 días para Puteaux / La Défense, en hora local.",
+    "updated": "Actualizado",
+    "current": "Ahora",
+    "feelsLike": "Sensación térmica",
+    "humidity": "Humedad",
+    "wind": "Viento",
+    "precip": "Prob. de lluvia",
+    "todayHigh": "Máx. hoy",
+    "todayLow": "Mín. hoy",
+    "disclaimer": "Los datos de previsión se actualizan automáticamente y se proporcionan solo como orientación. Confirma siempre las condiciones con el servicio meteorológico oficial antes de viajar.",
+    "codes": {
+      "0": "Cielo despejado",
+      "1": "Mayormente despejado",
+      "2": "Parcialmente nublado",
+      "3": "Nublado",
+      "45": "Niebla",
+      "48": "Niebla engelante",
+      "51": "Llovizna ligera",
+      "53": "Llovizna",
+      "55": "Llovizna densa",
+      "56": "Llovizna helada",
+      "57": "Llovizna helada densa",
+      "61": "Lluvia ligera",
+      "63": "Lluvia",
+      "65": "Lluvia intensa",
+      "66": "Lluvia helada",
+      "67": "Lluvia helada intensa",
+      "71": "Nieve ligera",
+      "73": "Nieve",
+      "75": "Nieve intensa",
+      "77": "Granos de nieve",
+      "80": "Chubascos ligeros",
+      "81": "Chubascos",
+      "82": "Chubascos intensos",
+      "85": "Chubascos de nieve ligeros",
+      "86": "Chubascos de nieve intensos",
+      "95": "Tormenta",
+      "96": "Tormenta con granizo",
+      "99": "Tormenta severa con granizo"
+    },
+    "suggest": {
+      "dressLabel": "Qué llevar puesto",
+      "planLabel": "Planifica tu día",
+      "gearLabel": "Lista para llevar",
+      "riskLabel": "Aviso meteorológico",
+      "dress": {
+        "light": "Hoy hace calor, la ropa ligera y transpirable es lo mejor",
+        "waterproof": "Está lloviendo o va a llover, una chaqueta impermeable es buena idea",
+        "cool": "Hace frío hoy, abrígate",
+        "layer": "Grandes cambios de temperatura entre la mañana y la noche, lleva una capa que puedas quitar y poner",
+        "windy": "Hay viento, las gorras y bufandas se pueden volar fácilmente",
+        "comfortable": "Condiciones templadas, tu ropa de temporada habitual es suficiente"
+      },
+      "plan": {
+        "sunny": "El cielo despejado favorece pasear por la explanada y fotografiar el Arco de mármol blanco, luz excelente para fotos",
+        "cloudy": "Los cielos nublados o cubiertos suavizan la luz, cómodo para estar mucho tiempo al aire libre",
+        "indoor": "Es probable que llueva, prioriza galerías y tiendas interiores, y guarda las fotos para un claro",
+        "hot": "El mediodía se calienta, planea las caminatas largas para primera hora o última de la tarde",
+        "snow": "Se prevé nieve, la explanada abierta puede estar resbaladiza, así que abrígate y calza con tracción",
+        "comfortable": "Tiempo estable, las visitas al aire libre alrededor del monumento pueden seguir adelante"
+      },
+      "items": {
+        "umbrella": "Paraguas compacto",
+        "raincoat": "Chaqueta de lluvia (evita paraguas largos con viento)",
+        "sunscreen": "Protector solar",
+        "sunglasses": "Gafas de sol",
+        "hat": "Sombrero",
+        "water": "Agua para beber",
+        "warm": "Una prenda de abrigo o bufanda"
+      },
+      "risks": {
+        "storm": "Riesgo de tormenta: evita zonas abiertas o expuestas durante la tormenta y considera reprogramar planes al aire libre",
+        "heavyRain": "Lluvia intensa: las calles se pueden inundar fácilmente, mantente alejado de zonas bajas",
+        "strongWind": "Aviso de viento fuerte: las ráfagas de fuerza de temporal se notan en toda la explanada abierta, sujeta sombreros, bolsas y objetos ligeros",
+        "fog": "Aviso de niebla: la visibilidad es baja, así que las vistas lejanas a lo largo del eje pueden verse limitadas, ve despacio al caminar o conducir"
+      }
+    }
+  },
+  "stories": {
+    "title": "Historia, relatos y curiosidades",
+    "subtitle": "Cómo un cubo hueco construido en diez años coronó la avenida urbana más grandiosa del mundo, con las leyendas, debates y cifras que hay detrás.",
+    "timelineLabel": "Fechas clave",
+    "timeline": [
+      {
+        "year": "1982",
+        "text": "El presidente francés François Mitterrand y la autoridad de planificación de La Défense (EPAD) lanzan el concurso internacional Tête Défense, para dotar al eje histórico de un monumento digno del siglo XX."
+      },
+      {
+        "year": "1983",
+        "text": "La propuesta del arquitecto danés Johan Otto von Spreckelsen, un inmenso cubo hueco, es elegida entre cientos de propuestas."
+      },
+      {
+        "year": "1985–86",
+        "text": "La construcción comienza en un solar cruzado por carreteras, vías ferroviarias y el RER. Las diferencias sobre presupuesto y calendario llevan a Spreckelsen a ceder el proyecto; el arquitecto francés Paul Andreu se hace cargo de la finalización."
+      },
+      {
+        "year": "1987",
+        "text": "Spreckelsen muere sin ver elevarse el cubo. El equipo de Andreu lleva su concepto hasta el final."
+      },
+      {
+        "year": "14 July 1989",
+        "text": "El arco se inaugura en el bicentenario de la Revolución francesa con el nombre Grande Arche de la Fraternité, mientras los jefes de Estado se reúnen en París para la cumbre del G7."
+      },
+      {
+        "year": "1990s – today",
+        "text": "Las torres se llenan de oficinas, la explanada se convierte en uno de los mayores espacios peatonales de Europa, y la terraza se desarrolla como mirador y sala de exposiciones conocida como Le Toit, hoy cerrada al público desde 2023."
+      }
+    ],
+    "storiesLabel": "Relatos y leyendas",
+    "stories": [
+      {
+        "title": "Una ventana abierta al mundo",
+        "text": "Spreckelsen siempre describió su cubo no como un arco, sino como una ventana abierta al mundo. Ponte dentro y mira al este: el Louvre, las Tullerías, los Campos Elíseos y el Arco de Triunfo se alinean en el marco."
+      },
+      {
+        "title": "Un ligero giro deliberado",
+        "text": "La Grande Arche no es perfectamente paralela al eje histórico, su propio eje se desvía unos 6 grados. Si fue un truco perspectivo, una restricción de las obras ferroviarias subterráneas, o ambas, sigue en debate. En cualquier caso, la sutil rotación da al cubo una profundidad real cuando se aproxima desde los Campos Elíseos."
+      },
+      {
+        "title": "Un cubo lo bastante alto para Notre-Dame",
+        "text": "La apertura hueca del arco mide unos 110 metros de alto y abarca toda la anchura del cubo, lo bastante grande para que la catedral de Notre-Dame quepa debajo."
+      },
+      {
+        "title": "Un distrito que defiende París",
+        "text": "La Défense toma su nombre de la estatua La Défense de Paris (1883), que conmemora la defensa de la ciudad en 1870–71. Más de un siglo después, el distrito sigue guardando el extremo occidental del gran eje de la capital."
+      }
+    ],
+    "factsLabel": "La Grande Arche en cifras",
+    "facts": [
+      {
+        "value": "110 m",
+        "label": "altura del cubo hueco"
+      },
+      {
+        "value": "108 × 112 m",
+        "label": "anchura y profundidad de la estructura"
+      },
+      {
+        "value": "≈ 110 m",
+        "label": "altura libre de la apertura, Notre-Dame cabría debajo"
+      },
+      {
+        "value": "6°",
+        "label": "desviación del eje del arco respecto al eje histórico"
+      },
+      {
+        "value": "1989",
+        "label": "año de inauguración, en el bicentenario de la Revolución"
+      },
+      {
+        "value": "≈ 8 km",
+        "label": "eje histórico desde el Louvre hasta el Arco"
+      }
+    ]
+  }
+}

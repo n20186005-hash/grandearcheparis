@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "La Grande Arche de la Défense (Puteaux) | Billets, Horaires & Guide",
-    "description": "Guide de La Grande Arche de la Défense à Puteaux, Hauts-de-Seine (92). Billets, horaires d'ouverture, accès Métro/RER, histoire et vue panoramique depuis le toit-terrasse."
+    "title": "Grande Arche de la Défense : Accès, Visite et Photos",
+    "description": "Découvrez la Grande Arche de la Défense à Paris : accès en métro, histoire, photos et conseils de visite. Le toit panoramique est fermé au public."
   },
   "header": {
     "home": "Accueil",
@@ -13,23 +13,23 @@
   "hero": {
     "title": "La Grande Arche de la Défense",
     "subtitle": "Monument Moderne Emblématique & Chef-d'œuvre Architectural à Paris",
-    "rating": "4.4(12,070)",
-    "reviewCount": "12,070 avis",
-    "type": "Architecture Moderne · Monument Culturel · Pont d'Observation",
+    "rating": "4.4(12,133)",
+    "reviewCount": "12,133 avis",
+    "type": "Architecture Moderne · Monument Culturel · Monument Public",
     "openMaps": "Voir l'emplacement",
-    "imageAlt": "La Grande Arche de la Défense (The Great Arch of the Defense) vue principale à Puteaux, Hauts-de-Seine, France"
+    "imageAlt": "La Grande Arche de la Défense (The Great Arch of the Defense), vue principale"
   },
   "intro": {
     "title": "Découvrez La Grande Arche de la Défense",
-    "description": "La Grande Arche de la Défense, également connue sous le nom de 'Arc de Triomphe Moderne', est l'un des chefs-d'œuvre architecturaux modernes les plus emblématiques de France. Conçue par l'architecte danois Johan Otto von Spreckelsen, elle a été achevée en 1989 pour commémorer le 200e anniversaire de la Révolution française.\n\nCette magnifique structure en marbre blanc s'élève à 110 mètres de haut, 110 mètres de large et 110 mètres de profondeur, formant une énorme 'arche' cubique. Elle s'aligne parfaitement avec l'axe historique de Paris—de la pyramide du Louvre, à travers les Champs-Élysées, jusqu'à l'Arc de Triomphe, et enfin jusqu'à la Grande Arche.\n\nL'Arche n'est pas seulement un chef-d'œuvre architectural mais aussi un espace multifonctionnel abritant des espaces de bureaux, des espaces d'exposition et un pont d'observation au sommet. Depuis le pont, les visiteurs peuvent profiter d'une vue panoramique à 360 degrés sur Paris, y compris l'emblématique axe historique.\n\nEn tant que pièce maîtresse du quartier d'affaires de La Défense, ce monument symbolise la modernisation et la vision de la France pour l'avenir tout en conservant le respect de l'histoire et de la tradition.",
+    "description": "La Grande Arche de la Défense, également connue sous le nom de 'Arc de Triomphe Moderne', est l'un des chefs-d'œuvre architecturaux modernes les plus emblématiques de France. Conçue par l'architecte danois Johan Otto von Spreckelsen, elle a été achevée en 1989 pour commémorer le 200e anniversaire de la Révolution française.\n\nCette magnifique structure en marbre blanc s'élève à 110 mètres de haut, 110 mètres de large et 110 mètres de profondeur, formant une énorme 'arche' cubique. Elle s'aligne parfaitement avec l'axe historique de Paris—de la pyramide du Louvre, à travers les Champs-Élysées, jusqu'à l'Arc de Triomphe, et enfin jusqu'à la Grande Arche.\n\nL'Arche est un bâtiment multifonctionnel abritant des espaces de bureaux et la vaste esplanade de La Défense à sa base. Son cadre évidé s'ouvre comme une immense 'fenêtre' sur l'axe historique, et le monument, avec la place qui l'entoure, se contemple gratuitement de l'extérieur.\n\nEn tant que pièce maîtresse du quartier d'affaires de La Défense, ce monument symbolise la modernisation et la vision de la France pour l'avenir tout en conservant le respect de l'histoire et de la tradition.",
     "visitGuide": {
       "title": "Conseils de visite",
       "items": [
-        "Horaires du pont d'observation : Mardi-Dimanche 10h00-19h00 (prolongé jusqu'à 20h00 en été)",
-        "Réservez vos billets en ligne à l'avance pour éviter les files d'attente",
-        "Le pont d'observation supérieur offre une vue à 360 degrés sur Paris, idéale par temps clair",
-        "Combinez avec une visite du complexe architectural moderne de La Défense",
-        "Visitez avant le coucher du soleil pour le meilleur éclairage pour les photos"
+        "Le toit panoramique est fermé au public de façon permanente depuis avril 2023",
+        "Contemplez l'Arche et l'esplanade gratuitement depuis l'extérieur",
+        "Le cadre évidé aligne l'Arc de Triomphe et les Champs-Élysées le long de l'axe historique",
+        "Combinez avec une promenade dans le cluster architectural moderne de La Défense",
+        "Visitez autour du coucher du soleil pour la meilleure lumière sur la façade de marbre blanc"
       ]
     },
     "alsoKnownAs": {
@@ -39,7 +39,7 @@
         "Conçue par l'architecte danois Johan Otto von Spreckelsen",
         "Construction en marbre de Carrare blanc et en verre, pesant 300 000 tonnes",
         "Parfaitement alignée avec l'axe historique de Paris (Louvre-Champs-Élysées-Arc de Triomphe)",
-        "Pont d'observation supérieur à 110m d'altitude, offrant des vues panoramiques de Paris"
+        "Le cube évidé de 110 mètres encadre l'axe historique comme une immense 'fenêtre sur le monde'"
       ]
     }
   },
@@ -59,7 +59,7 @@
       {
         "id": "architecture",
         "title": "Caractéristiques Architecturales",
-        "content": "La Grande Arche est un exploit d'ingénierie stupéfiant :\n\n1. Dimensions : 110m de haut, 110m de large, 110m de profondeur—un cube parfait\n2. Matériaux : Marbre de Carrare blanc, verre et acier\n3. Poids : Environ 300 000 tonnes\n4. Design : Cube creux formant une forme de 'porte'\n5. Pont d'observation : Pont en plein air au sommet, pouvant accueillir des centaines de personnes\n\nLes ailes nord et sud du bâtiment sont des espaces de bureaux fermés, tandis que les faces est et ouest sont des 'arches' ouvertes. Ce design est à la fois fonctionnel et riche en symbolisme."
+        "content": "La Grande Arche est un exploit d'ingénierie stupéfiant :\n\n1. Dimensions : 110m de haut, 110m de large, 110m de profondeur—un cube parfait\n2. Matériaux : Marbre de Carrare blanc, verre et acier\n3. Poids : Environ 300 000 tonnes\n4. Design : Cube creux formant une forme de 'porte'\n5. Toit-terrasse : 'Le Toit' proposait des visites panoramiques en plein air au sommet, mais est fermé au public depuis 2023\n\nLes ailes nord et sud du bâtiment sont des espaces de bureaux fermés, tandis que les faces est et ouest sont des 'arches' ouvertes. Ce design est à la fois fonctionnel et riche en symbolisme."
       },
       {
         "id": "designer",
@@ -73,7 +73,7 @@
     "officialName": "Nom Officiel",
     "officialNameValue": "La Grande Arche de la Défense",
     "type": "Type d'Attraction",
-    "typeValue": "Architecture Moderne, Monument Culturel, Pont d'Observation",
+    "typeValue": "Architecture Moderne, Monument Culturel, Monument Public",
     "country": "Pays",
     "countryValue": "France",
     "city": "Ville",
@@ -90,19 +90,19 @@
   },
   "hours": {
     "title": "Informations de Visite",
-    "park": "Horaires du Pont d'Observation",
-    "parkTime": "Mardi-Dimanche : 10h00-19h00 (jusqu'à 20h00 en été), Fermé le lundi",
+    "park": "Toit Panoramique",
+    "parkTime": "Fermé au public de façon permanente depuis avril 2023",
     "bestTime": "Meilleur moment pour visiter",
-    "bestTimeSpring": "Printemps (Avril-Juin) : Climat doux, idéal pour les visites et les photos",
-    "bestTimeSummer": "Été (Juillet-Août) : Horaires prolongés, vues spectaculaires au coucher du soleil",
-    "bestTimeAutumn": "Automne (Septembre-Octobre) : Beaucoup de jours clairs, vues dégagées",
-    "bestTimeWinter": "Hiver (Novembre-Mars) : Moins de touristes, mais notez que la météo peut affecter le pont d'observation",
-    "tip": "Réservez vos billets en ligne à l'avance et choisissez un temps clair pour les meilleures vues"
+    "bestTimeSpring": "Printemps (Avril-Juin) : Climat doux, idéal pour les photos de l'extérieur",
+    "bestTimeSummer": "Été (Juillet-Août) : Longues soirées, lumière spectaculaire au coucher du soleil sur la façade",
+    "bestTimeAutumn": "Automne (Septembre-Octobre) : Beaucoup de jours clairs, vues dégagées le long de l'axe",
+    "bestTimeWinter": "Hiver (Novembre-Mars) : Moins de touristes, lumière nette pour photographier l'extérieur",
+    "tip": "L'extérieur du monument et l'esplanade de La Défense se visitent gratuitement ; le toit est fermé, aucun billet n'est donc nécessaire."
   },
   "tickets": {
-    "title": "Prix des Billets",
-    "park": "Billet Pont d'Observation",
-    "parkPrice": "Adultes : 15€, Réduit : 12€, Moins de 18 ans : Gratuit",
+    "title": "Billets & Accès",
+    "park": "Toit & Billets",
+    "parkPrice": "Le toit est fermé et aucun billet n'est vendu. Le monument et l'esplanade se visitent gratuitement depuis l'extérieur.",
     "parking": "Parking à Proximité",
     "parkingPrice": "Parking Centre-Grande Arche recommandé, env. 3-5€/heure",
     "guided": "Visites Guidées",
@@ -125,18 +125,16 @@
   },
   "route": {
     "title": "Itinéraire Recommandé",
-    "overview": "Commencez à l'Arc de Triomphe, prenez la ligne 1 du métro jusqu'à La Grande Arche (10 minutes), visitez l'Arche et le pont d'observation (1h30), profitez d'une vue panoramique sur Paris depuis le sommet, puis explorez le quartier de l'architecture moderne de La Défense (1 heure). Le voyage total dure environ une demi-journée.",
+    "overview": "Commencez à l'Arc de Triomphe, prenez la ligne 1 du métro jusqu'à La Défense – Grande Arche (10 minutes), contemplez l'Arche et l'esplanade (1h), cadrez l'axe historique à travers son ouverture évidée, puis explorez le quartier de l'architecture moderne de La Défense (1 heure). Le voyage total dure environ une demi-journée.",
     "steps": [
       "Commencez à l'Arc de Triomphe, prenez la ligne 1 du métro à la station 'Charles de Gaulle - Étoile'",
       "Descendez à la station 'La Défense - Grande Arche', suivez les panneaux indiquant la Grande Arche",
-      "Visitez la base de l'Arche, admirez l'échelle monumentale et la façade en marbre blanc",
-      "Prenez l'ascenseur jusqu'au pont d'observation supérieur, profitez d'une vue panoramique à 360 degrés sur Paris",
-      "Depuis le pont, identifiez l'axe historique de Paris : Arc de Triomphe, Champs-Élysées, Louvre",
-      "Visitez les espaces d'exposition à l'intérieur de l'Arche (si disponibles)",
-      "Sortez de l'Arche, explorez les autres bâtiments modernes du quartier de La Défense",
-      "Visitez le 'Delta' à proximité et la Plaza de La Défense",
+      "Traversez l'esplanade jusqu'à la base de l'Arche, admirez l'échelle monumentale et la façade en marbre blanc",
+      "Regardez vers l'est à travers le cadre évidé pour apercevoir l'Arc de Triomphe, les Champs-Élysées et le Louvre le long de l'axe historique",
+      "Explorez la place environnante de La Défense et ses bâtiments modernes",
+      "Visitez le CNIT et le centre commercial Les Quatre Temps à proximité",
       "Choisissez parmi de nombreux restaurants à La Défense pour le déjeuner ou le dîner",
-      "Prenez le métro pour retourner au centre-ville de Paris, ou profitez de la vue nocturne de l'Arche au crépuscule"
+      "Prenez le métro pour retourner au centre-ville de Paris, ou profitez de l'Arche illuminée au crépuscule"
     ]
   },
   "photoSpots": {
@@ -147,8 +145,8 @@
         "desc": "Angle classique montrant la vue de face complète et l'échelle monumentale de l'Arche"
       },
       {
-        "name": "Vue Aérienne depuis le Pont d'Observation",
-        "desc": "Plan aérien depuis le pont supérieur capturant le quartier de La Défense et l'horizon lointain de Paris"
+        "name": "Vue d'ensemble depuis l'esplanade",
+        "desc": "Prise grand-angle depuis le parvis capturant la façade de marbre blanc et l'échelle du cube"
       },
       {
         "name": "Vue de Côté",
@@ -195,7 +193,7 @@
     "captions": [
       "Vue de Face Complète de l'Arche",
       "Détails en Marbre Blanc",
-      "Vues depuis le Pont d'Observation",
+      "Esplanade & Skyline",
       "Géométrie Architecturale",
       "Alignement de l'Axe Historique",
       "Éclairage Nocturne",
@@ -211,36 +209,11 @@
     "title": "Avis des Visiteurs",
     "declaration": "Les commentaires des visiteurs peuvent être consultés via Google Maps (lien externe).",
     "moreReviews": "Voir plus d'avis sur Google Maps",
-    "items": [
-      {
-        "name": "Zhang Ming",
-        "date": "Mai 2026",
-        "rating": 5,
-        "text": "Une architecture moderne absolument magnifique ! La vue depuis le pont d'observation surplombant tout Paris est incroyable, en particulier l'axe historique. Fortement recommandé !"
-      },
-      {
-        "name": "Sophie Martin",
-        "date": "Avril 2026",
-        "rating": 5,
-        "text": "Une visite incontournable à Paris ! L'architecture est à couper le souffle et la vue depuis le sommet est inégalée. Vaut chaque euro du prix du billet."
-      },
-      {
-        "name": "Li Hua",
-        "date": "Mars 2026",
-        "rating": 4,
-        "text": "L'architecture est spectaculaire et la vue depuis le pont d'observation est vraiment incroyable. Cependant, les billets sont un peu chers. Il est recommandé d'acheter en ligne à l'avance pour économiser de l'argent."
-      },
-      {
-        "name": "Pierre Dubois",
-        "date": "Février 2026",
-        "rating": 5,
-        "text": "En tant que Français, je considère cela comme l'une des plus grandes réalisations architecturales modernes en France. Cela relie parfaitement l'histoire et l'avenir. La vue depuis le pont surplombant tout Paris est absolument à ne pas manquer !"
-      }
-    ]
+    "items": []
   },
   "mapSection": {
     "title": "Comment S'y Rendre",
-    "subtitle": "1 Parv. de la Défense, 92800 Puteaux, France",
+    "subtitle": "Métro ligne 1 / RER A, avec itinéraires à pied et en voiture",
     "openMaps": "Voir sur Google Maps"
   },
   "footer": {
@@ -324,15 +297,15 @@
   },
   "officialManagement": {
     "title": "À propos de La Grande Arche de la Défense",
-    "text": "La Grande Arche de la Défense est l'un des chefs-d'œuvre architecturaux modernes les plus emblématiques de France, conçu par l'architecte danois Johan Otto von Spreckelsen et achevé en 1989 pour commémorer le 200e anniversaire de la Révolution française.\n\nCette magnifique structure en marbre blanc est située au cœur du quartier d'affaires de La Défense à Paris, parfaitement alignée avec l'axe historique du Louvre à l'Arc de Triomphe. La Grande Arche n'est pas seulement un chef-d'œuvre architectural mais dispose également d'un pont d'observation offrant aux visiteurs des vues panoramiques à 360 degrés sur Paris."
+    "text": "La Grande Arche de la Défense est l'un des chefs-d'œuvre architecturaux modernes les plus emblématiques de France, conçu par l'architecte danois Johan Otto von Spreckelsen et achevé en 1989 pour commémorer le 200e anniversaire de la Révolution française.\n\nCette magnifique structure en marbre blanc est située au cœur du quartier d'affaires de La Défense à Paris, parfaitement alignée avec l'axe historique du Louvre à l'Arc de Triomphe. La terrasse du toit (Le Toit) est fermée au public depuis 2023, mais le monument et l'esplanade environnante restent libres de contemplation depuis l'extérieur."
   },
   "faq": {
     "title": "Questions Fréquentes (FAQ)",
-    "subtitle": "Questions courantes sur La Grande Arche de la Défense — localisation, transports, billets et toit panoramique.",
+    "subtitle": "Questions courantes sur La Grande Arche de la Défense — localisation, transports, état de la visite et toit panoramique.",
     "items": [
       {
         "q": "Où se trouve La Grande Arche de la Défense ?",
-        "a": "La Grande Arche de la Défense (The Great Arch of the Defense) se situe à Puteaux, dans le département des Hauts-de-Seine (92), à l'ouest de Paris. Adresse : 1 Parv. de la Défense, 92800 Puteaux, France."
+        "a": "La Grande Arche de la Défense (The Great Arch of the Defense) se situe à Puteaux, dans le département des Hauts-de-Seine (92), à l'ouest de Paris."
       },
       {
         "q": "Comment s'y rendre en transports en commun ?",
@@ -347,16 +320,16 @@
         "a": "La Grande Arche de la Défense a été conçue par l'architecte danois Johan Otto von Spreckelsen et inaugurée le 14 juillet 1989, pour le bicentenaire de la Révolution française."
       },
       {
-        "q": "Peut-on monter au sommet de la Grande Arche ?",
-        "a": "Le toit panoramique (Le Toit de la Grande Arche) est payant et ses horaires d'ouverture peuvent varier selon la saison ou les opérations de maintenance. Vérifiez les jours, horaires et disponibilités sur les canaux officiels avant votre visite."
+        "q": "Le toit panoramique est-il ouvert ?",
+        "a": "Non. La terrasse du toit (Le Toit de la Grande Arche) est fermée au public de façon permanente depuis avril 2023. Il n'y a ni visite payante ni exposition au sommet, et aucun horaire ni billet n'est disponible."
       },
       {
         "q": "La visite de la Grande Arche est-elle gratuite ?",
-        "a": "L'esplanade, la place publique et l'extérieur du monument sont gratuits. L'accès au toit panoramique et aux expositions intérieures est payant."
+        "a": "L'extérieur du monument, l'esplanade de La Défense et la place publique sont gratuits à contempler. Comme le toit est fermé, il n'y a rien à payer au monument lui-même."
       },
       {
-        "q": "Que voit-on depuis le sommet ?",
-        "a": "Depuis la terrasse à 110 mètres, on profite d'un panorama à 360° sur le quartier d'affaires de La Défense, la vallée de la Seine et Neuilly-sur-Seine, avec au loin l'Arc de Triomphe, les Champs-Élysées et le Louvre le long de l'axe historique."
+        "q": "Que peut-on voir depuis la Grande Arche ?",
+        "a": "Depuis l'esplanade au pied de l'Arche, on voit le cadre évidé encadrer l'axe historique à l'est — l'Arc de Triomphe, les Champs-Élysées et le Louvre — ainsi que le skyline de La Défense tout autour."
       }
     ]
   },
@@ -383,7 +356,7 @@
         "url": "https://maps.app.goo.gl/D4CV9coWvF1NQY5DA"
       }
     ],
-    "note": "Ce site est un projet d'information touristique tiers indépendant, sans affiliation avec les institutions officielles. Les billets, horaires et tarifs pouvant changer, merci de vérifier auprès des canaux officiels avant votre visite."
+    "note": "Ce site est un projet d'information touristique tiers indépendant, sans affiliation avec les institutions officielles. Le toit étant fermé, vérifiez toujours auprès des canaux officiels les dernières informations avant votre visite."
   },
   "facilities": {
     "title": "Équipements sur place & conseils pratiques",
@@ -478,12 +451,12 @@
         "comfortable": "Temps doux — une tenue de saison classique suffit"
       },
       "plan": {
-        "sunny": "Le beau temps convient à la marche et à la vue depuis le toit — belle lumière pour les photos",
+        "sunny": "Le beau temps convient à la marche sur l'esplanade et à la photo du marbre blanc — belle lumière pour les photos",
         "cloudy": "Le ciel couvert ou nuageux adoucit la lumière — agréable pour une longue visite en extérieur",
         "indoor": "Pluie probable — privilégiez galeries et boutiques couvertes, et gardez les photos pour une accalmie",
         "hot": "Il fait plus chaud en milieu de journée — réservez les longues marches au matin ou en fin d'après-midi",
-        "snow": "Neige annoncée — les lieux couverts seront plus agréables et le belvédère peut fermer",
-        "comfortable": "Temps stable — visite extérieure et belvédère peuvent se faire normalement"
+        "snow": "Neige annoncée — l'esplanade ouverte peut être glissante, habillez-vous chaudement et portez des chaussures antidérapantes",
+        "comfortable": "Temps stable — la visite extérieure autour du monument peut se faire normalement"
       },
       "items": {
         "umbrella": "Parapluie pliant",
@@ -495,10 +468,10 @@
         "warm": "Veste chaude ou écharpe"
       },
       "risks": {
-        "storm": "Risque d'orage : éloignez-vous des plateformes ouvertes ou surélevées pendant les épisodes orageux et reportez la visite du toit",
+        "storm": "Risque d'orage : éloignez-vous des espaces ouverts ou exposés pendant les épisodes orageux et reportez les projets en extérieur",
         "heavyRain": "Pluie forte : les rues peuvent être inondées — évitez les zones basses",
-        "strongWind": "Alerte vent fort : en rafales, la sensation de vent est marquée sur le belvédère — tenez-vous à l'écart des palissades et structures provisoires",
-        "fog": "Alerte brouillard : visibilité réduite, les vues lointaines depuis le belvédère peuvent être limitées — ralentissez en marchant comme en voiture"
+        "strongWind": "Alerte vent fort : en rafales, la sensation de vent est marquée sur l'esplanade ouverte — retenez chapeaux, sacs et objets légers",
+        "fog": "Alerte brouillard : visibilité réduite, les vues lointaines depuis l'esplanade peuvent être limitées — ralentissez en marchant comme en voiture"
       }
     }
   },
@@ -529,7 +502,7 @@
       },
       {
         "year": "Années 1990 – aujourd'hui",
-        "text": "Les tours se remplissent de bureaux, l'esplanade devient l'une des plus grandes places piétonnes d'Europe, et le toit est aménagé en belvédère et espace d'exposition connu sous le nom de « Le Toit »."
+        "text": "Les tours se remplissent de bureaux, l'esplanade devient l'une des plus grandes places piétonnes d'Europe, et le toit est aménagé en belvédère et espace d'exposition connu sous le nom de « Le Toit » — fermé au public depuis 2023."
       }
     ],
     "storiesLabel": "Histoires & légendes",

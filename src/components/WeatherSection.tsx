@@ -242,7 +242,7 @@ export default async function WeatherSection({ locale }: { locale: string }) {
     return null;
   }
 
-  const localeTag = locale === 'zh' ? 'zh-CN' : locale === 'fr' ? 'fr-FR' : 'en-GB';
+  const localeTag = locale === 'zh' ? 'zh-CN' : locale === 'fr' ? 'fr-FR' : locale === 'es' ? 'es-ES' : 'en-GB';
   const dayFmt = new Intl.DateTimeFormat(localeTag, {
     timeZone: 'Europe/Paris',
     weekday: 'short',
