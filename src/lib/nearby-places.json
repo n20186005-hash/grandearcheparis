@@ -1,0 +1,932 @@
+[
+  {
+    "slug": "pouce",
+    "name": "Le Pouce de César",
+    "district": "Coupole-Regnault",
+    "source": "https://www.parisladefense.com/en/district/artworks/pouce",
+    "coordinates": "48.8935967,2.2386296",
+    "credit": "Constance Decorde / Paris La Défense",
+    "copy": {
+      "en": {
+        "title": "Le Pouce by César",
+        "story": "César enlarged a cast of his own thumb into a twelve-metre bronze.",
+        "view": "Step back until the full thumb fits above the paving, then move closer to pick out the ridges."
+      },
+      "fr": {
+        "title": "Le Pouce de César",
+        "story": "César a agrandi le moulage de son propre pouce pour en faire un bronze de douze mètres.",
+        "view": "Reculez pour cadrer le pouce entier au-dessus du dallage, puis approchez-vous pour distinguer ses stries."
+      },
+      "es": {
+        "title": "El Pulgar de César",
+        "story": "César amplió un molde de su propio pulgar hasta convertirlo en un bronce de doce metros.",
+        "view": "Retrocede hasta encuadrar el pulgar sobre el pavimento y acércate luego para ver sus surcos."
+      },
+      "zh": {
+        "title": "塞扎尔的拇指",
+        "story": "塞扎尔以自己的拇指翻模，铸成这件十二米高的青铜雕塑。",
+        "view": "先退到能把指尖和地面一并摄入的位置，再走近观察指纹。"
+      }
+    }
+  },
+  {
+    "slug": "personnages-fantastiques",
+    "name": "Personnages fantastiques",
+    "district": "Axe de La Défense",
+    "source": "https://www.parisladefense.com/en/district/artworks/personnages-fantastiques",
+    "coordinates": "48.8906441,2.2404192",
+    "credit": "Constance Decorde / Paris La Défense",
+    "copy": {
+      "en": {
+        "title": "Fantastic Characters by Miró",
+        "story": "Joan Miró’s two painted figures rise above the entrance to Westfield Les Quatre Temps.",
+        "view": "Watch from the pedestrian plaza and use the shopping centre entrance to show the scale of both figures."
+      },
+      "fr": {
+        "title": "Les Personnages fantastiques de Miró",
+        "story": "Les deux figures peintes de Joan Miró dominent l’entrée de Westfield Les Quatre Temps.",
+        "view": "Depuis la place piétonne, cadrez l’entrée du centre commercial pour donner l’échelle des deux figures."
+      },
+      "es": {
+        "title": "Personajes fantásticos de Miró",
+        "story": "Las dos figuras pintadas de Joan Miró se elevan sobre la entrada de Westfield Les Quatre Temps.",
+        "view": "Míralas desde la plaza peatonal y usa la entrada del centro comercial como referencia de escala."
+      },
+      "zh": {
+        "title": "米罗的奇幻人物",
+        "story": "米罗的两尊彩绘人物矗立在 Westfield Les Quatre Temps 入口旁。",
+        "view": "站在步行广场，把商场入口摄入画面，便能对照两尊人物的尺度。"
+      }
+    }
+  },
+  {
+    "slug": "araignee-rouge",
+    "name": "Araignée Rouge",
+    "district": "Coupole-Regnault",
+    "source": "https://www.parisladefense.com/en/district/artworks/araignee-rouge",
+    "coordinates": "48.8913387,2.2415967",
+    "credit": "Constance Decorde / Paris La Défense",
+    "copy": {
+      "en": {
+        "title": "Calder’s Red Spider",
+        "story": "Calder chose this plaza for his fixed red steel sculpture, installed in 1976.",
+        "view": "Move sideways across the plaza until the red legs separate visually against the towers."
+      },
+      "fr": {
+        "title": "L’Araignée rouge de Calder",
+        "story": "Calder a choisi cette place pour son stabile rouge en acier, installé en 1976.",
+        "view": "Décalez-vous sur la place jusqu’à ce que les pieds rouges se détachent les uns des autres devant les tours."
+      },
+      "es": {
+        "title": "La Araña roja de Calder",
+        "story": "Calder escogió esta plaza para su escultura fija de acero rojo, instalada en 1976.",
+        "view": "Desplázate lateralmente por la plaza hasta distinguir cada pata roja frente a las torres."
+      },
+      "zh": {
+        "title": "考尔德的红蜘蛛",
+        "story": "考尔德亲自为这座红钢雕塑选址，作品于 1976 年落成。",
+        "view": "沿广场横向移动，找到红色支脚彼此错开的角度，以塔楼作背景。"
+      }
+    }
+  },
+  {
+    "slug": "fontaine-monumentale",
+    "name": "Fontaine monumentale Agam",
+    "district": "Axe de La Défense",
+    "source": "https://www.parisladefense.com/en/district/artworks/fontaine-monumentale",
+    "coordinates": "48.8901909,2.2427675",
+    "credit": "Constance Decorde / Paris La Défense",
+    "copy": {
+      "en": {
+        "title": "Agam’s Monumental Fountain",
+        "story": "Yaacov Agam set coloured Venetian enamels along the long spillway to suggest motion even when the water stops.",
+        "view": "Follow the upper edge on the pedestrian side, then look back across the mosaic from the lower square if the route is open."
+      },
+      "fr": {
+        "title": "La Fontaine monumentale d’Agam",
+        "story": "Yaacov Agam a composé le déversoir avec des émaux vénitiens dont les couleurs suggèrent un mouvement même à l’arrêt.",
+        "view": "Longez le bassin côté piéton, puis regardez la mosaïque depuis la place basse si le passage est ouvert."
+      },
+      "es": {
+        "title": "Fuente monumental de Agam",
+        "story": "Yaacov Agam cubrió el aliviadero con esmaltes venecianos cuyos colores sugieren movimiento incluso con el agua parada.",
+        "view": "Bordea el estanque por el lado peatonal y, si el paso está abierto, mira el mosaico desde la plaza inferior."
+      },
+      "zh": {
+        "title": "阿加姆纪念喷泉",
+        "story": "雅科夫·阿加姆把威尼斯彩色珐琅铺在长长的溢水坡上，停水时仍能看出色块的动势。",
+        "view": "沿池边的步行侧走一段，若下层通道开放，可下到广场回望马赛克。"
+      }
+    }
+  },
+  {
+    "slug": "moretti",
+    "name": "Le Moretti",
+    "district": "Iris",
+    "source": "https://www.parisladefense.com/en/district/artworks/moretti",
+    "coordinates": "48.8890984,2.2479106",
+    "credit": "Bénédite Topuz / Paris La Défense",
+    "copy": {
+      "en": {
+        "title": "Le Moretti",
+        "story": "Raymond Moretti wrapped a working ventilation shaft in hundreds of tubes of different widths and colours.",
+        "view": "Look up from an open spot in Iris, then use the neighbouring building edges to emphasize the shaft’s vertical lines."
+      },
+      "fr": {
+        "title": "Le Moretti",
+        "story": "Raymond Moretti a habillé une gaine de ventilation de centaines de tubes de diamètres et de couleurs variés.",
+        "view": "Levez les yeux depuis un dégagement du quartier Iris, puis cadrez les arêtes des immeubles pour souligner la verticalité."
+      },
+      "es": {
+        "title": "Le Moretti",
+        "story": "Raymond Moretti revistió un conducto de ventilación con cientos de tubos de distintos diámetros y colores.",
+        "view": "Mira hacia arriba desde un espacio despejado en Iris y encuadra las aristas de los edificios para resaltar la verticalidad."
+      },
+      "zh": {
+        "title": "莫雷蒂通风塔",
+        "story": "雷蒙·莫雷蒂用数百根不同颜色和粗细的管子包裹了一根通风井。",
+        "view": "从 Iris 街区的开阔位置向上看，把旁边楼体的边线带入画面。"
+      }
+    }
+  },
+  {
+    "slug": "bassin",
+    "name": "Bassin de Takis",
+    "district": "Axe de La Défense",
+    "source": "https://www.parisladefense.com/en/district/artworks/bassin",
+    "coordinates": "48.8880522,2.2502024",
+    "credit": "Bénédite Topuz / Paris La Défense",
+    "copy": {
+      "en": {
+        "title": "Takis Basin",
+        "story": "Takis placed 49 stems with geometric heads in the basin at the Paris-facing end of the esplanade.",
+        "view": "Look along the rows from the promenade. If the basin has water, try lining up the coloured heads with their reflections."
+      },
+      "fr": {
+        "title": "Le Bassin de Takis",
+        "story": "Takis a placé 49 tiges coiffées de formes géométriques dans le bassin à l’extrémité parisienne de l’esplanade.",
+        "view": "Suivez les rangées du regard depuis la promenade. Si le bassin est en eau, cherchez l’alignement entre les formes et leurs reflets."
+      },
+      "es": {
+        "title": "Estanque de Takis",
+        "story": "Takis colocó 49 postes coronados por formas geométricas en el estanque del extremo de la explanada que mira a París.",
+        "view": "Observa las filas desde el paseo y, si hay agua, busca un ángulo que reúna las figuras coloreadas y sus reflejos."
+      },
+      "zh": {
+        "title": "塔基斯水池",
+        "story": "塔基斯在面向巴黎的一端设置水池，池中有 49 根顶端带几何造型的立杆。",
+        "view": "在步道上顺着立杆的排布看过去，池中有水时，可找一个角度同时拍下彩色造型和倒影。"
+      }
+    }
+  },
+  {
+    "slug": "voiture-sur-lampadaire",
+    "name": "La Voiture sur le lampadaire",
+    "district": "Valmy",
+    "source": "https://www.parisladefense.com/en/district/artworks/voiture-sur-lampadaire",
+    "coordinates": "48.8922289,2.2345363",
+    "credit": "Constance Decorde / Paris La Défense",
+    "copy": {
+      "en": {
+        "title": "Car on a Streetlight",
+        "story": "Benedetto Bufalino inverted a white Peugeot 406 and mounted it atop a streetlight. The artwork moved to Valmy in 2020.",
+        "view": "In Valmy, stand back far enough to include the pole and car in one frame. The wheels are easiest to read from the side."
+      },
+      "fr": {
+        "title": "La Voiture sur le lampadaire",
+        "story": "Benedetto Bufalino a retourné une Peugeot 406 blanche au sommet d’un candélabre. L’œuvre a rejoint le quartier Valmy en 2020.",
+        "view": "À Valmy, reculez pour cadrer ensemble le mât et la voiture. Les roues se lisent mieux de profil."
+      },
+      "es": {
+        "title": "Coche sobre una farola",
+        "story": "Benedetto Bufalino montó un Peugeot 406 blanco boca abajo sobre una farola. La pieza se trasladó a Valmy en 2020.",
+        "view": "En Valmy, retrocede para incluir el poste y el coche en un mismo encuadre. Las ruedas se distinguen mejor de perfil."
+      },
+      "zh": {
+        "title": "路灯上的汽车",
+        "story": "贝内代托·布法利诺把一辆白色标致 406 倒扣在路灯顶端，作品于 2020 年移至 Valmy。",
+        "view": "在 Valmy 后退几步，把灯柱和车一起摄入画面。从侧面看，车轮最明显。"
+      }
+    }
+  },
+  {
+    "slug": "defense-paris",
+    "name": "La Défense de Paris",
+    "district": "Axe de La Défense",
+    "source": "https://www.parisladefense.com/en/district/artworks/defense-paris",
+    "coordinates": "48.8902691,2.2432925",
+    "credit": "Constance Decorde / Paris La Défense",
+    "copy": {
+      "en": {
+        "title": "La Défense de Paris monument",
+        "story": "Louis-Ernest Barrias’s 1883 bronze commemorates the defence of Paris during the 1870 war and gives the district its name.",
+        "view": "Look around the base to find all three figures. The civilian child appears on the far side of the flag bearer."
+      },
+      "fr": {
+        "title": "Le monument La Défense de Paris",
+        "story": "Le bronze de 1883 de Louis-Ernest Barrias commémore la défense de Paris pendant la guerre de 1870 et a donné son nom au quartier.",
+        "view": "Faites le tour du socle pour retrouver les trois figures. L’enfant se trouve de l’autre côté de la porte-drapeau."
+      },
+      "es": {
+        "title": "Monumento La Défense de Paris",
+        "story": "El bronce de 1883 de Louis-Ernest Barrias conmemora la defensa de París en la guerra de 1870 y da nombre al barrio.",
+        "view": "Rodea el pedestal para localizar las tres figuras. La niña aparece al otro lado de la abanderada."
+      },
+      "zh": {
+        "title": "巴黎保卫战纪念雕像",
+        "story": "路易-欧内斯特·巴里亚斯的青铜群雕于 1883 年落成，纪念 1870 年战争中的巴黎保卫战，拉德芳斯也因此得名。",
+        "view": "绕底座观察三个人物。代表平民的孩子在持旗人另一侧。"
+      }
+    }
+  },
+  {
+    "slug": "scratching-surface",
+    "name": "Scratching The Surface",
+    "district": "Parc Nord",
+    "source": "https://www.parisladefense.com/en/district/artworks/scratching-surface",
+    "coordinates": "48.8935652,2.2318368",
+    "credit": "Constance Decorde / Paris La Défense",
+    "copy": {
+      "en": {
+        "title": "Scratching the Surface by Vhils",
+        "story": "Vhils used recesses and shadows in a wall near IÉSEG to reveal two faces within a geometric pattern.",
+        "view": "Start across from the wall to see both portraits together. Walk closer to see how the carved surface creates the lighter marks."
+      },
+      "fr": {
+        "title": "Scratching the Surface de Vhils",
+        "story": "Vhils a fait surgir deux visages au milieu de motifs géométriques en creusant un mur près de l’IÉSEG.",
+        "view": "Regardez d’abord les deux portraits de face depuis le recul disponible, puis approchez-vous pour voir le relief du mur."
+      },
+      "es": {
+        "title": "Scratching the Surface de Vhils",
+        "story": "Vhils hizo aparecer dos rostros entre formas geométricas al tallar un muro cerca de IÉSEG.",
+        "view": "Mira primero ambos retratos desde enfrente y acércate después para distinguir las marcas claras del relieve."
+      },
+      "zh": {
+        "title": "维尔斯的《划破表面》",
+        "story": "街头艺术家 Vhils 在 IÉSEG 附近的墙面上刻出两个面孔，以几何纹样相连。",
+        "view": "先到墙对面看两张脸，再走近观察浅色部分如何由墙面凹凸形成。"
+      }
+    }
+  },
+  {
+    "slug": "after-olympia",
+    "name": "After Olympia",
+    "district": "Axe de La Défense",
+    "source": "https://www.parisladefense.com/en/district/artworks/after-olympia",
+    "coordinates": "48.8911488,2.2398082",
+    "credit": "Constance Decorde / Paris La Défense",
+    "copy": {
+      "en": {
+        "title": "After Olympia by Anthony Caro",
+        "story": "Anthony Caro turned the triangular arrangement of the Temple of Zeus at Olympia into a long composition in weathered steel.",
+        "view": "Start at one end of the low steel forms and pace along them until the central rise comes into view."
+      },
+      "fr": {
+        "title": "After Olympia d’Anthony Caro",
+        "story": "Anthony Caro a transposé la composition triangulaire du temple de Zeus à Olympie dans une longue sculpture d’acier patiné.",
+        "view": "Partez d’une extrémité des formes basses en acier et longez-les jusqu’à voir se dessiner le sommet central."
+      },
+      "es": {
+        "title": "After Olympia de Anthony Caro",
+        "story": "Anthony Caro trasladó la composición triangular del templo de Zeus en Olimpia a una larga escultura de acero patinado.",
+        "view": "Empieza en un extremo de las formas bajas de acero y camina junto a ellas hasta reconocer la elevación central."
+      },
+      "zh": {
+        "title": "安东尼·卡罗的《奥林匹亚之后》",
+        "story": "安东尼·卡罗以奥林匹亚宙斯神庙山墙的三角布局为灵感，创作了这件长条形锈色钢雕。",
+        "view": "从较低的一端开始沿作品走，直到看清中央隆起的轮廓。"
+      }
+    }
+  },
+  {
+    "slug": "anamorphose",
+    "name": "Anamorphose",
+    "district": "Coupole-Regnault",
+    "source": "https://www.parisladefense.com/en/district/artworks/anamorphose",
+    "coordinates": "48.8912882,2.2409016",
+    "credit": "Bénédite Topuz / Paris La Défense",
+    "copy": {
+      "en": {
+        "title": "Anamorphosis by Fabio Rieti",
+        "story": "Fabio Rieti used glass-paste mosaic to build images that change with the viewing angle in an underground pedestrian passage.",
+        "view": "Follow the pedestrian signs for Parking Centre Grande Arche. Walk along the mosaic to compare the figures visible from each end."
+      },
+      "fr": {
+        "title": "Anamorphose de Fabio Rieti",
+        "story": "Fabio Rieti a posé une mosaïque en pâte de verre dans un passage souterrain, où l’image change avec l’angle de vue.",
+        "view": "Suivez les panneaux piétons vers le Parking Centre Grande Arche. Longez la mosaïque pour comparer les figures visibles depuis chaque extrémité."
+      },
+      "es": {
+        "title": "Anamorfosis de Fabio Rieti",
+        "story": "Fabio Rieti instaló un mosaico de pasta de vidrio en un paso subterráneo donde la imagen cambia con el ángulo de visión.",
+        "view": "Sigue las indicaciones peatonales hacia Parking Centre Grande Arche y recorre el mosaico para comparar lo que se ve desde cada extremo."
+      },
+      "zh": {
+        "title": "法比奥·里埃蒂的错视马赛克",
+        "story": "法比奥·里埃蒂在地下通道制作了玻璃马赛克，图案随观看角度变化。",
+        "view": "沿步行标识前往 Parking Centre Grande Arche，走过马赛克，从两个方向对照可见的人物。"
+      }
+    }
+  },
+  {
+    "slug": "apseil",
+    "name": "Apseil",
+    "district": "Reflets",
+    "source": "https://www.parisladefense.com/en/district/artworks/apseil",
+    "coordinates": "48.8897051,2.2473265",
+    "credit": "Sabrina Budon",
+    "copy": {
+      "en": {
+        "title": "Apseil by Vincent Broquaire",
+        "story": "Vincent Broquaire’s little figures turn the grey stone outside the Q-Park lifts into an imaginary maintenance scene.",
+        "view": "Stand where you can see the figures and lift cladding together. Look for the gesture that suggests somebody is hanging from the wall."
+      },
+      "fr": {
+        "title": "Apseil de Vincent Broquaire",
+        "story": "Les petits personnages de Vincent Broquaire transforment la pierre grise des ascenseurs Q-Park en un chantier imaginaire.",
+        "view": "Placez-vous pour voir à la fois les personnages et l’habillage des ascenseurs. Repérez la silhouette qui semble suspendue au mur."
+      },
+      "es": {
+        "title": "Apseil de Vincent Broquaire",
+        "story": "Las pequeñas figuras de Vincent Broquaire convierten la piedra gris de los ascensores de Q-Park en una escena de mantenimiento imaginaria.",
+        "view": "Busca un punto desde el que veas las figuras y el revestimiento de los ascensores. Fíjate en la silueta que parece colgar del muro."
+      },
+      "zh": {
+        "title": "樊尚·布罗凯尔的《Apseil》",
+        "story": "樊尚·布罗凯尔在 Q-Park 电梯外侧的灰石上布置小人，营造工人正在作业的场景。",
+        "view": "找一个能同时看清小人和电梯外墙的站位，观察哪一个身影仿佛悬在墙上。"
+      }
+    }
+  },
+  {
+    "slug": "bas-relief-en-cuivre",
+    "name": "Bas-relief en cuivre du RER A",
+    "district": "Axe de La Défense",
+    "source": "https://www.parisladefense.com/en/district/artworks/bas-relief-en-cuivre",
+    "coordinates": "48.8913650,2.2403166",
+    "credit": "Bénédite Topuz / Paris La Défense",
+    "copy": {
+      "en": {
+        "title": "RER Copper Relief",
+        "story": "Maurice Legendre folded and welded copper sheets for the 1969 RER platform relief commissioned by RATP.",
+        "view": "Inside La Défense RER A station, go to the end of the platform between tracks 2 and B toward Saint-Germain-en-Laye. Inspect the relief from behind the platform safety line."
+      },
+      "fr": {
+        "title": "Le Bas-relief en cuivre du RER",
+        "story": "Pour la gare du RER, Maurice Legendre a plié et soudé des feuilles de cuivre dans un relief commandé par la RATP en 1969.",
+        "view": "Dans la gare de La Défense, rejoignez le bout du quai du RER A entre les voies 2 et B vers Saint-Germain-en-Laye. Observez depuis l’arrière de la ligne de sécurité."
+      },
+      "es": {
+        "title": "Bajorrelieve de cobre del RER",
+        "story": "Maurice Legendre plegó y soldó láminas de cobre para este relieve que la RATP encargó para la estación del RER en 1969.",
+        "view": "Dentro de la estación de La Défense, busca el extremo del andén del RER A entre las vías 2 y B hacia Saint-Germain-en-Laye. Observa desde detrás de la línea de seguridad."
+      },
+      "zh": {
+        "title": "RER 铜浮雕",
+        "story": "莫里斯·勒让德将铜片折叠并焊接，完成这件由巴黎大众运输公司委托、1969 年安装的浮雕。",
+        "view": "进入 La Défense 站后，到 RER A 线路 2 与 B 轨之间、朝圣日耳曼昂莱方向的站台端头，在安全线内侧观看。"
+      }
+    }
+  },
+  {
+    "slug": "bc1",
+    "name": "BC1",
+    "district": "Michelet",
+    "source": "https://www.parisladefense.com/en/district/artworks/bc1",
+    "coordinates": "48.8884315,2.2460072",
+    "credit": "Bénédite Topuz / Paris La Défense",
+    "copy": {
+      "en": {
+        "title": "BC1 by Ben Jakober",
+        "story": "Ben Jakober assembled a set of heavy metal rollers into a sculpture reminiscent of an American football helmet.",
+        "view": "At Cours Michelet, start side-on to pick out the helmet’s outline, then move toward the open front to see the individual rollers."
+      },
+      "fr": {
+        "title": "BC1 de Ben Jakober",
+        "story": "Ben Jakober a assemblé de lourds rouleaux métalliques pour donner à sa sculpture l’allure d’un casque de football américain.",
+        "view": "Cours Michelet, commencez par le profil du casque, puis avancez vers la partie ouverte pour distinguer les rouleaux."
+      },
+      "es": {
+        "title": "BC1 de Ben Jakober",
+        "story": "Ben Jakober ensambló pesados rodillos metálicos para dar a la escultura la forma de un casco de fútbol americano.",
+        "view": "En Cours Michelet, mira primero el perfil del casco y acércate luego a la abertura para distinguir cada rodillo."
+      },
+      "zh": {
+        "title": "本·雅科伯的《BC1》",
+        "story": "本·雅科伯以一组沉重的金属滚筒拼成一顶美式橄榄球头盔般的雕塑。",
+        "view": "到 Cours Michelet 后先从侧面辨认头盔轮廓，再走到开口一侧观察滚筒。"
+      }
+    }
+  },
+  {
+    "slug": "signaux",
+    "name": "Signaux de Takis",
+    "district": "Axe de La Défense",
+    "source": "https://www.parisladefense.com/en/district/artworks/signaux",
+    "coordinates": "48.8932608,2.2351341",
+    "credit": "Constance Decorde / Paris La Défense",
+    "copy": {
+      "en": {
+        "title": "Takis Signals at the Grande Arche",
+        "story": "Takis set illuminated metal signals directly into the esplanade west of the Grande Arche, revisiting the shapes he placed in the basin on the opposite end of the district.",
+        "view": "Walk behind the arch and look along the free-standing poles. Use the arch’s edge as a reference for their heights."
+      },
+      "fr": {
+        "title": "Les Signaux de Takis à la Grande Arche",
+        "story": "Takis a planté des signaux lumineux à même la dalle à l’ouest de la Grande Arche, reprenant les formes de son bassin à l’autre bout du quartier.",
+        "view": "Passez derrière l’arche et suivez du regard les mâts. L’arête de l’arche permet de comparer leurs hauteurs."
+      },
+      "es": {
+        "title": "Señales de Takis en el Gran Arco",
+        "story": "Takis instaló señales luminosas directamente sobre la explanada al oeste de la Grande Arche, recuperando las formas de su estanque en el extremo opuesto del barrio.",
+        "view": "Pasa detrás del arco y mira a lo largo de los postes. Usa la arista del arco para comparar sus alturas."
+      },
+      "zh": {
+        "title": "大拱门旁的塔基斯信号杆",
+        "story": "塔基斯在大拱门西侧的步行平台上直接竖立发光信号杆，呼应街区另一端水池里的几何造型。",
+        "view": "绕到大拱门后，顺着一排立杆望过去，以拱门边缘作参照比较高低。"
+      }
+    }
+  },
+  {
+    "slug": "cheminee-vegetalisee",
+    "name": "Cheminée végétalisée",
+    "district": "Axe de La Défense",
+    "source": "https://www.parisladefense.com/en/district/artworks/cheminee-vegetalisee",
+    "coordinates": "48.8902071,2.2443905",
+    "credit": "Bénédite Topuz / Paris La Défense",
+    "copy": {
+      "en": {
+        "title": "Planted Ventilation Shaft",
+        "story": "Édouard François gave a working ventilation shaft beside Cœur Défense a living facade of plants and chestnut poles.",
+        "view": "Look up from the pedestrian esplanade to see where the planting meets the copper and timber framework."
+      },
+      "fr": {
+        "title": "La Cheminée végétalisée",
+        "story": "Édouard François a habillé une cheminée de ventilation près de Cœur Défense d’une façade vivante de plantes et de perches de châtaignier.",
+        "view": "Depuis l’esplanade piétonne, levez les yeux vers les endroits où la végétation rejoint le bois et le cuivre."
+      },
+      "es": {
+        "title": "Chimenea vegetal",
+        "story": "Édouard François vistió un conducto de ventilación junto a Cœur Défense con vegetación y postes de castaño.",
+        "view": "Desde la explanada peatonal, levanta la vista para ver cómo las plantas se entrelazan con el entramado de cobre y madera."
+      },
+      "zh": {
+        "title": "绿植通风塔",
+        "story": "爱德华·弗朗索瓦用植物和栗木杆为 Cœur Défense 旁的通风井做了一层活的外立面。",
+        "view": "站在步行平台向上看，可观察植株与铜、木框架交接的细节。"
+      }
+    }
+  },
+  {
+    "slug": "cheminees",
+    "name": "Cheminées",
+    "district": "Boieldieu",
+    "source": "https://www.parisladefense.com/en/district/artworks/cheminees",
+    "coordinates": "48.8891750,2.2386528",
+    "credit": "Constance Decorde / Paris La Défense",
+    "copy": {
+      "en": {
+        "title": "Philolaos Chimneys",
+        "story": "Philolaos wrapped working flues from local businesses in sculptural stainless-steel sheaths.",
+        "view": "On the Boieldieu pedestrian deck, find a side angle with visible gaps between the silver forms."
+      },
+      "fr": {
+        "title": "Les Cheminées de Philolaos",
+        "story": "Philolaos a enveloppé des conduits d’activités du quartier de gaines sculpturales en acier inoxydable.",
+        "view": "Sur la dalle piétonne de Boieldieu, cherchez un angle de profil qui laisse voir les vides entre les formes argentées."
+      },
+      "es": {
+        "title": "Chimeneas de Philolaos",
+        "story": "Philolaos revistió conductos de comercios del barrio con cubiertas escultóricas de acero inoxidable.",
+        "view": "Desde la plataforma peatonal de Boieldieu, busca un ángulo lateral desde el que se vean los huecos entre las formas plateadas."
+      },
+      "zh": {
+        "title": "菲洛劳斯的烟囱群",
+        "story": "雕塑家菲洛劳斯以不锈钢雕塑外壳装饰街区店铺的实用排烟管。",
+        "view": "到 Boieldieu 步行平台，沿侧面找一个能看到银色造型之间空隙的角度。"
+      }
+    }
+  },
+  {
+    "slug": "cromawaltz",
+    "name": "Cromawaltz",
+    "district": "Degrés",
+    "source": "https://www.parisladefense.com/en/district/artworks/cromawaltz",
+    "coordinates": "48.8917485,2.2373029",
+    "credit": "Sabrina Budon",
+    "copy": {
+      "en": {
+        "title": "Cromawaltz",
+        "story": "Studio Grriz used overlapping frames to create shifting moiré patterns on a building near the Grande Arche.",
+        "view": "Walk across the public frontage at an even pace to watch the stripes appear to vibrate."
+      },
+      "fr": {
+        "title": "Cromawaltz",
+        "story": "Le studio Grriz a superposé des trames sur un bâtiment près de la Grande Arche pour produire des motifs moirés changeants.",
+        "view": "Marchez d’un pas régulier le long de la façade, côté public, pour voir les bandes sembler vibrer."
+      },
+      "es": {
+        "title": "Cromawaltz",
+        "story": "El estudio Grriz superpuso entramados en un edificio cercano a la Grande Arche para crear patrones de muaré cambiantes.",
+        "view": "Camina a paso constante por el espacio público frente a la fachada y observa cómo las franjas parecen vibrar."
+      },
+      "zh": {
+        "title": "《Cromawaltz》变色立面",
+        "story": "Grriz 工作室在大拱门附近的建筑外墙叠加框架，营造不断变换的摩尔纹。",
+        "view": "沿临街的公共步行区域匀速走过，观察色带如何仿佛在颤动。"
+      }
+    }
+  },
+  {
+    "slug": "cube-sphere-gold",
+    "name": "Cube Sphère Gold",
+    "district": "Iris",
+    "source": "https://www.parisladefense.com/en/district/artworks/cube-sphere-gold",
+    "coordinates": "48.8895685,2.2493849",
+    "credit": "Bénédite Topuz / Paris La Défense",
+    "copy": {
+      "en": {
+        "title": "Cube Sphère Gold",
+        "story": "Cyril Lancelin used rows of reflective metal spheres to suggest a cube with openings and passages.",
+        "view": "Start at a corner so two faces line up, then shift sideways to include the Saint-Gobain tower in the reflections."
+      },
+      "fr": {
+        "title": "Cube Sphère Gold",
+        "story": "Cyril Lancelin a aligné des sphères métalliques réfléchissantes pour dessiner un cube percé de passages.",
+        "view": "Commencez à un angle pour voir deux faces, puis décalez-vous pour chercher la tour Saint-Gobain dans les reflets."
+      },
+      "es": {
+        "title": "Cube Sphère Gold",
+        "story": "Cyril Lancelin alineó esferas metálicas reflectantes para dibujar un cubo con huecos y pasajes.",
+        "view": "Empieza en una esquina para ver dos caras y muévete lateralmente para buscar la torre Saint-Gobain en los reflejos."
+      },
+      "zh": {
+        "title": "金色球体立方",
+        "story": "西里尔·朗斯兰以成列的反光金属球勾勒出一个带开口和通道的立方体。",
+        "view": "先站在角落观察相邻两面，再向旁边移动，从球面倒影中寻找圣戈班大厦。"
+      }
+    }
+  },
+  {
+    "slug": "dame-lune",
+    "name": "Dame Lune",
+    "district": "Villon",
+    "source": "https://www.parisladefense.com/en/district/artworks/dame-lune",
+    "coordinates": "48.8895717,2.2422804",
+    "credit": "11h45",
+    "copy": {
+      "en": {
+        "title": "Dame Lune",
+        "story": "Julio Silva carved the upright white figure from one block of Carrara marble.",
+        "view": "In Villon, position yourself so that the dark towers sit behind the marble and emphasize its bright outline."
+      },
+      "fr": {
+        "title": "Dame Lune",
+        "story": "Julio Silva a taillé cette figure blanche et verticale dans un bloc de marbre de Carrare.",
+        "view": "Dans le quartier Villon, placez les tours sombres derrière le marbre pour faire ressortir son contour clair."
+      },
+      "es": {
+        "title": "Dame Lune",
+        "story": "Julio Silva talló esta figura blanca y erguida en un solo bloque de mármol de Carrara.",
+        "view": "En Villon, coloca las torres oscuras detrás del mármol para destacar su contorno claro."
+      },
+      "zh": {
+        "title": "《月亮女士》",
+        "story": "胡利奥·席尔瓦用整块卡拉拉大理石雕出这个直立的白色形体。",
+        "view": "在 Villon 找一处能以深色塔楼作背景的位置，突出大理石的亮色轮廓。"
+      }
+    }
+  },
+  {
+    "slug": "doubles-lignes-indeterminees",
+    "name": "Doubles lignes indeterminées",
+    "district": "Michelet",
+    "source": "https://www.parisladefense.com/en/district/artworks/doubles-lignes-indeterminees",
+    "coordinates": "48.8880784,2.2469035",
+    "credit": "Bénédite Topuz / Paris La Défense",
+    "copy": {
+      "en": {
+        "title": "Double Indeterminate Lines",
+        "story": "Bernar Venet’s two tall steel lines change their relationship as the viewer moves.",
+        "view": "Walk along the Michelet pedestrian route until the lines overlap, then keep going until the gap reappears in your frame."
+      },
+      "fr": {
+        "title": "Doubles lignes indéterminées",
+        "story": "Les deux grandes lignes d’acier de Bernar Venet changent de rapport quand on se déplace.",
+        "view": "Suivez le cheminement piéton de Michelet jusqu’à superposer les lignes, puis continuez jusqu’à retrouver un écart dans le cadre."
+      },
+      "es": {
+        "title": "Dobles líneas indeterminadas",
+        "story": "Las dos grandes líneas de acero de Bernar Venet cambian su relación cuando el observador se desplaza.",
+        "view": "Camina por el itinerario peatonal de Michelet hasta que las líneas se superpongan y sigue hasta que el hueco reaparezca en el encuadre."
+      },
+      "zh": {
+        "title": "《双重不定线》",
+        "story": "贝尔纳·韦内用两道高耸的钢线构成雕塑，人在移动时，两道线的相对位置随之变化。",
+        "view": "沿 Michelet 步行路径走到两道线在画面中重叠，再往前几步，观察间隙何时重新出现。"
+      }
+    }
+  },
+  {
+    "slug": "fontaine-du-dialogue",
+    "name": "Fontaine du dialogue",
+    "district": "Saisons",
+    "source": "https://www.parisladefense.com/en/district/artworks/fontaine-du-dialogue",
+    "coordinates": "48.8887343,2.2527787",
+    "credit": "Bénédite Topuz / Paris La Défense",
+    "copy": {
+      "en": {
+        "title": "Fountain of Dialogue",
+        "story": "Gualtiero Busato placed two figures in conversation on top of a decorated bronze column at Place Vivaldi.",
+        "view": "Look from the edge of Place Vivaldi to see the two profiles together, then step nearer to inspect the column’s motifs."
+      },
+      "fr": {
+        "title": "La Fontaine du dialogue",
+        "story": "Gualtiero Busato a placé deux personnages en conversation au sommet d’une colonne de bronze ornée, place Vivaldi.",
+        "view": "Depuis le bord de la place Vivaldi, repérez les deux profils ensemble, puis approchez-vous pour examiner les motifs de la colonne."
+      },
+      "es": {
+        "title": "Fuente del diálogo",
+        "story": "Gualtiero Busato situó dos figuras conversando sobre una columna de bronce decorada en la plaza Vivaldi.",
+        "view": "Mira desde el borde de la plaza para reunir los dos perfiles y acércate después a los motivos de la columna."
+      },
+      "zh": {
+        "title": "对话喷泉",
+        "story": "瓜尔蒂耶罗·布萨托把两个交谈的人物安置在维瓦尔第广场一根带纹饰的青铜柱上。",
+        "view": "先从广场边缘看两个人物的侧影，再走近看柱身的雕刻纹样。"
+      }
+    }
+  },
+  {
+    "slug": "fragments-berlin-wall",
+    "name": "Fragments du mur de Berlin",
+    "district": "Coupole-Regnault",
+    "source": "https://www.parisladefense.com/en/district/artworks/fragments-berlin-wall",
+    "coordinates": "48.8922201,2.2417241",
+    "credit": "Constance Decorde / Paris La Défense",
+    "copy": {
+      "en": {
+        "title": "Berlin Wall Fragments",
+        "story": "Courbevoie and Epad acquired this section of the Berlin Wall. Glass panels around it carry names of European cities.",
+        "view": "Find the fragment outside the Galerie de la Coupole. Keep enough distance to see the graffiti alongside the engraved panels."
+      },
+      "fr": {
+        "title": "Fragments du mur de Berlin",
+        "story": "Courbevoie et l’Epad ont acquis ce segment du mur de Berlin. Les panneaux de verre qui l’entourent portent des noms de villes européennes.",
+        "view": "Cherchez le fragment devant la Galerie de la Coupole. Reculez pour voir ensemble les graffitis et les panneaux gravés."
+      },
+      "es": {
+        "title": "Fragmentos del Muro de Berlín",
+        "story": "Courbevoie y Epad adquirieron este fragmento del Muro de Berlín. Los paneles de vidrio que lo rodean llevan nombres de ciudades europeas.",
+        "view": "Busca el fragmento frente a la Galerie de la Coupole y retrocede para ver juntos los grafitis y los paneles grabados."
+      },
+      "zh": {
+        "title": "柏林墙残段",
+        "story": "库尔布瓦市和 Epad 购入这段柏林墙，周围的玻璃板刻有欧洲城市的名字。",
+        "view": "在 Galerie de la Coupole 外找墙体，站远一点，把墙上的涂鸦和刻字玻璃板一起纳入视野。"
+      }
+    }
+  },
+  {
+    "slug": "half-hare",
+    "name": "Half Hare",
+    "district": "Saisons",
+    "source": "https://www.parisladefense.com/en/district/artworks/half-hare",
+    "coordinates": "48.8883813,2.2526561",
+    "credit": "Bénédite Topuz / Paris La Défense",
+    "copy": {
+      "en": {
+        "title": "Half Hare by Bordalo II",
+        "story": "Bordalo II built this giant hare from discarded items such as helmets, pipes and tyres.",
+        "view": "Start far enough away to see the hare’s whole outline, then move closer to distinguish the repurposed parts."
+      },
+      "fr": {
+        "title": "Half Hare de Bordalo II",
+        "story": "Bordalo II a assemblé ce lièvre géant avec des objets mis au rebut, dont des casques, des tuyaux et des pneus.",
+        "view": "Reculez d’abord pour voir tout le contour du lièvre, puis approchez-vous pour reconnaître les objets réemployés."
+      },
+      "es": {
+        "title": "Half Hare de Bordalo II",
+        "story": "Bordalo II construyó esta liebre gigante con objetos desechados, entre ellos cascos, tubos y neumáticos.",
+        "view": "Retrocede hasta ver la silueta completa y acércate luego para identificar las piezas reutilizadas."
+      },
+      "zh": {
+        "title": "博尔达洛二世的《半身野兔》",
+        "story": "博尔达洛二世用废弃头盔、管子和轮胎等材料拼出这只巨型野兔。",
+        "view": "先退远看到完整轮廓，再走近分辨不同的回收物。"
+      }
+    }
+  },
+  {
+    "slug": "hercules-wind",
+    "name": "Hercules in the wind, Latitude",
+    "district": "Coupole-Regnault",
+    "source": "https://www.parisladefense.com/en/district/artworks/hercules-wind",
+    "coordinates": "48.8946840,2.2420118",
+    "credit": "Augustin Detienne",
+    "copy": {
+      "en": {
+        "title": "Hercules in the Wind",
+        "story": "Léo Caillard set a distorted resin bust of Hercules against the modern Latitude building in 2024.",
+        "view": "From the pedestrian square at Latitude, look for a side angle that separates the wavy silhouette from the building’s glazing."
+      },
+      "fr": {
+        "title": "Hercules in the wind",
+        "story": "En 2024, Léo Caillard a installé devant l’immeuble Latitude un buste d’Hercule en résine aux contours déformés.",
+        "view": "Depuis le parvis de Latitude, cherchez un angle de profil qui détache la silhouette ondulée des vitrages."
+      },
+      "es": {
+        "title": "Hércules en el viento",
+        "story": "En 2024, Léo Caillard instaló frente al edificio Latitude un busto de Hércules en resina con el contorno deformado.",
+        "view": "Desde la plaza peatonal de Latitude, busca un ángulo lateral que destaque la silueta ondulada frente a los cristales."
+      },
+      "zh": {
+        "title": "风中的赫拉克勒斯",
+        "story": "莱奥·卡亚尔于 2024 年在 Latitude 大楼前安放了这尊轮廓扭曲的树脂赫拉克勒斯半身像。",
+        "view": "站在 Latitude 步行广场，从侧面找一个让起伏轮廓与玻璃背景分开的角度。"
+      }
+    }
+  },
+  {
+    "slug": "icare",
+    "name": "Icare",
+    "district": "Faubourg de l'Arche",
+    "source": "https://www.parisladefense.com/en/district/artworks/icare",
+    "coordinates": "48.8949403,2.2378513",
+    "credit": "Constance Decorde / Paris La Défense",
+    "copy": {
+      "en": {
+        "title": "Icarus by Igor Mitoraj",
+        "story": "Igor Mitoraj gave Icare the proportions of a classical colossus and deliberately left the figure visibly incomplete.",
+        "view": "At the Faubourg de l’Arche pin, view the bronze from the front and then from the side to compare its broken contours."
+      },
+      "fr": {
+        "title": "Icare d’Igor Mitoraj",
+        "story": "Igor Mitoraj a donné à Icare les proportions d’un colosse antique, en laissant volontairement la figure incomplète.",
+        "view": "Au point indiqué dans le Faubourg de l’Arche, regardez le bronze de face puis de profil pour comparer ses contours brisés."
+      },
+      "es": {
+        "title": "Ícaro de Igor Mitoraj",
+        "story": "Igor Mitoraj dio a Ícaro las proporciones de un coloso clásico y dejó la figura deliberadamente incompleta.",
+        "view": "En el punto señalado del Faubourg de l’Arche, mira el bronce de frente y luego de lado para comparar sus contornos truncados."
+      },
+      "zh": {
+        "title": "米托拉伊的《伊卡洛斯》",
+        "story": "伊戈尔·米托拉伊借鉴古典巨像的比例，并特意留下伊卡洛斯残缺的身体。",
+        "view": "按地图走到 Faubourg de l’Arche 的标记，先正面、后侧面看青铜像，对照断裂的轮廓。"
+      }
+    }
+  },
+  {
+    "slug": "ikaria",
+    "name": "Ikaria",
+    "district": "Faubourg de l'Arche",
+    "source": "https://www.parisladefense.com/en/district/artworks/ikaria",
+    "coordinates": "48.8955236,2.2365426",
+    "credit": "Constance Decorde / Paris La Défense",
+    "copy": {
+      "en": {
+        "title": "Ikaria by Igor Mitoraj",
+        "story": "Igor Mitoraj juxtaposed outstretched wings with a hand that seems to hold this headless bronze to the ground.",
+        "view": "Find a side view so you can see where the wings spread and the hand meets the base."
+      },
+      "fr": {
+        "title": "Ikaria d’Igor Mitoraj",
+        "story": "Igor Mitoraj a opposé les ailes déployées à une main qui semble retenir ce bronze sans tête au sol.",
+        "view": "Cherchez un profil qui montre à la fois le déploiement des ailes et le contact de la main avec la base."
+      },
+      "es": {
+        "title": "Ikaria de Igor Mitoraj",
+        "story": "Igor Mitoraj enfrentó unas alas extendidas a una mano que parece sujetar al suelo este bronce sin cabeza.",
+        "view": "Busca un ángulo lateral que permita ver las alas desplegadas y el punto donde la mano se apoya en la base."
+      },
+      "zh": {
+        "title": "米托拉伊的《伊卡莉娅》",
+        "story": "伊戈尔·米托拉伊让无头青铜像展开双翼，又以一只手营造其被拽向地面的感觉。",
+        "view": "找一个侧向机位，同时观察展开的翅膀与贴近底座的手。"
+      }
+    }
+  },
+  {
+    "slug": "connaissance",
+    "name": "La Connaissance",
+    "district": "Faubourg de l'Arche",
+    "source": "https://www.parisladefense.com/en/district/artworks/connaissance",
+    "coordinates": "48.8958944,2.2364009",
+    "credit": "Constance Decorde / Paris La Défense",
+    "copy": {
+      "en": {
+        "title": "La Connaissance by Paul Flury",
+        "story": "Paul Flury linked red and blue cast-iron slabs with hands and invited participants to leave names in the mould.",
+        "view": "Walk to the side where the coloured slabs part in your view, then look at the junction where the hands meet."
+      },
+      "fr": {
+        "title": "La Connaissance de Paul Flury",
+        "story": "Paul Flury a joint deux lames de fonte par des mains et a invité des participants à laisser leur nom dans le moule.",
+        "view": "Décalez-vous jusqu’à distinguer les deux lames colorées, puis regardez le point de rencontre des mains."
+      },
+      "es": {
+        "title": "La Connaissance de Paul Flury",
+        "story": "Paul Flury unió dos placas de hierro fundido mediante unas manos e invitó a varias personas a inscribir sus nombres en el molde.",
+        "view": "Desplázate hasta distinguir las dos placas de colores por separado y mira la unión de las manos."
+      },
+      "zh": {
+        "title": "保罗·弗勒里的《知识》",
+        "story": "保罗·弗勒里以相握的手连接红蓝两块铸铁，并邀请参与者在砂模上留下姓名。",
+        "view": "从侧面走到红蓝铁板在视野中分开的位置，再观察双手交接处。"
+      }
+    }
+  },
+  {
+    "slug": "danse",
+    "name": "La Danse",
+    "district": "Axe de La Défense",
+    "source": "https://www.parisladefense.com/en/district/artworks/danse",
+    "coordinates": "48.8894799,2.2456289",
+    "credit": "Bénédite Topuz / Paris La Défense",
+    "copy": {
+      "en": {
+        "title": "La Danse by Shelomo Selinger",
+        "story": "Shelomo Selinger placed repeated concrete figures along planters on the lower square below the esplanade.",
+        "view": "Find the lower square, follow the planters and compare how the planted edges change the appearance of each group."
+      },
+      "fr": {
+        "title": "La Danse de Shelomo Selinger",
+        "story": "Shelomo Selinger a disposé des figures répétées en béton le long des jardinières de la place basse.",
+        "view": "Rejoignez la place basse, longez les jardinières et comparez la façon dont la végétation encadre chaque groupe."
+      },
+      "es": {
+        "title": "La Danse de Shelomo Selinger",
+        "story": "Shelomo Selinger repitió figuras de hormigón a lo largo de las jardineras de la plaza situada bajo la explanada.",
+        "view": "Baja a la plaza, recorre las jardineras y compara cómo las plantas enmarcan cada grupo."
+      },
+      "zh": {
+        "title": "谢洛莫·塞林格的《舞蹈》",
+        "story": "谢洛莫·塞林格把反复出现的混凝土人物布置在步行平台下层广场的花池边。",
+        "view": "到下层广场后顺着花池走，比较植物如何围合不同的人物组合。"
+      }
+    }
+  },
+  {
+    "slug": "defonce",
+    "name": "La Défonce",
+    "district": "Axe de La Défense",
+    "source": "https://www.parisladefense.com/en/district/artworks/defonce",
+    "coordinates": "48.8897897,2.2435064",
+    "credit": "Bénédite Topuz / Paris La Défense",
+    "copy": {
+      "en": {
+        "title": "La Défonce by François Morellet",
+        "story": "François Morellet tipped long steel bars into the ground so a diagonal looks as if it pierces the adjoining building.",
+        "view": "On the public walkway, find the angle where the steel and facade meet in view. Then shift to read the tilted frame."
+      },
+      "fr": {
+        "title": "La Défonce de François Morellet",
+        "story": "François Morellet a incliné de longues barres d’acier de façon qu’une diagonale semble transpercer le bâtiment voisin.",
+        "view": "Depuis le cheminement public, cherchez l’angle où l’acier et la façade se rejoignent dans le regard, puis décalez-vous pour lire le cadre incliné."
+      },
+      "es": {
+        "title": "La Défonce de François Morellet",
+        "story": "François Morellet inclinó largas barras de acero de modo que una diagonal parece atravesar el edificio contiguo.",
+        "view": "Desde el paso público, busca el ángulo donde se cruzan visualmente el acero y la fachada y desplázate para ver el marco inclinado."
+      },
+      "zh": {
+        "title": "弗朗索瓦·莫雷莱的《La Défonce》",
+        "story": "弗朗索瓦·莫雷莱将长钢条斜插入地，让一条斜线仿佛刺穿旁边的建筑。",
+        "view": "在公共步道上先找钢条与外墙在视觉中交汇的位置，再横向挪步看倾斜框架。"
+      }
+    }
+  },
+  {
+    "slug": "terre",
+    "name": "La Terre",
+    "district": "Reflets",
+    "source": "https://www.parisladefense.com/en/district/artworks/terre",
+    "coordinates": "48.8900639,2.2468944",
+    "credit": "11h45 / Defacto",
+    "copy": {
+      "en": {
+        "title": "La Terre by Louis Derbré",
+        "story": "Louis Derbré’s two figures suggest a turning globe. This painted resin version was installed after the bronze made for Tokyo.",
+        "view": "From Reflets, keep both figures in view and circle on the public side to see the sweep of their arms."
+      },
+      "fr": {
+        "title": "La Terre de Louis Derbré",
+        "story": "Les deux figures de Louis Derbré évoquent un globe en rotation. Cette version en résine peinte a été installée après le bronze destiné à Tokyo.",
+        "view": "Dans le quartier Reflets, gardez les deux figures en vue et contournez-les par le chemin public pour suivre le mouvement des bras."
+      },
+      "es": {
+        "title": "La Terre de Louis Derbré",
+        "story": "Las dos figuras de Louis Derbré evocan un globo en rotación. Esta versión en resina pintada se instaló después del bronce destinado a Tokio.",
+        "view": "En Reflets, mantén ambas figuras a la vista y rodéalas por el paso público para observar el movimiento de los brazos."
+      },
+      "zh": {
+        "title": "路易·德尔布雷的《地球》",
+        "story": "路易·德尔布雷用两个人物表现旋转的地球。这件彩绘树脂版晚于为东京创作的青铜版。",
+        "view": "在 Reflets 保持两个人物都在视野里，沿公共侧绕行，观察手臂的姿态。"
+      }
+    }
+  }
+]

@@ -4,7 +4,7 @@ import { useLocale } from 'next-intl';
 export default function Footer() {
   const t = useTranslations('footer');
   const locale = useLocale();
-  const prefix = locale === 'en' ? '' : `/${locale}`;
+  const prefix = `/${locale}`;
 
   return (
     <footer
@@ -15,7 +15,7 @@ export default function Footer() {
         <div className="flex flex-col sm:flex-row justify-between items-start gap-8 mb-8">
         <div className="max-w-md">
           <h3 className="font-display text-lg font-semibold mb-1" style={{ color: 'var(--text-primary)' }}>
-            {locale === 'zh' ? '拉德芳斯大拱门' : locale === 'es' ? 'La Grande Arche de la Défense' : 'The Great Arch of the Defense'}
+            {locale === 'zh' ? '拉德芳斯大拱门' : locale === 'es' || locale === 'fr' ? 'La Grande Arche de la Défense' : 'The Great Arch of the Defense'}
           </h3>
             <p className="text-xs mb-4" style={{ color: 'var(--text-muted)' }}>
               {t('officialResourcesTitle')}

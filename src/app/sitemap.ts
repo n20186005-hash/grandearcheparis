@@ -1,4 +1,5 @@
 import type { MetadataRoute } from 'next';
+import { NEARBY, nearbyPath } from '@/lib/nearby';
 import { TOPICS, topicHreflangUrls, type Locale } from '@/lib/topics';
 
 const BASE_URL = 'https://www.grandearcheparis.com';
@@ -60,5 +61,15 @@ export default function sitemap(): MetadataRoute.Sitemap {
     })),
   );
 
-  return [...homeEntries, ...legalEntries, ...topicEntries];
+  const nearbyEntries: MetadataRoute.Sitemap = NEARBY.flatMap(({ slug }) => {
+    const languages = Object.fromEntries(LOCALES.map((locale) => [
+      locale, `${BASE_URL}${nearbyPath(locale, slug)}`,
+    ]));
+    return LOCALES.map((locale) => ({
+      url: languages[locale],
+      alternates: { languages: { ...languages, 'x-default': languages.zh } },
+    }));
+  });
+
+  return [...homeEntries, ...legalEntries, ...topicEntries, ...nearbyEntries];
 }

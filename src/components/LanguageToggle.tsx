@@ -12,7 +12,7 @@ const labels: Record<string, string> = {
   es: 'Español',
 };
 
-export default function LanguageToggle() {
+export default function LanguageToggle({ paths }: { paths?: Record<Locale, string> }) {
   const locale = useLocale();
   const router = useRouter();
   const pathname = usePathname();
@@ -46,7 +46,7 @@ export default function LanguageToggle() {
     const pathWithoutLocale = segments.length > 0 ? `/${segments.join('/')}` : '';
     
     // Navigate - always include locale prefix
-    router.push(`/${next}${pathWithoutLocale}`);
+    router.push(paths?.[next] ?? `/${next}${pathWithoutLocale}`);
   }
 
   return (
@@ -58,7 +58,8 @@ export default function LanguageToggle() {
           background: 'var(--tag-bg)',
           color: 'var(--tag-text)',
         }}
-        aria-label="Switch language"
+        aria-label={({ en: "Switch language", fr: "Changer de langue", es: "Cambiar de idioma", zh: "切换语言" } as Record<string, string>)[locale]}
+        aria-expanded={open}
       >
         <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
           <circle cx="12" cy="12" r="10"/>

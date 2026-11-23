@@ -14,7 +14,6 @@ import Footer from '@/components/Footer';
 import TopicView from '@/components/TopicView';
 
 const BASE_URL = 'https://www.grandearcheparis.com';
-const MAPS_SHARE_URL = 'https://maps.app.goo.gl/D4CV9coWvF1NQY5DA';
 
 export function generateStaticParams() {
   const params: { locale: string; topic: string }[] = [];
@@ -64,7 +63,7 @@ export default async function TopicPage({
 }) {
   const { locale, topic } = await params;
 
-  if (!routing.locales.includes(locale as any)) notFound();
+  if (!routing.locales.some((candidate) => candidate === locale)) notFound();
   const hit = resolveTopic(locale, topic);
   if (!hit) notFound();
 
@@ -73,7 +72,9 @@ export default async function TopicPage({
   const content = t.content[loc];
 
   const selfUrl = `${BASE_URL}/${loc}/${t.slugs[loc]}`;
-  const hreflang = topicHreflangUrls(t.key);
+  const languagePaths = Object.fromEntries(routing.locales.map((language) => [
+    language, topicPath(language, t.key),
+  ])) as Record<Locale, string>;
 
   const faqLd =
     content.faq.length > 0
@@ -119,7 +120,7 @@ export default async function TopicPage({
           dangerouslySetInnerHTML={{ __html: JSON.stringify(faqLd) }}
         />
       )}
-      <Header />
+      <Header interior linkHomeSections languagePaths={languagePaths} />
       <main>
         <TopicView locale={loc} topic={t} content={content} />
       </main>

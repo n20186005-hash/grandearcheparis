@@ -1,4 +1,6 @@
 import { getMessages, setRequestLocale } from 'next-intl/server';
+import { routing } from '@/i18n/routing';
+import { notFound } from 'next/navigation';
 import Header from '@/components/Header';
 import Hero from '@/components/Hero';
 import Intro from '@/components/Intro';
@@ -20,6 +22,8 @@ import FacilitiesSection from '@/components/FacilitiesSection';
 import WeatherSection from '@/components/WeatherSection';
 import StoriesSection from '@/components/StoriesSection';
 import TopicLinks from '@/components/TopicLinks';
+import NearbyLinks from '@/components/NearbyLinks';
+import HomeStructuredData from '@/components/HomeStructuredData';
 
 export const revalidate = 900;
 
@@ -28,7 +32,9 @@ export default async function HomePage({
 }: {
   params: Promise<{ locale: string }>;
 }) {
-  const { locale } = await params;
+  const { locale: value } = await params;
+  const locale = routing.locales.find((candidate) => candidate === value);
+  if (!locale) notFound();
   setRequestLocale(locale);
 
   const messages = (await getMessages()) as {
@@ -45,10 +51,11 @@ export default async function HomePage({
 
   return (
     <>
+      <HomeStructuredData locale={locale} questions={messages.faq?.items} />
       <Header />
       <main>
         <Hero />
-        <Intro />
+        <Intro locale={locale} />
         <BasicInfo />
         <HoursSection />
         <TicketsSection />
@@ -69,6 +76,7 @@ export default async function HomePage({
         />
         <MapEmbed />
         <TopicLinks locale={locale} />
+        <NearbyLinks locale={locale} />
         <SourcesSection
           title={messages.sources?.title ?? ''}
           intro={messages.sources?.intro}

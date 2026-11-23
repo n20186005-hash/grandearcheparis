@@ -1,6 +1,8 @@
 import Link from 'next/link';
 import type { Topic, Locale } from '@/lib/topics';
 import { TOPICS, topicPath } from '@/lib/topics';
+import ArcheManagement from './ArcheManagement';
+import labels from '@/lib/nearby-labels';
 import FaqSection from '@/components/FaqSection';
 
 const ORDER: Topic['key'][] = ['visiting', 'rooftop-closed', 'getting-there'];
@@ -22,7 +24,7 @@ export default function TopicView({
   });
 
   return (
-    <article className="mx-auto max-w-3xl px-4 py-10">
+    <article className="mx-auto max-w-3xl px-4 pb-10 pt-24">
       <nav className="mb-6 text-sm text-muted-foreground">
         <Link href={`/${locale}`} className="hover:underline">
           {locale === 'zh'
@@ -45,6 +47,8 @@ export default function TopicView({
 
       <h1 className="text-3xl font-bold tracking-tight sm:text-4xl">{content.title}</h1>
       <p className="mt-4 text-lg leading-relaxed text-muted-foreground">{content.intro}</p>
+
+      <ArcheManagement locale={locale} />
 
       <div className="mt-8 space-y-8">
         {content.sections.map((section, i) => (
@@ -87,6 +91,7 @@ export default function TopicView({
               </Link>
             </li>
           ))}
+          <li><Link className="underline" href={`/${locale}#nearby`}>{labels[locale].directory}</Link></li>
         </ul>
       </section>
     </article>

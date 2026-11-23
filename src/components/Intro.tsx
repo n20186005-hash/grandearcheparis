@@ -1,6 +1,8 @@
+import ArcheManagement from './ArcheManagement';
+import type { Locale } from '@/i18n/routing';
 import { useTranslations, useMessages } from 'next-intl';
 
-export default function Intro() {
+export default function Intro({ locale }: { locale: Locale }) {
   const t = useTranslations('intro');
   const tOff = useTranslations('officialManagement');
   const messages = useMessages() as any;
@@ -74,6 +76,7 @@ export default function Intro() {
           <div className="text-base leading-relaxed whitespace-pre-wrap" style={{ color: 'var(--text-secondary)' }}>
             {tOff('text')}
           </div>
+          <ArcheManagement locale={locale} />
         </div>
       </div>
     </section>
