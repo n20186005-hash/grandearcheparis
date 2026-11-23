@@ -11,8 +11,6 @@ import { NEARBY, SITE_URL, mapSearch, nearbyPath, nearestPlaces, walkingDirectio
 
 type RouteProps = { params: Promise<{ locale: string; slug: string }> };
 
-export const dynamicParams = false;
-
 export function generateStaticParams() {
   return routing.locales.flatMap((locale) => NEARBY.map(({ slug }) => ({ locale, slug })));
 }
