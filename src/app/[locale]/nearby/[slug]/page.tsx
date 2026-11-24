@@ -42,9 +42,9 @@ export async function generateMetadata(props: RouteProps): Promise<Metadata> {
 
 function questions(locale: Locale, title: string) {
   const t = labels[locale];
-  if (locale === 'zh') return [`${t.where}${title}？`, `${t.view}${title}更合适？`, `${title}${t.admission}？`, `${title}${t.detail}？`];
+  if (locale === 'zh') return [`${t.where}${title}？`, `${t.view}${title}更合适？`, `${title}${t.admission}？`];
   const mark = locale === 'fr' ? ' ?' : '?';
-  return [t.where, t.view, t.admission, t.detail].map((question) => `${question} ${title}${mark}`);
+  return [t.where, t.view, t.admission].map((question) => `${question} ${title}${mark}`);
 }
 
 export default async function NearbyPage(props: RouteProps) {
@@ -71,12 +71,12 @@ export default async function NearbyPage(props: RouteProps) {
   const access = station ? t.stationAccess : passage ? t.passageAccess : t.publicAccess;
   const ticket = station ? t.stationTicket : passage ? t.passageTicket : t.free;
   const location = `${place.name} · ${place.district} · Paris La Défense`;
-  const [where, view, admission, detail] = questions(loc, copy.title);
+  const [where, view, admission] = questions(loc, copy.title);
   const faq = [
     { q: where, a: `${location}. ${access}` },
     { q: view, a: copy.view },
     { q: admission, a: ticket },
-    { q: detail, a: copy.story },
+    { q: copy.question, a: copy.answer },
   ];
   const faqData = {
     '@context': 'https://schema.org',
@@ -106,7 +106,7 @@ export default async function NearbyPage(props: RouteProps) {
           <section className="mt-8 space-y-3 rounded-xl border p-5" style={{ background: 'var(--card-bg)', borderColor: 'var(--border-color)' }}>
             <h2 className="text-xl font-semibold">{t.about} · {copy.title}</h2>
             <p>{manager}</p>
-            <p>{copy.view}</p>
+            <p>{copy.history}</p>
           </section>
 
           <section className="mt-8">
@@ -114,6 +114,9 @@ export default async function NearbyPage(props: RouteProps) {
             <dl className="mt-3 grid gap-x-4 gap-y-3 text-sm sm:grid-cols-[auto_1fr]">
               <dt className="font-semibold">{t.name}</dt><dd>{place.name}</dd>
               <dt className="font-semibold">{t.area}</dt><dd>{place.district} · Paris La Défense</dd>
+              {place.artist && <><dt className="font-semibold">{t.artist}</dt><dd>{place.artist}</dd></>}
+              <dt className="font-semibold">{t.material}</dt><dd>{copy.material}</dd>
+              <dt className="font-semibold">{t.installed}</dt><dd>{place.installed}</dd>
               <dt className="font-semibold">{t.duration}</dt><dd>{t.stop}</dd>
               <dt className="font-semibold">{t.access}</dt><dd>{access}</dd>
               <dt className="font-semibold">{t.ticket}</dt><dd>{ticket}</dd>
@@ -124,7 +127,7 @@ export default async function NearbyPage(props: RouteProps) {
             <h2 className="text-xl font-semibold">{t.route}</h2>
             <ol className="mt-3 list-decimal space-y-2 pl-5">
               <li><a className="underline" style={{ color: 'var(--accent)' }} href={direction}>{t.directions}</a></li>
-              <li>{copy.view}</li>
+              <li>{copy.walk}</li>
               <li><Link className="underline" style={{ color: 'var(--accent)' }} href={nearbyPath(loc, nearby[0].slug)}>{nearby[0].copy[loc].title}</Link></li>
             </ol>
           </section>

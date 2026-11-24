@@ -10,24 +10,46 @@
       "en": {
         "title": "Le Pouce by César",
         "story": "César enlarged a cast of his own thumb into a twelve-metre bronze.",
-        "view": "Step back until the full thumb fits above the paving, then move closer to pick out the ridges."
+        "view": "Step back until the full thumb fits above the paving, then move closer to pick out the ridges.",
+        "material": "Polished, waxed and varnished bronze",
+        "history": "César made a thumb about forty centimetres high for an exhibition about the hand in 1965. The roughly eighteen-tonne La Défense version takes that cast from the scale of an exhibit to the scale of a monument.",
+        "walk": "Start on the open paving in Coupole-Regnault, where the raised thumb cuts into the tower skyline. Near the base, the outline gives way to the much finer textures of the nail edge, joint and thumb pad.",
+        "question": "Where can I see evidence that this was cast from a real thumb?",
+        "answer": "Move to the side facing the thumb pad on the public paving and follow the enlarged skin ridges toward the joint."
       },
       "fr": {
         "title": "Le Pouce de César",
         "story": "César a agrandi le moulage de son propre pouce pour en faire un bronze de douze mètres.",
-        "view": "Reculez pour cadrer le pouce entier au-dessus du dallage, puis approchez-vous pour distinguer ses stries."
+        "view": "Reculez pour cadrer le pouce entier au-dessus du dallage, puis approchez-vous pour distinguer ses stries.",
+        "material": "Bronze poli, ciré et verni",
+        "history": "César a réalisé un pouce d’environ quarante centimètres pour une exposition consacrée à la main en 1965. La version de La Défense, qui pèse environ dix-huit tonnes, porte ce moulage à l’échelle d’un monument.",
+        "walk": "Partez du dallage dégagé de Coupole-Regnault, où le pouce levé se découpe parmi les tours. Près du socle, le contour laisse place aux textures plus fines de l’ongle, de l’articulation et de la pulpe.",
+        "question": "D’où voit-on qu’il s’agit du moulage d’un vrai pouce ?",
+        "answer": "Depuis le dallage public, placez-vous face à la pulpe et suivez les stries agrandies jusqu’à l’articulation."
       },
       "es": {
         "title": "El Pulgar de César",
         "story": "César amplió un molde de su propio pulgar hasta convertirlo en un bronce de doce metros.",
-        "view": "Retrocede hasta encuadrar el pulgar sobre el pavimento y acércate luego para ver sus surcos."
+        "view": "Retrocede hasta encuadrar el pulgar sobre el pavimento y acércate luego para ver sus surcos.",
+        "material": "Bronce pulido, encerado y barnizado",
+        "history": "César hizo un pulgar de unos cuarenta centímetros para una exposición sobre la mano en 1965. La versión de La Défense, de unas dieciocho toneladas, lleva ese molde a la escala de un monumento.",
+        "walk": "Empieza en el pavimento abierto de Coupole-Regnault, donde el pulgar se recorta entre las torres. Cerca de la base destacan las texturas más finas del borde de la uña, la articulación y la yema.",
+        "question": "¿Dónde se aprecia que el molde procede de un pulgar real?",
+        "answer": "Desde el pavimento público, sitúate frente a la yema y sigue los surcos ampliados de la piel hasta la articulación."
       },
       "zh": {
         "title": "塞扎尔的拇指",
         "story": "塞扎尔以自己的拇指翻模，铸成这件十二米高的青铜雕塑。",
-        "view": "先退到能把指尖和地面一并摄入的位置，再走近观察指纹。"
+        "view": "先退到能把指尖和地面一并摄入的位置，再走近观察指纹。",
+        "material": "青铜，经抛光、上蜡和罩漆",
+        "history": "塞扎尔在 1965 年为一场以手为主题的展览做出约四十厘米高的拇指模型。落户拉德芳斯的版本重约十八吨，把人体翻模放大到纪念碑的尺度。",
+        "walk": "先从 Coupole-Regnault 的开阔步行区看拇指如何插入塔楼天际线，再走向基座。远处一眼就能认出手势，近处却会发现甲缘、关节和指腹的纹路各不相同。",
+        "question": "哪里能看出这是真实拇指的翻模？",
+        "answer": "在公共铺地上移到能看见指腹的一侧，再顺着放大的皮肤纹理看向关节。"
       }
-    }
+    },
+    "artist": "César Baldaccini",
+    "installed": 1994
   },
   {
     "slug": "personnages-fantastiques",
@@ -40,24 +62,46 @@
       "en": {
         "title": "Fantastic Characters by Miró",
         "story": "Joan Miró’s two painted figures rise above the entrance to Westfield Les Quatre Temps.",
-        "view": "Watch from the pedestrian plaza and use the shopping centre entrance to show the scale of both figures."
+        "view": "Watch from the pedestrian plaza and use the shopping centre entrance to show the scale of both figures.",
+        "material": "Steel, polyester composite and paint",
+        "history": "The pair was installed before the shopping centre opened. Red, yellow and blue tie the two twelve-metre characters together, while their outlines give them distinct personalities.",
+        "walk": "See both from the pedestrian plaza opposite the Les Quatre Temps entrance, then walk diagonally along the outside of the entrance. At a distance the colours read as a pair. From an angle it is easier to see which projections, curves and gaps belong to each figure.",
+        "question": "Do I need to enter the mall to see both figures?",
+        "answer": "Both are visible from the plaza. For a photograph of the pair, move sideways until their outlines separate."
       },
       "fr": {
         "title": "Les Personnages fantastiques de Miró",
         "story": "Les deux figures peintes de Joan Miró dominent l’entrée de Westfield Les Quatre Temps.",
-        "view": "Depuis la place piétonne, cadrez l’entrée du centre commercial pour donner l’échelle des deux figures."
+        "view": "Depuis la place piétonne, cadrez l’entrée du centre commercial pour donner l’échelle des deux figures.",
+        "material": "Acier, composite polyester et peinture",
+        "history": "Les deux figures ont été installées avant l’ouverture du centre commercial. Le rouge, le jaune et le bleu unissent ces personnages de douze mètres, tandis que leurs contours leur donnent des allures différentes.",
+        "walk": "Observez-les ensemble depuis la place piétonne face à l’entrée des Quatre Temps, puis longez l’extérieur de l’entrée en biais. De loin, les couleurs font pendant. De trois quarts, les saillies, les courbes et les vides se rattachent plus clairement à chaque figure.",
+        "question": "Faut-il entrer dans le centre pour voir les deux figures ?",
+        "answer": "Les deux sont visibles depuis la place. Pour les photographier ensemble, décalez-vous jusqu’à séparer leurs silhouettes."
       },
       "es": {
         "title": "Personajes fantásticos de Miró",
         "story": "Las dos figuras pintadas de Joan Miró se elevan sobre la entrada de Westfield Les Quatre Temps.",
-        "view": "Míralas desde la plaza peatonal y usa la entrada del centro comercial como referencia de escala."
+        "view": "Míralas desde la plaza peatonal y usa la entrada del centro comercial como referencia de escala.",
+        "material": "Acero, compuesto de poliéster y pintura",
+        "history": "Las dos figuras se instalaron antes de que abriera el centro comercial. El rojo, el amarillo y el azul unen a los personajes de doce metros, mientras sus siluetas les dan un carácter distinto.",
+        "walk": "Míralas juntas desde la plaza frente a la entrada de Les Quatre Temps y luego recorre el exterior de la entrada en diagonal. De lejos se lee la pareja de colores. De lado resulta más fácil asignar salientes, curvas y huecos a cada personaje.",
+        "question": "¿Hay que entrar en el centro comercial para ver las dos figuras?",
+        "answer": "Ambas se ven desde la plaza. Para fotografiarlas juntas, desplázate hasta que se separen sus siluetas."
       },
       "zh": {
         "title": "米罗的奇幻人物",
         "story": "米罗的两尊彩绘人物矗立在 Westfield Les Quatre Temps 入口旁。",
-        "view": "站在步行广场，把商场入口摄入画面，便能对照两尊人物的尺度。"
+        "view": "站在步行广场，把商场入口摄入画面，便能对照两尊人物的尺度。",
+        "material": "钢、聚酯复合材料和彩漆",
+        "history": "这对作品在商场开业前便已安置于此。米罗用红、黄、蓝把两个约十二米高的角色联在一起，轮廓却各有不同。",
+        "walk": "从 Les Quatre Temps 入口对面的步行广场同时看两尊雕塑，再沿入口外侧斜着走。远处先看到成对的色块，斜视时更容易看出哪些突起、弯曲和空隙属于哪一个角色。",
+        "question": "看这对雕塑要进商场吗？",
+        "answer": "两件都能从入口外的广场观看。想同时拍全，可在广场上横移，让两个轮廓分开。"
       }
-    }
+    },
+    "artist": "Joan Miró",
+    "installed": 1976
   },
   {
     "slug": "araignee-rouge",
@@ -70,24 +114,46 @@
       "en": {
         "title": "Calder’s Red Spider",
         "story": "Calder chose this plaza for his fixed red steel sculpture, installed in 1976.",
-        "view": "Move sideways across the plaza until the red legs separate visually against the towers."
+        "view": "Move sideways across the plaza until the red legs separate visually against the towers.",
+        "material": "Painted steel",
+        "history": "Calder called this kind of fixed sculpture a stabile. About fifteen metres high and seventy-five tonnes, it shares with his Chicago Flamingo an open structure made from large steel plates.",
+        "walk": "Start at the edge of the plaza with the towers behind the red outline, then cross a stretch of open paving. As you move obliquely, overlapping supports pull apart and the visible ground beneath the steel changes with each step.",
+        "question": "Does wind make the Red Spider move?",
+        "answer": "The sculpture is fixed. Walk along the plaza to see the gaps between its supports open and close."
       },
       "fr": {
         "title": "L’Araignée rouge de Calder",
         "story": "Calder a choisi cette place pour son stabile rouge en acier, installé en 1976.",
-        "view": "Décalez-vous sur la place jusqu’à ce que les pieds rouges se détachent les uns des autres devant les tours."
+        "view": "Décalez-vous sur la place jusqu’à ce que les pieds rouges se détachent les uns des autres devant les tours.",
+        "material": "Acier peint",
+        "history": "Calder appelait stabile ce type de sculpture fixe. Haute d’environ quinze mètres et lourde de soixante-quinze tonnes, elle partage avec son Flamingo de Chicago une structure ouverte faite de grandes plaques d’acier.",
+        "walk": "Commencez au bord de la place, les tours derrière la silhouette rouge, puis traversez une portion du dallage dégagé. En oblique, les pieds superposés se séparent et la portion de sol visible sous les plaques change à chaque pas.",
+        "question": "Le vent fait-il bouger l’Araignée rouge ?",
+        "answer": "La sculpture est fixe. En longeant la place, vous verrez les vides entre les pieds s’ouvrir et se refermer."
       },
       "es": {
         "title": "La Araña roja de Calder",
         "story": "Calder escogió esta plaza para su escultura fija de acero rojo, instalada en 1976.",
-        "view": "Desplázate lateralmente por la plaza hasta distinguir cada pata roja frente a las torres."
+        "view": "Desplázate lateralmente por la plaza hasta distinguir cada pata roja frente a las torres.",
+        "material": "Acero pintado",
+        "history": "Calder llamaba stabile a este tipo de escultura fija. De unos quince metros de altura y setenta y cinco toneladas, comparte con su Flamingo de Chicago una estructura abierta de grandes placas de acero.",
+        "walk": "Empieza en el borde de la plaza, con las torres detrás de la silueta roja, y cruza un tramo libre del pavimento. En diagonal, los apoyos superpuestos se separan y cambia la porción de suelo visible bajo las placas.",
+        "question": "¿Mueve el viento la Araña roja?",
+        "answer": "La escultura es fija. Camina por la plaza para ver cómo se abren y se cierran los huecos entre sus apoyos."
       },
       "zh": {
         "title": "考尔德的红蜘蛛",
         "story": "考尔德亲自为这座红钢雕塑选址，作品于 1976 年落成。",
-        "view": "沿广场横向移动，找到红色支脚彼此错开的角度，以塔楼作背景。"
+        "view": "沿广场横向移动，找到红色支脚彼此错开的角度，以塔楼作背景。",
+        "material": "涂漆钢板",
+        "history": "考尔德把这类固定雕塑称为 stabile。这件作品高约十五米、重约七十五吨，与他在芝加哥的《火烈鸟》同样以展开的钢板支撑庞大体量。",
+        "walk": "先在广场外缘借塔楼看红色轮廓，再横穿一段开放铺地。斜看时，两条叠在一起的支脚会分开，钢板下方透出的地面也随步伐改变。",
+        "question": "风会让红蜘蛛动起来吗？",
+        "answer": "这件作品是固定雕塑。沿广场移动，支脚之间开合的空隙就是你能看到的变化。"
       }
-    }
+    },
+    "artist": "Alexander Calder",
+    "installed": 1976
   },
   {
     "slug": "fontaine-monumentale",
@@ -100,24 +166,46 @@
       "en": {
         "title": "Agam’s Monumental Fountain",
         "story": "Yaacov Agam set coloured Venetian enamels along the long spillway to suggest motion even when the water stops.",
-        "view": "Follow the upper edge on the pedestrian side, then look back across the mosaic from the lower square if the route is open."
+        "view": "Follow the upper edge on the pedestrian side, then look back across the mosaic from the lower square if the route is open.",
+        "material": "Reinforced concrete, ceramics, Venetian enamel, granite, water and light",
+        "history": "Agam arranged eighty-six shades of colour along a spillway about seventy-two metres long. In operation, water travels down toward the lower square. When the fountain is off, the bands of colour still direct the eye along the slope.",
+        "walk": "Follow the long edge of the pool from the upper pedestrian axis, then take an open walking route down and look back. The upper view shows how the pattern stretches out. From below, you can take in the face of the cascade and its upper edge together.",
+        "question": "Is it worth stopping when the fountain is off?",
+        "answer": "See the mosaic from the open pedestrian edge. Pick out individual tiles at one end, then step back to watch the bands join into a wave."
       },
       "fr": {
         "title": "La Fontaine monumentale d’Agam",
         "story": "Yaacov Agam a composé le déversoir avec des émaux vénitiens dont les couleurs suggèrent un mouvement même à l’arrêt.",
-        "view": "Longez le bassin côté piéton, puis regardez la mosaïque depuis la place basse si le passage est ouvert."
+        "view": "Longez le bassin côté piéton, puis regardez la mosaïque depuis la place basse si le passage est ouvert.",
+        "material": "Béton armé, céramique, émaux vénitiens, granit, eau et lumière",
+        "history": "Agam a disposé quatre-vingt-six nuances sur un déversoir long d’environ soixante-douze mètres. En fonctionnement, l’eau descend vers la place basse. À l’arrêt, les bandes colorées continuent de guider le regard sur la pente.",
+        "walk": "Longez le grand côté du bassin depuis l’axe piéton supérieur, puis empruntez un chemin ouvert vers le bas pour vous retourner. D’en haut, le motif se déploie en longueur. D’en bas, la pente et son rebord supérieur entrent dans le même champ.",
+        "question": "La fontaine vaut-elle un arrêt quand elle est à sec ?",
+        "answer": "Regardez la mosaïque depuis le bord piéton accessible. Repérez les tesselles à une extrémité, puis reculez pour voir les bandes former une vague."
       },
       "es": {
         "title": "Fuente monumental de Agam",
         "story": "Yaacov Agam cubrió el aliviadero con esmaltes venecianos cuyos colores sugieren movimiento incluso con el agua parada.",
-        "view": "Bordea el estanque por el lado peatonal y, si el paso está abierto, mira el mosaico desde la plaza inferior."
+        "view": "Bordea el estanque por el lado peatonal y, si el paso está abierto, mira el mosaico desde la plaza inferior.",
+        "material": "Hormigón armado, cerámica, esmaltes venecianos, granito, agua y luz",
+        "history": "Agam dispuso ochenta y seis tonos en un aliviadero de unos setenta y dos metros. Cuando funciona, el agua baja hacia la plaza inferior. Con la fuente apagada, las franjas de color siguen guiando la vista por la pendiente.",
+        "walk": "Sigue el lado largo del estanque desde el eje peatonal superior y baja por un paso abierto para mirar hacia atrás. Desde arriba se aprecia la longitud del dibujo. Desde abajo se ven juntas la pendiente de la cascada y su parte alta.",
+        "question": "¿Merece la pena parar cuando la fuente está apagada?",
+        "answer": "Mira el mosaico desde el borde peatonal disponible. Distingue algunas teselas en un extremo y retrocede para ver cómo las bandas forman una onda."
       },
       "zh": {
         "title": "阿加姆纪念喷泉",
         "story": "雅科夫·阿加姆把威尼斯彩色珐琅铺在长长的溢水坡上，停水时仍能看出色块的动势。",
-        "view": "沿池边的步行侧走一段，若下层通道开放，可下到广场回望马赛克。"
+        "view": "沿池边的步行侧走一段，若下层通道开放，可下到广场回望马赛克。",
+        "material": "钢筋混凝土、陶瓷、威尼斯珐琅、花岗岩、水和灯光",
+        "history": "阿加姆在约七十二米长的溢水坡面排列了八十六种色调。水运行时从坡面流向下方广场，色带仍可在停水时引导视线。",
+        "walk": "先从中央步行轴上方顺着水池长边看色带，再沿开放的人行路线到低处回望。上方能看清图案怎样延伸，下方则能把坡面和上缘纳进同一视野。",
+        "question": "喷泉停水时还值得看吗？",
+        "answer": "沿开放的步行边缘看马赛克。靠近一端辨认单个色块，再退几步看它们怎样连成波纹。"
       }
-    }
+    },
+    "artist": "Yaacov Agam",
+    "installed": 1988
   },
   {
     "slug": "moretti",
@@ -130,24 +218,46 @@
       "en": {
         "title": "Le Moretti",
         "story": "Raymond Moretti wrapped a working ventilation shaft in hundreds of tubes of different widths and colours.",
-        "view": "Look up from an open spot in Iris, then use the neighbouring building edges to emphasize the shaft’s vertical lines."
+        "view": "Look up from an open spot in Iris, then use the neighbouring building edges to emphasize the shaft’s vertical lines.",
+        "material": "Reinforced plastic and fibreglass",
+        "history": "Moretti clad a roughly thirty-two-metre ventilation shaft in 672 fibreglass tubes. Their diameters range from about two to thirty centimetres. Nineteen colours turn the working shaft into a landmark.",
+        "walk": "Back up along the public passage in Iris until you can see the top and compare it with the vertical lines of nearby buildings. Closer in, look up to see narrow and broad tubes running side by side along the shaft.",
+        "question": "Why do some stripes look wider than others?",
+        "answer": "Look obliquely up one edge from below. The stripes are round tubes of different diameters that also cast different widths of shadow in daylight."
       },
       "fr": {
         "title": "Le Moretti",
         "story": "Raymond Moretti a habillé une gaine de ventilation de centaines de tubes de diamètres et de couleurs variés.",
-        "view": "Levez les yeux depuis un dégagement du quartier Iris, puis cadrez les arêtes des immeubles pour souligner la verticalité."
+        "view": "Levez les yeux depuis un dégagement du quartier Iris, puis cadrez les arêtes des immeubles pour souligner la verticalité.",
+        "material": "Plastique renforcé et fibre de verre",
+        "history": "Moretti a habillé une cheminée de ventilation d’environ trente-deux mètres avec 672 tubes en fibre de verre. Leur diamètre varie d’environ deux à trente centimètres. Dix-neuf couleurs font de cet équipement toujours en service un repère du quartier.",
+        "walk": "Reculez dans le passage public d’Iris jusqu’à voir le sommet et comparez-le aux verticales des bâtiments voisins. De plus près, levez les yeux pour suivre les tubes fins et larges qui montent côte à côte.",
+        "question": "Pourquoi certaines bandes semblent-elles plus larges ?",
+        "answer": "Levez les yeux de biais vers un bord. Les bandes sont des tubes ronds de diamètres différents, dont les ombres varient aussi en largeur au soleil."
       },
       "es": {
         "title": "Le Moretti",
         "story": "Raymond Moretti revistió un conducto de ventilación con cientos de tubos de distintos diámetros y colores.",
-        "view": "Mira hacia arriba desde un espacio despejado en Iris y encuadra las aristas de los edificios para resaltar la verticalidad."
+        "view": "Mira hacia arriba desde un espacio despejado en Iris y encuadra las aristas de los edificios para resaltar la verticalidad.",
+        "material": "Plástico reforzado y fibra de vidrio",
+        "history": "Moretti recubrió un conducto de ventilación de unos treinta y dos metros con 672 tubos de fibra de vidrio. Sus diámetros van de unos dos a treinta centímetros. Diecinueve colores convierten el conducto en uso en un punto de referencia.",
+        "walk": "Retrocede por el paso público de Iris hasta ver la parte alta y compárala con las líneas verticales de los edificios. Acércate y mira hacia arriba para ver cómo suben juntos los tubos estrechos y los anchos.",
+        "question": "¿Por qué algunas franjas se ven más anchas que otras?",
+        "answer": "Mira en diagonal hacia uno de los bordes. Cada franja es un tubo redondo de distinto diámetro que también proyecta una sombra de distinto ancho con sol."
       },
       "zh": {
         "title": "莫雷蒂通风塔",
         "story": "雷蒙·莫雷蒂用数百根不同颜色和粗细的管子包裹了一根通风井。",
-        "view": "从 Iris 街区的开阔位置向上看，把旁边楼体的边线带入画面。"
+        "view": "从 Iris 街区的开阔位置向上看，把旁边楼体的边线带入画面。",
+        "material": "增强塑料和玻璃纤维",
+        "history": "莫雷蒂用 672 根玻璃纤维管包住一座约三十二米高的通风井。管径从约两厘米到三十厘米，十九种颜色把一直用于通风的设施变成了街区地标。",
+        "walk": "从 Iris 的公共通道退到能看见井体上端的位置，先把它与附近楼体的竖线相比。走近之后仰望，观察粗管和细管是如何沿外壁并列向上延伸的。",
+        "question": "为什么有些色带看上去比别的宽？",
+        "answer": "在下方斜看一侧边缘，能看出色带来自不同口径的圆管，边缘也会在日光下投出不同宽度的阴影。"
       }
-    }
+    },
+    "artist": "Raymond Moretti",
+    "installed": 1992
   },
   {
     "slug": "bassin",
@@ -160,24 +270,46 @@
       "en": {
         "title": "Takis Basin",
         "story": "Takis placed 49 stems with geometric heads in the basin at the Paris-facing end of the esplanade.",
-        "view": "Look along the rows from the promenade. If the basin has water, try lining up the coloured heads with their reflections."
+        "view": "Look along the rows from the promenade. If the basin has water, try lining up the coloured heads with their reflections.",
+        "material": "Steel, water, light, paint and stone",
+        "history": "Takis placed forty-nine lighted stems at the Paris-facing end of the historic axis. Three years later he installed Signaux behind the Grande Arche.",
+        "walk": "Look down the rows from the long side, then walk to a corner of the promenade. The head-on view shows the rows. From the corner, the different heights and shapes of the lamp heads separate.",
+        "question": "What can I look for when there are no reflections?",
+        "answer": "Lift your gaze from the basin to the sky and compare the lamp heads at different heights."
       },
       "fr": {
         "title": "Le Bassin de Takis",
         "story": "Takis a placé 49 tiges coiffées de formes géométriques dans le bassin à l’extrémité parisienne de l’esplanade.",
-        "view": "Suivez les rangées du regard depuis la promenade. Si le bassin est en eau, cherchez l’alignement entre les formes et leurs reflets."
+        "view": "Suivez les rangées du regard depuis la promenade. Si le bassin est en eau, cherchez l’alignement entre les formes et leurs reflets.",
+        "material": "Acier, eau, lumière, peinture et pierre",
+        "history": "Takis a placé quarante-neuf tiges lumineuses à l’extrémité de l’axe historique tournée vers Paris. Trois ans plus tard, il a installé les Signaux derrière la Grande Arche.",
+        "walk": "Suivez du regard les rangées depuis le grand côté, puis gagnez un angle de la promenade. De face, les rangs se lisent mieux. De biais, les formes et les hauteurs des lampes se différencient.",
+        "question": "Que regarder sans reflets ?",
+        "answer": "Levez les yeux du bassin vers le ciel et comparez les formes lumineuses à différentes hauteurs."
       },
       "es": {
         "title": "Estanque de Takis",
         "story": "Takis colocó 49 postes coronados por formas geométricas en el estanque del extremo de la explanada que mira a París.",
-        "view": "Observa las filas desde el paseo y, si hay agua, busca un ángulo que reúna las figuras coloreadas y sus reflejos."
+        "view": "Observa las filas desde el paseo y, si hay agua, busca un ángulo que reúna las figuras coloreadas y sus reflejos.",
+        "material": "Acero, agua, luz, pintura y piedra",
+        "history": "Takis instaló cuarenta y nueve mástiles luminosos en el extremo del eje histórico que mira a París. Tres años después colocó Signaux detrás del Gran Arco.",
+        "walk": "Sigue las filas desde el lado largo y camina hasta una esquina del paseo. De frente se leen las filas. Desde la esquina se distinguen las formas y alturas de las luces.",
+        "question": "¿Qué puedo observar si no hay reflejos?",
+        "answer": "Alza la vista del estanque al cielo y compara las formas de las luces a distintas alturas."
       },
       "zh": {
         "title": "塔基斯水池",
         "story": "塔基斯在面向巴黎的一端设置水池，池中有 49 根顶端带几何造型的立杆。",
-        "view": "在步道上顺着立杆的排布看过去，池中有水时，可找一个角度同时拍下彩色造型和倒影。"
+        "view": "在步道上顺着立杆的排布看过去，池中有水时，可找一个角度同时拍下彩色造型和倒影。",
+        "material": "钢、水、灯光、涂漆和石材",
+        "history": "塔基斯把四十九根灯杆安置在历史轴线朝向巴黎的一端，三年后又在大拱门背面布置《信号》。",
+        "walk": "从长边顺着灯杆成列的方向看，再走到步道转角。正面更容易数出层次，斜角则让不同高度的几何灯头分离。",
+        "question": "水池没有倒影时看什么？",
+        "answer": "把视线从池面移向天空，比较灯头的几何形状与高低。"
       }
-    }
+    },
+    "artist": "Takis (Panayotis Vassilakis)",
+    "installed": 1988
   },
   {
     "slug": "voiture-sur-lampadaire",
@@ -190,24 +322,46 @@
       "en": {
         "title": "Car on a Streetlight",
         "story": "Benedetto Bufalino inverted a white Peugeot 406 and mounted it atop a streetlight. The artwork moved to Valmy in 2020.",
-        "view": "In Valmy, stand back far enough to include the pole and car in one frame. The wheels are easiest to read from the side."
+        "view": "In Valmy, stand back far enough to include the pole and car in one frame. The wheels are easiest to read from the side.",
+        "material": "Peugeot 406 and streetlamp",
+        "history": "Bufalino made this for Les Extatiques in 2019. It first stood near Le Moretti before moving to Valmy.",
+        "walk": "Start on the Valmy walkway with the entire pole in view, then move along the edge of the plaza to see the car in profile. The position of the wheels and windows makes the inversion more apparent.",
+        "question": "Is the upside-down car easiest to read from the front?",
+        "answer": "A side view is clearer. Stay on the walkway and look for a spot where both wheels and the roof are in view."
       },
       "fr": {
         "title": "La Voiture sur le lampadaire",
         "story": "Benedetto Bufalino a retourné une Peugeot 406 blanche au sommet d’un candélabre. L’œuvre a rejoint le quartier Valmy en 2020.",
-        "view": "À Valmy, reculez pour cadrer ensemble le mât et la voiture. Les roues se lisent mieux de profil."
+        "view": "À Valmy, reculez pour cadrer ensemble le mât et la voiture. Les roues se lisent mieux de profil.",
+        "material": "Peugeot 406 et candélabre",
+        "history": "Bufalino a créé l’œuvre pour Les Extatiques en 2019. Placée d’abord près du Moretti, elle a ensuite gagné Valmy.",
+        "walk": "Sur le cheminement de Valmy, cadrez d’abord le lampadaire entier, puis longez la place jusqu’à voir la voiture de profil. La position des roues et des vitres fait mieux comprendre le renversement.",
+        "question": "Le retournement est-il évident de face ?",
+        "answer": "Il se lit mieux de profil. Restez côté piéton et cherchez un point où les deux roues et le toit sont visibles."
       },
       "es": {
         "title": "Coche sobre una farola",
         "story": "Benedetto Bufalino montó un Peugeot 406 blanco boca abajo sobre una farola. La pieza se trasladó a Valmy en 2020.",
-        "view": "En Valmy, retrocede para incluir el poste y el coche en un mismo encuadre. Las ruedas se distinguen mejor de perfil."
+        "view": "En Valmy, retrocede para incluir el poste y el coche en un mismo encuadre. Las ruedas se distinguen mejor de perfil.",
+        "material": "Peugeot 406 y farola",
+        "history": "Bufalino creó la obra para Les Extatiques en 2019. Primero estuvo cerca de Le Moretti y después pasó a Valmy.",
+        "walk": "En el paseo de Valmy, encuadra primero la farola entera y luego recorre el borde de la plaza hasta ver el coche de perfil. La posición de las ruedas y las ventanillas aclara cómo está invertido.",
+        "question": "¿Se aprecia la inversión del coche de frente?",
+        "answer": "Se lee mejor de lado. Sigue por el paseo hasta ver juntas las dos ruedas y el techo."
       },
       "zh": {
         "title": "路灯上的汽车",
         "story": "贝内代托·布法利诺把一辆白色标致 406 倒扣在路灯顶端，作品于 2020 年移至 Valmy。",
-        "view": "在 Valmy 后退几步，把灯柱和车一起摄入画面。从侧面看，车轮最明显。"
+        "view": "在 Valmy 后退几步，把灯柱和车一起摄入画面。从侧面看，车轮最明显。",
+        "material": "标致 406 汽车、路灯杆",
+        "history": "比法利诺为 2019 年 Les Extatiques 展创作这件作品，最初在 Le Moretti 附近展示，后来移至 Valmy。",
+        "walk": "从 Valmy 步道先看整根灯杆，判断车身与街灯的比例，再沿广场外侧移到汽车侧面。车轮和车窗的位置让倒置关系一目了然。",
+        "question": "从车头方向能看出车是倒扣的吗？",
+        "answer": "侧面更清楚。沿人行道走到能同时看到两只车轮和车顶的位置。"
       }
-    }
+    },
+    "artist": "Benedetto Bufalino",
+    "installed": 2020
   },
   {
     "slug": "defense-paris",
@@ -220,24 +374,46 @@
       "en": {
         "title": "La Défense de Paris monument",
         "story": "Louis-Ernest Barrias’s 1883 bronze commemorates the defence of Paris during the 1870 war and gives the district its name.",
-        "view": "Look around the base to find all three figures. The civilian child appears on the far side of the flag bearer."
+        "view": "Look around the base to find all three figures. The civilian child appears on the far side of the flag bearer.",
+        "material": "Bronze",
+        "history": "The City of Paris held a competition to honour the soldiers and civilians who defended the capital in 1870. Barrias’s winning work was unveiled at the former roundabout in 1883 and gave La Défense its name.",
+        "walk": "From the pedestrian axis, see how the flag rises above the plinth, then follow the paving round toward the back. The upright figure dominates the front. From the side, the wounded soldier and the child can be seen together.",
+        "question": "Is this the sculpture that gave La Défense its name?",
+        "answer": "Yes. After spotting the bronze from the axis, walk around the plinth to find the defender, the soldier and the child representing civilians."
       },
       "fr": {
         "title": "Le monument La Défense de Paris",
         "story": "Le bronze de 1883 de Louis-Ernest Barrias commémore la défense de Paris pendant la guerre de 1870 et a donné son nom au quartier.",
-        "view": "Faites le tour du socle pour retrouver les trois figures. L’enfant se trouve de l’autre côté de la porte-drapeau."
+        "view": "Faites le tour du socle pour retrouver les trois figures. L’enfant se trouve de l’autre côté de la porte-drapeau.",
+        "material": "Bronze",
+        "history": "La Ville de Paris a organisé un concours pour honorer les soldats et les civils qui avaient défendu la capitale en 1870. L’œuvre primée de Barrias a été inaugurée sur l’ancien rond-point en 1883 et a donné son nom à La Défense.",
+        "walk": "Depuis l’axe piéton, regardez le drapeau au-dessus du socle, puis contournez celui-ci sur le dallage. La figure debout domine la vue de face. De côté, le soldat blessé et l’enfant apparaissent ensemble.",
+        "question": "Est-ce cette sculpture qui a donné son nom à La Défense ?",
+        "answer": "Oui. Après avoir repéré le bronze depuis l’axe, faites le tour du socle pour trouver la défenseuse, le soldat et l’enfant qui représente les civils."
       },
       "es": {
         "title": "Monumento La Défense de Paris",
         "story": "El bronce de 1883 de Louis-Ernest Barrias conmemora la defensa de París en la guerra de 1870 y da nombre al barrio.",
-        "view": "Rodea el pedestal para localizar las tres figuras. La niña aparece al otro lado de la abanderada."
+        "view": "Rodea el pedestal para localizar las tres figuras. La niña aparece al otro lado de la abanderada.",
+        "material": "Bronce",
+        "history": "La ciudad de París convocó un concurso en honor a los soldados y civiles que defendieron la capital en 1870. La obra ganadora de Barrias se inauguró en la antigua glorieta en 1883 y dio nombre a La Défense.",
+        "walk": "Desde el eje peatonal, mira la bandera sobre el pedestal y rodea el conjunto por el pavimento. La figura erguida domina de frente. De lado se ven juntos el soldado herido y la niña.",
+        "question": "¿Esta escultura dio nombre a La Défense?",
+        "answer": "Sí. Después de localizar el bronce desde el eje, rodea el pedestal para encontrar a la defensora, al soldado y a la niña que representa a la población civil."
       },
       "zh": {
         "title": "巴黎保卫战纪念雕像",
         "story": "路易-欧内斯特·巴里亚斯的青铜群雕于 1883 年落成，纪念 1870 年战争中的巴黎保卫战，拉德芳斯也因此得名。",
-        "view": "绕底座观察三个人物。代表平民的孩子在持旗人另一侧。"
+        "view": "绕底座观察三个人物。代表平民的孩子在持旗人另一侧。",
+        "material": "青铜",
+        "history": "巴黎市为纪念 1870 年保卫首都的军民举办竞赛。巴里亚的作品胜出后，于 1883 年在当时的环岛揭幕，拉德芳斯街区由此得名。",
+        "walk": "从步行轴线上看旗帜与基座如何形成一座小型纪念碑，再沿公共铺地绕到侧后方。正面是昂首而立的主体，转角后才能把受伤的士兵与一旁的孩子一同纳入视野。",
+        "question": "拉德芳斯的名字来自这座雕像吗？",
+        "answer": "是。沿轴线看到这座青铜群像后，可绕基座看三个人物，分别找出守卫者、士兵和代表平民的孩子。"
       }
-    }
+    },
+    "artist": "Louis-Ernest Barrias",
+    "installed": 1883
   },
   {
     "slug": "scratching-surface",
@@ -250,24 +426,46 @@
       "en": {
         "title": "Scratching the Surface by Vhils",
         "story": "Vhils used recesses and shadows in a wall near IÉSEG to reveal two faces within a geometric pattern.",
-        "view": "Start across from the wall to see both portraits together. Walk closer to see how the carved surface creates the lighter marks."
+        "view": "Start across from the wall to see both portraits together. Walk closer to see how the carved surface creates the lighter marks.",
+        "material": "Carved wall mural",
+        "history": "The Portuguese artist brought his international wall portrait project to the Jardins de l’Arche near IÉSEG. The two faces are anonymous.",
+        "walk": "Find both faces from across the path, then walk along the wall toward one. At a distance the work reads like a black-and-white photograph. Up close, the tones come from recesses, edges and areas of surviving surface.",
+        "question": "How can I see the relief in the mural?",
+        "answer": "Look along a contour from an angle on the pedestrian side to see the change in depth between the recess and intact wall."
       },
       "fr": {
         "title": "Scratching the Surface de Vhils",
         "story": "Vhils a fait surgir deux visages au milieu de motifs géométriques en creusant un mur près de l’IÉSEG.",
-        "view": "Regardez d’abord les deux portraits de face depuis le recul disponible, puis approchez-vous pour voir le relief du mur."
+        "view": "Regardez d’abord les deux portraits de face depuis le recul disponible, puis approchez-vous pour voir le relief du mur.",
+        "material": "Fresque gravée dans le mur",
+        "history": "L’artiste portugais a prolongé son projet international de portraits muraux aux Jardins de l’Arche, près de l’IÉSEG. Les deux visages sont anonymes.",
+        "walk": "Repérez les deux visages depuis le côté opposé du chemin, puis longez le mur vers l’un d’eux. De loin, la fresque évoque une photo en noir et blanc. De près, les tons proviennent des creux, des arêtes et de la surface conservée.",
+        "question": "Comment voir le relief de la fresque ?",
+        "answer": "Observez un contour en biais depuis le côté piéton pour distinguer le creux et la surface du mur."
       },
       "es": {
         "title": "Scratching the Surface de Vhils",
         "story": "Vhils hizo aparecer dos rostros entre formas geométricas al tallar un muro cerca de IÉSEG.",
-        "view": "Mira primero ambos retratos desde enfrente y acércate después para distinguir las marcas claras del relieve."
+        "view": "Mira primero ambos retratos desde enfrente y acércate después para distinguir las marcas claras del relieve.",
+        "material": "Mural tallado en el muro",
+        "history": "El artista portugués llevó su proyecto internacional de retratos murales a los Jardins de l’Arche, cerca de IÉSEG. Los dos rostros son anónimos.",
+        "walk": "Busca ambos rostros desde el otro lado del paseo y acércate a uno siguiendo el muro. De lejos parece una fotografía en blanco y negro. De cerca, los tonos proceden de huecos, bordes y zonas intactas del muro.",
+        "question": "¿Cómo se aprecia el relieve del mural?",
+        "answer": "Mira en diagonal un contorno desde el lado peatonal para distinguir la diferencia de profundidad entre el hueco y el muro intacto."
       },
       "zh": {
         "title": "维尔斯的《划破表面》",
         "story": "街头艺术家 Vhils 在 IÉSEG 附近的墙面上刻出两个面孔，以几何纹样相连。",
-        "view": "先到墙对面看两张脸，再走近观察浅色部分如何由墙面凹凸形成。"
+        "view": "先到墙对面看两张脸，再走近观察浅色部分如何由墙面凹凸形成。",
+        "material": "刻凿墙面壁画",
+        "history": "葡萄牙艺术家维尔斯在 IÉSEG 附近的 Jardins de l’Arche 创作这幅壁画，把在多国墙面尝试的肖像项目带到这里。两张脸都没有标明身份。",
+        "walk": "在墙对面的步道先找到两张脸，再沿墙走近其中一张。远看像黑白照片，近处的明暗来自凹槽、边缘和保留下来的墙体表层。",
+        "question": "如何看出这幅作品有浮雕质感？",
+        "answer": "贴近人行侧斜看一条轮廓，凹槽与完整墙面之间会有高差。"
       }
-    }
+    },
+    "artist": "Vhils (Alexandre Farto)",
+    "installed": 2019
   },
   {
     "slug": "after-olympia",
@@ -280,24 +478,46 @@
       "en": {
         "title": "After Olympia by Anthony Caro",
         "story": "Anthony Caro turned the triangular arrangement of the Temple of Zeus at Olympia into a long composition in weathered steel.",
-        "view": "Start at one end of the low steel forms and pace along them until the central rise comes into view."
+        "view": "Start at one end of the low steel forms and pace along them until the central rise comes into view.",
+        "material": "Patinated and varnished steel",
+        "history": "Caro created the work in 1985 after travelling to Greece. The roughly twenty-three-metre sculpture was lent to the Musée Rodin and moved to its current position on the Parvis de La Défense in 2016.",
+        "walk": "Start at one end and walk on the paving parallel to the steel. From afar the forms rise toward the middle like a pediment. Close up, compare the thickness of the plates and crosspieces where their edges meet.",
+        "question": "How can I see the reference to the Temple of Zeus?",
+        "answer": "Stand back far enough to see the entire length and compare the higher middle with the two ends. Their outline recalls a triangular pediment."
       },
       "fr": {
         "title": "After Olympia d’Anthony Caro",
         "story": "Anthony Caro a transposé la composition triangulaire du temple de Zeus à Olympie dans une longue sculpture d’acier patiné.",
-        "view": "Partez d’une extrémité des formes basses en acier et longez-les jusqu’à voir se dessiner le sommet central."
+        "view": "Partez d’une extrémité des formes basses en acier et longez-les jusqu’à voir se dessiner le sommet central.",
+        "material": "Acier patiné et verni",
+        "history": "Caro a créé cette œuvre en 1985 après un voyage en Grèce. Longue d’environ vingt-trois mètres, elle a été prêtée au musée Rodin, puis installée à son emplacement actuel sur le parvis en 2016.",
+        "walk": "Partez d’une extrémité et longez l’acier depuis le dallage. De loin, les masses s’élèvent vers le milieu comme un fronton. De près, comparez l’épaisseur des plaques et des pièces transversales à leurs jonctions.",
+        "question": "Comment reconnaître la référence au temple de Zeus ?",
+        "answer": "Reculez pour voir toute la longueur et comparez la partie centrale, plus haute, aux deux extrémités. Le profil évoque un fronton triangulaire."
       },
       "es": {
         "title": "After Olympia de Anthony Caro",
         "story": "Anthony Caro trasladó la composición triangular del templo de Zeus en Olimpia a una larga escultura de acero patinado.",
-        "view": "Empieza en un extremo de las formas bajas de acero y camina junto a ellas hasta reconocer la elevación central."
+        "view": "Empieza en un extremo de las formas bajas de acero y camina junto a ellas hasta reconocer la elevación central.",
+        "material": "Acero patinado y barnizado",
+        "history": "Caro creó la pieza en 1985 tras viajar a Grecia. La escultura, de unos veintitrés metros, se prestó al Museo Rodin y llegó a su ubicación actual en el Parvis en 2016.",
+        "walk": "Empieza en un extremo y camina por el pavimento en paralelo al acero. A distancia, las formas ascienden hacia el centro como un frontón. De cerca, compara en las uniones el grosor de las placas y las traviesas.",
+        "question": "¿Cómo se reconoce la referencia al templo de Zeus?",
+        "answer": "Retrocede hasta ver la obra entera y compara el centro más alto con los extremos. El perfil recuerda a un frontón triangular."
       },
       "zh": {
         "title": "安东尼·卡罗的《奥林匹亚之后》",
         "story": "安东尼·卡罗以奥林匹亚宙斯神庙山墙的三角布局为灵感，创作了这件长条形锈色钢雕。",
-        "view": "从较低的一端开始沿作品走，直到看清中央隆起的轮廓。"
+        "view": "从较低的一端开始沿作品走，直到看清中央隆起的轮廓。",
+        "material": "做旧并罩漆的钢材",
+        "history": "卡罗在赴希腊旅行后于 1985 年创作了长约二十三米的作品。它曾借展于罗丹博物馆，2016 年移到现在的拉德芳斯前广场。",
+        "walk": "从钢构的一端起步，沿公共铺地平行走过。远看体量向中段抬高，像神庙山墙。靠近则能比较薄板和横向构件在边缘留下的不同厚度。",
+        "question": "怎样看出与宙斯神庙的关联？",
+        "answer": "退到能看完整件作品处，比较中段和两端的高度，便能看出山墙式的三角构图。"
       }
-    }
+    },
+    "artist": "Anthony Caro",
+    "installed": 1986
   },
   {
     "slug": "anamorphose",
@@ -310,24 +530,46 @@
       "en": {
         "title": "Anamorphosis by Fabio Rieti",
         "story": "Fabio Rieti used glass-paste mosaic to build images that change with the viewing angle in an underground pedestrian passage.",
-        "view": "Follow the pedestrian signs for Parking Centre Grande Arche. Walk along the mosaic to compare the figures visible from each end."
+        "view": "Follow the pedestrian signs for Parking Centre Grande Arche. Walk along the mosaic to compare the figures visible from each end.",
+        "material": "Glass-paste mosaic",
+        "history": "Rieti turned about sixty metres of underground passage into a perspective illusion. Depending on the viewpoint, the tiles resolve into a brush, a running girl or a flight of birds.",
+        "walk": "Follow the pedestrian signs to Parking Centre Grande Arche if the passage is open. Look diagonally from one end, then walk to the other and turn. Close to the wall the shapes break into fragments. A longer angle brings them together.",
+        "question": "Can I see all the images from the middle of the passage?",
+        "answer": "Walk the passage in both directions. Look for the figures from one end and for the birds along the wall from the other."
       },
       "fr": {
         "title": "Anamorphose de Fabio Rieti",
         "story": "Fabio Rieti a posé une mosaïque en pâte de verre dans un passage souterrain, où l’image change avec l’angle de vue.",
-        "view": "Suivez les panneaux piétons vers le Parking Centre Grande Arche. Longez la mosaïque pour comparer les figures visibles depuis chaque extrémité."
+        "view": "Suivez les panneaux piétons vers le Parking Centre Grande Arche. Longez la mosaïque pour comparer les figures visibles depuis chaque extrémité.",
+        "material": "Mosaïque de pâte de verre",
+        "history": "Rieti a transformé quelque soixante mètres de passage souterrain en jeu de perspective. Selon le point de vue apparaissent un pinceau, une fillette qui court ou un envol d’oiseaux.",
+        "walk": "Suivez la signalétique piétonne de Parking Centre Grande Arche si le passage est ouvert. Regardez en biais d’un bout, gagnez l’autre et retournez-vous. De près, les formes se fragmentent. Une vue plus oblique les rassemble.",
+        "question": "Peut-on voir toutes les images du milieu du passage ?",
+        "answer": "Parcourez le passage dans les deux sens. Cherchez les personnages depuis un bout et les oiseaux le long du mur depuis l’autre."
       },
       "es": {
         "title": "Anamorfosis de Fabio Rieti",
         "story": "Fabio Rieti instaló un mosaico de pasta de vidrio en un paso subterráneo donde la imagen cambia con el ángulo de visión.",
-        "view": "Sigue las indicaciones peatonales hacia Parking Centre Grande Arche y recorre el mosaico para comparar lo que se ve desde cada extremo."
+        "view": "Sigue las indicaciones peatonales hacia Parking Centre Grande Arche y recorre el mosaico para comparar lo que se ve desde cada extremo.",
+        "material": "Mosaico de pasta de vidrio",
+        "history": "Rieti convirtió unos sesenta metros de pasaje subterráneo en un juego de perspectiva. Según el punto de vista aparecen un pincel, una niña corriendo o un vuelo de aves.",
+        "walk": "Sigue la señalización peatonal de Parking Centre Grande Arche si está abierto. Mira en diagonal desde un extremo, camina al otro y date la vuelta. De cerca, las formas se fragmentan. En una vista más oblicua vuelven a juntarse.",
+        "question": "¿Se ven todas las imágenes desde el centro del pasaje?",
+        "answer": "Recórrelo en ambos sentidos. Busca las figuras desde un extremo y las aves a lo largo del muro desde el otro."
       },
       "zh": {
         "title": "法比奥·里埃蒂的错视马赛克",
         "story": "法比奥·里埃蒂在地下通道制作了玻璃马赛克，图案随观看角度变化。",
-        "view": "沿步行标识前往 Parking Centre Grande Arche，走过马赛克，从两个方向对照可见的人物。"
+        "view": "沿步行标识前往 Parking Centre Grande Arche，走过马赛克，从两个方向对照可见的人物。",
+        "material": "玻璃膏马赛克",
+        "history": "里耶蒂把约六十米长的地下步行通道变成了透视画。依站位可辨出画笔、奔跑的小女孩或一群鸟。",
+        "walk": "循 Parking Centre Grande Arche 的行人指示进入开放通道，从一端斜望墙面，再沿通道走到另一端回看。贴近只见碎片，拉开斜角时分散的图形才聚拢。",
+        "question": "从通道中间能看全马赛克画面吗？",
+        "answer": "建议把两个入口方向都走一遍。先在一端找人物，再从另一端沿墙面找鸟群。"
       }
-    }
+    },
+    "artist": "Fabio Rieti",
+    "installed": 1985
   },
   {
     "slug": "apseil",
@@ -340,24 +582,46 @@
       "en": {
         "title": "Apseil by Vincent Broquaire",
         "story": "Vincent Broquaire’s little figures turn the grey stone outside the Q-Park lifts into an imaginary maintenance scene.",
-        "view": "Stand where you can see the figures and lift cladding together. Look for the gesture that suggests somebody is hanging from the wall."
+        "view": "Stand where you can see the figures and lift cladding together. Look for the gesture that suggests somebody is hanging from the wall.",
+        "material": "Adhesive and aluminium",
+        "history": "Broquaire placed small figures resembling maintenance workers on the Q-Park lift enclosure in the renovated Reflets district. The existing structure makes them seem to sway in time with the lifts.",
+        "walk": "Locate the grey stone enclosure from the walkway, then move obliquely toward its exterior. From a distance it looks occupied by workers. Closer up, follow hands, feet and surrounding lines to pick out gestures that suggest suspension.",
+        "question": "Do I need to take the Q-Park lift to see the figures?",
+        "answer": "The work is on the outside of the lift structure, visible from the Reflets walkway."
       },
       "fr": {
         "title": "Apseil de Vincent Broquaire",
         "story": "Les petits personnages de Vincent Broquaire transforment la pierre grise des ascenseurs Q-Park en un chantier imaginaire.",
-        "view": "Placez-vous pour voir à la fois les personnages et l’habillage des ascenseurs. Repérez la silhouette qui semble suspendue au mur."
+        "view": "Placez-vous pour voir à la fois les personnages et l’habillage des ascenseurs. Repérez la silhouette qui semble suspendue au mur.",
+        "material": "Adhésif et aluminium",
+        "history": "Broquaire a peuplé l’enveloppe des ascenseurs Q-Park de petits personnages évoquant des agents d’entretien dans le quartier rénové de Reflets. La structure existante leur donne l’air de se balancer au rythme des ascenseurs.",
+        "walk": "Repérez l’enveloppe de pierre grise depuis le passage puis approchez-vous de biais. De loin, on croit voir des ouvriers. De près, suivez les mains, les pieds et les traits autour d’eux pour repérer les gestes de suspension.",
+        "question": "Faut-il prendre l’ascenseur Q-Park pour voir les personnages ?",
+        "answer": "L’œuvre se trouve à l’extérieur de la structure, visible depuis le passage de Reflets."
       },
       "es": {
         "title": "Apseil de Vincent Broquaire",
         "story": "Las pequeñas figuras de Vincent Broquaire convierten la piedra gris de los ascensores de Q-Park en una escena de mantenimiento imaginaria.",
-        "view": "Busca un punto desde el que veas las figuras y el revestimiento de los ascensores. Fíjate en la silueta que parece colgar del muro."
+        "view": "Busca un punto desde el que veas las figuras y el revestimiento de los ascensores. Fíjate en la silueta que parece colgar del muro.",
+        "material": "Adhesivo y aluminio",
+        "history": "Broquaire pobló la estructura de ascensores Q-Park de pequeñas figuras parecidas a operarios en el barrio renovado de Reflets. El edificio hace que parezcan balancearse al ritmo de los ascensores.",
+        "walk": "Localiza la estructura de piedra gris desde el paseo y acércate al exterior en diagonal. De lejos parecen operarios. De cerca, sigue las manos, los pies y los trazos para descubrir qué posturas sugieren que están suspendidos.",
+        "question": "¿Hay que subir en el ascensor Q-Park para ver las figuras?",
+        "answer": "La obra está en el exterior de la estructura, a la vista desde el paseo de Reflets."
       },
       "zh": {
         "title": "樊尚·布罗凯尔的《Apseil》",
         "story": "樊尚·布罗凯尔在 Q-Park 电梯外侧的灰石上布置小人，营造工人正在作业的场景。",
-        "view": "找一个能同时看清小人和电梯外墙的站位，观察哪一个身影仿佛悬在墙上。"
+        "view": "找一个能同时看清小人和电梯外墙的站位，观察哪一个身影仿佛悬在墙上。",
+        "material": "贴膜和铝材",
+        "history": "布罗凯尔在 Reflets 更新后的 Q-Park 电梯外壁安排了一群看似维修工的小人，利用现有建筑构造暗示他们随电梯上下摆动。",
+        "walk": "从步行通道先辨认灰石电梯设施，再走到电梯外壁斜前方。远看像有人在工作，近看则能沿每个小人的手脚和身边的线条找出暗示悬挂的姿势。",
+        "question": "需要乘 Q-Park 电梯才能看到小人吗？",
+        "answer": "作品在电梯结构外侧。沿 Reflets 的公共步行面查看墙面即可。"
       }
-    }
+    },
+    "artist": "Vincent Broquaire",
+    "installed": 2025
   },
   {
     "slug": "bas-relief-en-cuivre",
@@ -370,24 +634,46 @@
       "en": {
         "title": "RER Copper Relief",
         "story": "Maurice Legendre folded and welded copper sheets for the 1969 RER platform relief commissioned by RATP.",
-        "view": "Inside La Défense RER A station, go to the end of the platform between tracks 2 and B toward Saint-Germain-en-Laye. Inspect the relief from behind the platform safety line."
+        "view": "Inside La Défense RER A station, go to the end of the platform between tracks 2 and B toward Saint-Germain-en-Laye. Inspect the relief from behind the platform safety line.",
+        "material": "Folded and welded copper sheet",
+        "history": "RATP commissioned this roughly thirteen-metre abstract panorama for the station. Its folded vertical elements contrast with the horizontal composition of Boréale on the opposite platform.",
+        "walk": "Follow station signs to the end of the platform toward Saint-Germain-en-Laye. From behind the safety line, walk parallel to the relief far enough to see the whole composition, then study how the light alternates across its folds.",
+        "question": "Can I see the copper relief from the surface plaza?",
+        "answer": "It is inside the RER A fare gates. On the platform between tracks 2 and B, go to the end toward the front of trains for Saint-Germain-en-Laye."
       },
       "fr": {
         "title": "Le Bas-relief en cuivre du RER",
         "story": "Pour la gare du RER, Maurice Legendre a plié et soudé des feuilles de cuivre dans un relief commandé par la RATP en 1969.",
-        "view": "Dans la gare de La Défense, rejoignez le bout du quai du RER A entre les voies 2 et B vers Saint-Germain-en-Laye. Observez depuis l’arrière de la ligne de sécurité."
+        "view": "Dans la gare de La Défense, rejoignez le bout du quai du RER A entre les voies 2 et B vers Saint-Germain-en-Laye. Observez depuis l’arrière de la ligne de sécurité.",
+        "material": "Tôle de cuivre pliée et soudée",
+        "history": "La RATP a commandé ce panorama abstrait d’environ treize mètres pour la gare. Ses plis verticaux répondent à la composition horizontale de Boréale sur le quai opposé.",
+        "walk": "Suivez les panneaux vers le bout du quai en direction de Saint-Germain-en-Laye. Derrière la ligne de sécurité, longez le relief pour en lire l’ensemble, puis regardez la lumière alterner sur les plis.",
+        "question": "Voit-on le relief de cuivre depuis le parvis ?",
+        "answer": "Il se trouve après les portillons du RER A. Sur le quai entre les voies 2 et B, allez vers la tête des trains pour Saint-Germain-en-Laye."
       },
       "es": {
         "title": "Bajorrelieve de cobre del RER",
         "story": "Maurice Legendre plegó y soldó láminas de cobre para este relieve que la RATP encargó para la estación del RER en 1969.",
-        "view": "Dentro de la estación de La Défense, busca el extremo del andén del RER A entre las vías 2 y B hacia Saint-Germain-en-Laye. Observa desde detrás de la línea de seguridad."
+        "view": "Dentro de la estación de La Défense, busca el extremo del andén del RER A entre las vías 2 y B hacia Saint-Germain-en-Laye. Observa desde detrás de la línea de seguridad.",
+        "material": "Chapa de cobre plegada y soldada",
+        "history": "La RATP encargó este panorama abstracto de unos trece metros para la estación. Los pliegues verticales contrastan con la composición horizontal de Boréale en el andén opuesto.",
+        "walk": "Sigue las señales al extremo del andén hacia Saint-Germain-en-Laye. Detrás de la línea de seguridad, camina en paralelo para ver el relieve entero y luego observa cómo alterna la luz en los pliegues.",
+        "question": "¿Se ve el relieve de cobre desde la plaza exterior?",
+        "answer": "Está dentro de los tornos del RER A. En el andén entre las vías 2 y B, ve hacia la cabecera de los trenes a Saint-Germain-en-Laye."
       },
       "zh": {
         "title": "RER 铜浮雕",
         "story": "莫里斯·勒让德将铜片折叠并焊接，完成这件由巴黎大众运输公司委托、1969 年安装的浮雕。",
-        "view": "进入 La Défense 站后，到 RER A 线路 2 与 B 轨之间、朝圣日耳曼昂莱方向的站台端头，在安全线内侧观看。"
+        "view": "进入 La Défense 站后，到 RER A 线路 2 与 B 轨之间、朝圣日耳曼昂莱方向的站台端头，在安全线内侧观看。",
+        "material": "折叠并焊接的铜板",
+        "history": "RATP 为车站委托制作这幅约十三米长的抽象浮雕。铜板折出的竖线，与对面站台《Boréale》的横向构图相对。",
+        "walk": "按站内指示找到往 Saint-Germain-en-Laye 方向的站台末端。从安全线内沿浮雕平行走几步，先看全幅，再观察折面在灯光下怎样一明一暗。",
+        "question": "从地面广场能看到铜浮雕吗？",
+        "answer": "需进入 RER A 的付费区。沿 2 号与 B 号轨道间的站台走向 Saint-Germain-en-Laye 方向的车头一端。"
       }
-    }
+    },
+    "artist": "Maurice Legendre",
+    "installed": 1969
   },
   {
     "slug": "bc1",
@@ -400,24 +686,46 @@
       "en": {
         "title": "BC1 by Ben Jakober",
         "story": "Ben Jakober assembled a set of heavy metal rollers into a sculpture reminiscent of an American football helmet.",
-        "view": "At Cours Michelet, start side-on to pick out the helmet’s outline, then move toward the open front to see the individual rollers."
+        "view": "At Cours Michelet, start side-on to pick out the helmet’s outline, then move toward the open front to see the individual rollers.",
+        "material": "Painted steel",
+        "history": "Jakober began his sports helmet series with this American football shape and later turned to skiing, fencing and baseball. Solid metal rollers weigh about three tonnes despite the light outline.",
+        "walk": "Start with the curved profile from Cours Michelet, then walk toward the open side at the front. The profile reads as a helmet, while the front shows the spacing between the rollers.",
+        "question": "How does the structure suggest a sports helmet?",
+        "answer": "Find the arch of the shell from the side, then move toward the front to see that curve above the opening."
       },
       "fr": {
         "title": "BC1 de Ben Jakober",
         "story": "Ben Jakober a assemblé de lourds rouleaux métalliques pour donner à sa sculpture l’allure d’un casque de football américain.",
-        "view": "Cours Michelet, commencez par le profil du casque, puis avancez vers la partie ouverte pour distinguer les rouleaux."
+        "view": "Cours Michelet, commencez par le profil du casque, puis avancez vers la partie ouverte pour distinguer les rouleaux.",
+        "material": "Acier peint",
+        "history": "Jakober a commencé sa série de casques de sport par cette forme de football américain, avant le ski, l’escrime et le baseball. Les rouleaux pleins pèsent environ trois tonnes malgré la légèreté du profil.",
+        "walk": "Sur le cours Michelet, regardez d’abord le profil courbe, puis avancez vers l’avant ouvert. Le profil évoque un casque, tandis que l’avant révèle les intervalles entre les rouleaux.",
+        "question": "D’où reconnaît-on le casque de sport ?",
+        "answer": "Trouvez l’arc de la coque de profil, puis passez vers l’avant pour voir la courbe au-dessus de l’ouverture."
       },
       "es": {
         "title": "BC1 de Ben Jakober",
         "story": "Ben Jakober ensambló pesados rodillos metálicos para dar a la escultura la forma de un casco de fútbol americano.",
-        "view": "En Cours Michelet, mira primero el perfil del casco y acércate luego a la abertura para distinguir cada rodillo."
+        "view": "En Cours Michelet, mira primero el perfil del casco y acércate luego a la abertura para distinguir cada rodillo.",
+        "material": "Acero pintado",
+        "history": "Jakober inició su serie de cascos deportivos con esta forma de fútbol americano, antes del esquí, la esgrima y el béisbol. Los rodillos macizos pesan unas tres toneladas pese a la ligereza del perfil.",
+        "walk": "Desde Cours Michelet, mira primero el perfil curvo y luego acércate a la parte abierta. El perfil sugiere un casco y de frente se ven los espacios entre rodillos.",
+        "question": "¿Desde dónde se reconoce el casco deportivo?",
+        "answer": "Busca el arco de la carcasa de lado y avanza hacia el frente para ver la curva sobre el hueco."
       },
       "zh": {
         "title": "本·雅科伯的《BC1》",
         "story": "本·雅科伯以一组沉重的金属滚筒拼成一顶美式橄榄球头盔般的雕塑。",
-        "view": "到 Cours Michelet 后先从侧面辨认头盔轮廓，再走到开口一侧观察滚筒。"
+        "view": "到 Cours Michelet 后先从侧面辨认头盔轮廓，再走到开口一侧观察滚筒。",
+        "material": "涂漆钢材",
+        "history": "雅科伯先做了这件美式橄榄球头盔般的作品，后来又创作滑雪、击剑和棒球头盔。轻巧的轮廓下是约三吨重的实心金属滚轴。",
+        "walk": "在 Cours Michelet 的步行道先看侧面弧线，再走向前方敞开的部分。侧面像一个完整头盔，从前方则能看出滚轴排列形成的间距。",
+        "question": "怎样观察它为什么像运动头盔？",
+        "answer": "先从侧面找拱起的外壳线条，再转向前方，把下部开口与拱线一并看清。"
       }
-    }
+    },
+    "artist": "Ben Jakober",
+    "installed": 1988
   },
   {
     "slug": "signaux",
@@ -430,24 +738,46 @@
       "en": {
         "title": "Takis Signals at the Grande Arche",
         "story": "Takis set illuminated metal signals directly into the esplanade west of the Grande Arche, revisiting the shapes he placed in the basin on the opposite end of the district.",
-        "view": "Walk behind the arch and look along the free-standing poles. Use the arch’s edge as a reference for their heights."
+        "view": "Walk behind the arch and look along the free-standing poles. Use the arch’s edge as a reference for their heights.",
+        "material": "Steel, light and paint",
+        "history": "Grande Arche architect Johan Otto von Spreckelsen invited Takis to design these seventeen illuminated poles. They answer Bassin at the Paris-facing end of the historic axis.",
+        "walk": "Go behind the arch and start with its opening and the tallest poles in view together. Walk along the paving to see how a seemingly even line breaks into different heights and offsets.",
+        "question": "How do I tell Signaux and Bassin apart?",
+        "answer": "The Signaux poles rise directly from paving behind the Grande Arche. The Bassin poles stand in a pool at the Paris-facing end."
       },
       "fr": {
         "title": "Les Signaux de Takis à la Grande Arche",
         "story": "Takis a planté des signaux lumineux à même la dalle à l’ouest de la Grande Arche, reprenant les formes de son bassin à l’autre bout du quartier.",
-        "view": "Passez derrière l’arche et suivez du regard les mâts. L’arête de l’arche permet de comparer leurs hauteurs."
+        "view": "Passez derrière l’arche et suivez du regard les mâts. L’arête de l’arche permet de comparer leurs hauteurs.",
+        "material": "Acier, lumière et peinture",
+        "history": "Johan Otto von Spreckelsen, architecte de la Grande Arche, a invité Takis à concevoir ces dix-sept mâts lumineux. Ils répondent au Bassin à l’extrémité de l’axe historique tournée vers Paris.",
+        "walk": "Passez derrière l’Arche et cadrez d’abord son ouverture avec les mâts les plus hauts. Longez le dallage pour voir comment la ligne se décompose en hauteurs et en décalages.",
+        "question": "Comment distinguer les Signaux du Bassin ?",
+        "answer": "Les Signaux sortent du dallage derrière la Grande Arche. Les mâts du Bassin se dressent dans une pièce d’eau à l’autre bout de l’axe."
       },
       "es": {
         "title": "Señales de Takis en el Gran Arco",
         "story": "Takis instaló señales luminosas directamente sobre la explanada al oeste de la Grande Arche, recuperando las formas de su estanque en el extremo opuesto del barrio.",
-        "view": "Pasa detrás del arco y mira a lo largo de los postes. Usa la arista del arco para comparar sus alturas."
+        "view": "Pasa detrás del arco y mira a lo largo de los postes. Usa la arista del arco para comparar sus alturas.",
+        "material": "Acero, luz y pintura",
+        "history": "Johan Otto von Spreckelsen, arquitecto del Gran Arco, invitó a Takis a diseñar estos diecisiete postes luminosos. Dialogan con Bassin en el extremo del eje histórico que mira a París.",
+        "walk": "Pasa detrás del arco y encuadra su abertura con los postes más altos. Recorre el pavimento para ver cómo la fila aparente se descompone en distintas alturas y posiciones.",
+        "question": "¿Cómo distingo Signaux de Bassin?",
+        "answer": "Los postes de Signaux salen del pavimento detrás del Gran Arco. Los de Bassin se alzan en un estanque del lado de París."
       },
       "zh": {
         "title": "大拱门旁的塔基斯信号杆",
         "story": "塔基斯在大拱门西侧的步行平台上直接竖立发光信号杆，呼应街区另一端水池里的几何造型。",
-        "view": "绕到大拱门后，顺着一排立杆望过去，以拱门边缘作参照比较高低。"
+        "view": "绕到大拱门后，顺着一排立杆望过去，以拱门边缘作参照比较高低。",
+        "material": "钢、灯光和涂漆",
+        "history": "大拱门建筑师斯普雷克尔森邀请塔基斯创作这组十七根灯杆。它们在历史轴线西端回应向巴黎一端的《水池》。",
+        "walk": "绕至拱门背面，先留出距离让开口和较高灯杆同框，再沿铺地靠近。走进灯杆的并列方向时，原来看似整齐的一行会因高度和错位而分开。",
+        "question": "怎样区分《信号》和《水池》？",
+        "answer": "《信号》的灯杆立在大拱门背后的铺地上。《水池》的灯杆在朝巴黎的一端排列于池中。"
       }
-    }
+    },
+    "artist": "Takis (Panayotis Vassilakis)",
+    "installed": 1991
   },
   {
     "slug": "cheminee-vegetalisee",
@@ -460,24 +790,46 @@
       "en": {
         "title": "Planted Ventilation Shaft",
         "story": "Édouard François gave a working ventilation shaft beside Cœur Défense a living facade of plants and chestnut poles.",
-        "view": "Look up from the pedestrian esplanade to see where the planting meets the copper and timber framework."
+        "view": "Look up from the pedestrian esplanade to see where the planting meets the copper and timber framework.",
+        "material": "Stainless steel, copper, chestnut poles and plants",
+        "history": "The working shaft had a mural in the 1970s. After Cœur Défense was built, François gave the roughly sixteen-metre structure a new exterior of copper, wood and plants.",
+        "walk": "Start on the public esplanade beside Cœur Défense with the entire shaft and the neighbouring building in view. Move to one side and look up to distinguish leaves, slender chestnut poles and copper.",
+        "question": "Are the plants separate from the ventilation shaft?",
+        "answer": "They are part of the same installation. Follow the outside of the base to see how the planting is supported by the exterior framework."
       },
       "fr": {
         "title": "La Cheminée végétalisée",
         "story": "Édouard François a habillé une cheminée de ventilation près de Cœur Défense d’une façade vivante de plantes et de perches de châtaignier.",
-        "view": "Depuis l’esplanade piétonne, levez les yeux vers les endroits où la végétation rejoint le bois et le cuivre."
+        "view": "Depuis l’esplanade piétonne, levez les yeux vers les endroits où la végétation rejoint le bois et le cuivre.",
+        "material": "Acier inoxydable, cuivre, perches de châtaignier et plantes",
+        "history": "La cheminée en service était couverte d’une fresque dans les années 1970. Après la construction de Cœur Défense, François a revêtu ses quelque seize mètres de cuivre, de bois et de végétaux.",
+        "walk": "Depuis l’esplanade publique à côté de Cœur Défense, regardez la cheminée entière avec l’immeuble voisin. Décalez-vous et levez les yeux pour distinguer les feuilles, les perches fines et le cuivre.",
+        "question": "Les plantations et la cheminée sont-elles séparées ?",
+        "answer": "Elles font partie de la même installation. Longez la base à l’extérieur pour voir comment la structure soutient les végétaux."
       },
       "es": {
         "title": "Chimenea vegetal",
         "story": "Édouard François vistió un conducto de ventilación junto a Cœur Défense con vegetación y postes de castaño.",
-        "view": "Desde la explanada peatonal, levanta la vista para ver cómo las plantas se entrelazan con el entramado de cobre y madera."
+        "view": "Desde la explanada peatonal, levanta la vista para ver cómo las plantas se entrelazan con el entramado de cobre y madera.",
+        "material": "Acero inoxidable, cobre, varas de castaño y plantas",
+        "history": "El conducto en uso tenía un mural en los años setenta. Tras la construcción de Cœur Défense, François revistió sus aproximadamente dieciséis metros con cobre, madera y plantas.",
+        "walk": "Desde la explanada pública junto a Cœur Défense, observa el conducto entero junto al edificio vecino. Muévete hacia un lado y levanta la vista para distinguir las hojas, las varas y el cobre.",
+        "question": "¿Las plantas están separadas del conducto?",
+        "answer": "Forman parte de la misma instalación. Recorre por fuera la base para ver cómo el armazón sostiene la vegetación."
       },
       "zh": {
         "title": "绿植通风塔",
         "story": "爱德华·弗朗索瓦用植物和栗木杆为 Cœur Défense 旁的通风井做了一层活的外立面。",
-        "view": "站在步行平台向上看，可观察植株与铜、木框架交接的细节。"
+        "view": "站在步行平台向上看，可观察植株与铜、木框架交接的细节。",
+        "material": "不锈钢、铜、栗木杆和植物",
+        "history": "这座通风设施在 1970 年代已有壁画。Cœur Défense 建成后，弗朗索瓦改用铜、木和植物覆在约十六米高的外壳上。",
+        "walk": "从 Cœur Défense 旁的公共平台先把整座井与邻楼放在同一视野，再走向侧边抬头。近处可区分攀附的枝叶、细长栗木杆与铜质部分。",
+        "question": "植物和通风井是两处景观吗？",
+        "answer": "是同一座设施。沿基部外侧走一段，就能看到植物如何依附在通风井外的构架上。"
       }
-    }
+    },
+    "artist": "Édouard François",
+    "installed": 2004
   },
   {
     "slug": "cheminees",
@@ -490,24 +842,46 @@
       "en": {
         "title": "Philolaos Chimneys",
         "story": "Philolaos wrapped working flues from local businesses in sculptural stainless-steel sheaths.",
-        "view": "On the Boieldieu pedestrian deck, find a side angle with visible gaps between the silver forms."
+        "view": "On the Boieldieu pedestrian deck, find a side angle with visible gaps between the silver forms.",
+        "material": "Molybdenum stainless steel",
+        "history": "Philolaos clad flues used by bakeries and laundries. The silver forms installed in 1973 grew out of those working structures.",
+        "walk": "Find the vertical forms together from the Boieldieu deck, then walk obliquely along the paving. Head-on the silver shells can overlap. The side view separates their edges, gaps and tapering ends.",
+        "question": "Why are these silver forms called chimneys?",
+        "answer": "Their shells were designed around flues for local businesses. Look diagonally from the pedestrian deck to distinguish each covering."
       },
       "fr": {
         "title": "Les Cheminées de Philolaos",
         "story": "Philolaos a enveloppé des conduits d’activités du quartier de gaines sculpturales en acier inoxydable.",
-        "view": "Sur la dalle piétonne de Boieldieu, cherchez un angle de profil qui laisse voir les vides entre les formes argentées."
+        "view": "Sur la dalle piétonne de Boieldieu, cherchez un angle de profil qui laisse voir les vides entre les formes argentées.",
+        "material": "Acier inoxydable au molybdène",
+        "history": "Philolaos a habillé des conduits de boulangeries et de blanchisseries. Installées en 1973, les formes argentées dérivent de ces équipements utilitaires.",
+        "walk": "Repérez les formes verticales depuis la dalle Boieldieu, puis avancez en biais sur le dallage. De face les enveloppes se superposent. De côté, les bords, les espaces et les extrémités effilées se détachent.",
+        "question": "Pourquoi parle-t-on de cheminées ?",
+        "answer": "Les enveloppes ont été conçues pour recouvrir les conduits des commerces. Regardez en biais depuis la dalle piétonne pour distinguer chaque habillage."
       },
       "es": {
         "title": "Chimeneas de Philolaos",
         "story": "Philolaos revistió conductos de comercios del barrio con cubiertas escultóricas de acero inoxidable.",
-        "view": "Desde la plataforma peatonal de Boieldieu, busca un ángulo lateral desde el que se vean los huecos entre las formas plateadas."
+        "view": "Desde la plataforma peatonal de Boieldieu, busca un ángulo lateral desde el que se vean los huecos entre las formas plateadas.",
+        "material": "Acero inoxidable al molibdeno",
+        "history": "Philolaos revistió conductos de panaderías y lavanderías. Las formas plateadas instaladas en 1973 nacieron de esas estructuras utilitarias.",
+        "walk": "Busca las formas verticales desde la plataforma Boieldieu y camina en diagonal por el pavimento. De frente se superponen. De lado se distinguen bordes, huecos y extremos estrechos.",
+        "question": "¿Por qué se llaman chimeneas?",
+        "answer": "Las cubiertas se diseñaron alrededor de conductos de negocios locales. Mira en diagonal desde la plataforma para distinguir cada revestimiento."
       },
       "zh": {
         "title": "菲洛劳斯的烟囱群",
         "story": "雕塑家菲洛劳斯以不锈钢雕塑外壳装饰街区店铺的实用排烟管。",
-        "view": "到 Boieldieu 步行平台，沿侧面找一个能看到银色造型之间空隙的角度。"
+        "view": "到 Boieldieu 步行平台，沿侧面找一个能看到银色造型之间空隙的角度。",
+        "material": "含钼不锈钢",
+        "history": "菲洛劳斯为面包店、洗衣店使用的排烟管制作金属外罩。1973 年安置的这些银色形体来自原有实用设施。",
+        "walk": "在 Boieldieu 的步行平台先找齐这些竖向形体，再沿平台斜走几步。正视时银色外罩容易叠在一起，侧视则能辨清边缘、间隙和各自的收口。",
+        "question": "这些银色雕塑为什么叫烟囱？",
+        "answer": "外壳原本用于包覆商业设施的烟道。在步行平台上从斜角查看，可分清各个独立罩体。"
       }
-    }
+    },
+    "artist": "Philolaos Tloupas",
+    "installed": 1973
   },
   {
     "slug": "cromawaltz",
@@ -520,24 +894,46 @@
       "en": {
         "title": "Cromawaltz",
         "story": "Studio Grriz used overlapping frames to create shifting moiré patterns on a building near the Grande Arche.",
-        "view": "Walk across the public frontage at an even pace to watch the stripes appear to vibrate."
+        "view": "Walk across the public frontage at an even pace to watch the stripes appear to vibrate.",
+        "material": "Steel, aluminium and composite panel",
+        "history": "Studio Grriz gave a building in Degrés a colourful, undulating exterior. Two overlapping layers produce a moiré pattern that changes with the viewing angle.",
+        "walk": "Stand back to see the rolling bands, then walk along the public frontage. Stop and compare the two fixed sets of stripes. When you move again, parts of the pattern appear to vibrate.",
+        "question": "Do I have to wait until after dark to see the optical effect?",
+        "answer": "Walk along the public frontage in daylight to see the moiré. After dark the lighting changes the contrast of the stripes."
       },
       "fr": {
         "title": "Cromawaltz",
         "story": "Le studio Grriz a superposé des trames sur un bâtiment près de la Grande Arche pour produire des motifs moirés changeants.",
-        "view": "Marchez d’un pas régulier le long de la façade, côté public, pour voir les bandes sembler vibrer."
+        "view": "Marchez d’un pas régulier le long de la façade, côté public, pour voir les bandes sembler vibrer.",
+        "material": "Acier, aluminium et panneau composite",
+        "history": "Studio Grriz a donné à un bâtiment de Degrés une enveloppe colorée et ondulante. Deux trames superposées produisent un effet de moiré qui varie avec le point de vue.",
+        "walk": "Prenez du recul pour voir les bandes ondulées, puis longez la façade publique. Arrêtez-vous pour distinguer les deux trames fixes. En repartant, vous verrez certaines parties sembler vibrer.",
+        "question": "Faut-il attendre la nuit pour voir l’effet optique ?",
+        "answer": "Marchez en plein jour le long de la façade pour voir le moiré. Le soir, l’éclairage change le contraste des bandes."
       },
       "es": {
         "title": "Cromawaltz",
         "story": "El estudio Grriz superpuso entramados en un edificio cercano a la Grande Arche para crear patrones de muaré cambiantes.",
-        "view": "Camina a paso constante por el espacio público frente a la fachada y observa cómo las franjas parecen vibrar."
+        "view": "Camina a paso constante por el espacio público frente a la fachada y observa cómo las franjas parecen vibrar.",
+        "material": "Acero, aluminio y panel compuesto",
+        "history": "Studio Grriz dio a un edificio de Degrés un exterior ondulado y colorido. Dos tramas superpuestas crean un efecto muaré que cambia con el punto de vista.",
+        "walk": "Retrocede para ver las franjas onduladas y después recorre la fachada pública. Párate y distingue las dos tramas fijas. Al volver a caminar, partes del dibujo parecen vibrar.",
+        "question": "¿Hay que esperar a la noche para ver el efecto óptico?",
+        "answer": "Recorre la fachada de día para ver el muaré. De noche la iluminación modifica el contraste de las franjas."
       },
       "zh": {
         "title": "《Cromawaltz》变色立面",
         "story": "Grriz 工作室在大拱门附近的建筑外墙叠加框架，营造不断变换的摩尔纹。",
-        "view": "沿临街的公共步行区域匀速走过，观察色带如何仿佛在颤动。"
+        "view": "沿临街的公共步行区域匀速走过，观察色带如何仿佛在颤动。",
+        "material": "钢、铝和复合板",
+        "history": "Studio Grriz 把 Degrés 街区建筑外侧做成彩色起伏的表面。两层互相叠置的构架随观看角度形成莫尔纹。",
+        "walk": "先隔开一段距离看起伏的色带，再通过建筑前的公共通道横向移动。停下来对照两层固定条纹，重新走动时就能看到局部纹样似乎在振动。",
+        "question": "需要等到夜间才有光学变化吗？",
+        "answer": "白天沿建筑外侧横走就能观察到莫尔纹。夜间的照明会改变条纹的明暗。"
       }
-    }
+    },
+    "artist": "Studio Grriz",
+    "installed": 2026
   },
   {
     "slug": "cube-sphere-gold",
@@ -550,24 +946,46 @@
       "en": {
         "title": "Cube Sphère Gold",
         "story": "Cyril Lancelin used rows of reflective metal spheres to suggest a cube with openings and passages.",
-        "view": "Start at a corner so two faces line up, then shift sideways to include the Saint-Gobain tower in the reflections."
+        "view": "Start at a corner so two faces line up, then shift sideways to include the Saint-Gobain tower in the reflections.",
+        "material": "Electropolished stainless steel",
+        "history": "Lancelin broke a cube down into repeated spheres beside the Saint-Gobain tower, then left openings and passages within the regular structure.",
+        "walk": "Start from a corner of the Iris pedestrian area to see two sides, then move beside a row of spheres. From a distance the gaps look like doorways. Up close, the reflections of tower and sky shift with your steps.",
+        "question": "Where can I see how the solid and empty spaces fit together?",
+        "answer": "Look inward from one corner so two rows of spheres frame an open passage."
       },
       "fr": {
         "title": "Cube Sphère Gold",
         "story": "Cyril Lancelin a aligné des sphères métalliques réfléchissantes pour dessiner un cube percé de passages.",
-        "view": "Commencez à un angle pour voir deux faces, puis décalez-vous pour chercher la tour Saint-Gobain dans les reflets."
+        "view": "Commencez à un angle pour voir deux faces, puis décalez-vous pour chercher la tour Saint-Gobain dans les reflets.",
+        "material": "Acier inoxydable électropoli",
+        "history": "Lancelin a décomposé un cube en sphères près de la tour Saint-Gobain, en ménageant des ouvertures et des passages dans l’assemblage régulier.",
+        "walk": "Commencez en angle sur l’espace piéton d’Iris pour voir deux faces, puis longez une rangée. De loin, les vides font penser à des portes. De près, les reflets de la tour et du ciel bougent avec vos pas.",
+        "question": "Où voir ensemble les pleins et les vides ?",
+        "answer": "Regardez vers l’intérieur depuis un angle pour que deux rangées de sphères encadrent un passage."
       },
       "es": {
         "title": "Cube Sphère Gold",
         "story": "Cyril Lancelin alineó esferas metálicas reflectantes para dibujar un cubo con huecos y pasajes.",
-        "view": "Empieza en una esquina para ver dos caras y muévete lateralmente para buscar la torre Saint-Gobain en los reflejos."
+        "view": "Empieza en una esquina para ver dos caras y muévete lateralmente para buscar la torre Saint-Gobain en los reflejos.",
+        "material": "Acero inoxidable electropulido",
+        "history": "Lancelin descompuso un cubo en esferas junto a la torre Saint-Gobain y dejó huecos y pasos dentro de la estructura regular.",
+        "walk": "Empieza en una esquina del espacio peatonal de Iris para ver dos caras y camina junto a una hilera. De lejos, los huecos parecen puertas. De cerca, los reflejos de la torre y el cielo se desplazan con tus pasos.",
+        "question": "¿Dónde se ven juntos los volúmenes y los huecos?",
+        "answer": "Mira hacia dentro desde una esquina para que dos hileras de esferas enmarquen una abertura."
       },
       "zh": {
         "title": "金色球体立方",
         "story": "西里尔·朗斯兰以成列的反光金属球勾勒出一个带开口和通道的立方体。",
-        "view": "先站在角落观察相邻两面，再向旁边移动，从球面倒影中寻找圣戈班大厦。"
+        "view": "先站在角落观察相邻两面，再向旁边移动，从球面倒影中寻找圣戈班大厦。",
+        "material": "电解抛光不锈钢",
+        "history": "朗斯兰把 Saint-Gobain 塔旁的立方体拆解成重复球体，并在规则结构中留出通道和开口。",
+        "walk": "从 Iris 步行区的转角先让两个外立面同时入眼，再沿一排球横向移动。远看空隙像立方体的门洞，近看每颗球反射的塔楼与天空都会随脚步移动。",
+        "question": "哪里能同时看见实心与空心的效果？",
+        "answer": "从一角向内看，让两排圆球框住通透的开口。"
       }
-    }
+    },
+    "artist": "Cyril Lancelin",
+    "installed": 2021
   },
   {
     "slug": "dame-lune",
@@ -580,24 +998,46 @@
       "en": {
         "title": "Dame Lune",
         "story": "Julio Silva carved the upright white figure from one block of Carrara marble.",
-        "view": "In Villon, position yourself so that the dark towers sit behind the marble and emphasize its bright outline."
+        "view": "In Villon, position yourself so that the dark towers sit behind the marble and emphasize its bright outline.",
+        "material": "Single block of Carrara marble",
+        "history": "Silva carved an upright figure like an exclamation mark from one block of white marble. The rounded, polished outline is characteristic of his work in marble.",
+        "walk": "In Villon, start where the dark towers form a backdrop. Walk to the side and look again. The narrow white outline gives way to a deeper curved surface.",
+        "question": "Where is Dame Lune easiest to recognise?",
+        "answer": "Start with the dark buildings behind it to read the outline, then move sideways to see the depth of the marble."
       },
       "fr": {
         "title": "Dame Lune",
         "story": "Julio Silva a taillé cette figure blanche et verticale dans un bloc de marbre de Carrare.",
-        "view": "Dans le quartier Villon, placez les tours sombres derrière le marbre pour faire ressortir son contour clair."
+        "view": "Dans le quartier Villon, placez les tours sombres derrière le marbre pour faire ressortir son contour clair.",
+        "material": "Bloc monolithique de marbre de Carrare",
+        "history": "Silva a taillé dans un seul bloc blanc une figure dressée comme un point d’exclamation. Son contour arrondi et poli rappelle ses autres sculptures de marbre.",
+        "walk": "À Villon, cherchez d’abord les tours sombres en arrière-plan. Déplacez-vous de côté et regardez encore. La fine silhouette blanche laisse place à une courbe plus épaisse.",
+        "question": "D’où reconnaît-on le plus facilement Dame Lune ?",
+        "answer": "Placez-la devant les immeubles sombres pour lire son contour, puis décalez-vous pour voir l’épaisseur du marbre."
       },
       "es": {
         "title": "Dame Lune",
         "story": "Julio Silva talló esta figura blanca y erguida en un solo bloque de mármol de Carrara.",
-        "view": "En Villon, coloca las torres oscuras detrás del mármol para destacar su contorno claro."
+        "view": "En Villon, coloca las torres oscuras detrás del mármol para destacar su contorno claro.",
+        "material": "Bloque único de mármol de Carrara",
+        "history": "Silva talló en un bloque blanco una figura erguida como un signo de exclamación. El perfil pulido y redondeado caracteriza sus esculturas en mármol.",
+        "walk": "En Villon, empieza con las torres oscuras al fondo. Camina hacia un lado y vuelve a mirar. El perfil blanco estrecho da paso a una superficie curva más profunda.",
+        "question": "¿Desde dónde se reconoce mejor Dame Lune?",
+        "answer": "Busca un fondo de edificios oscuros para leer la silueta y muévete de lado para ver el grosor del mármol."
       },
       "zh": {
         "title": "《月亮女士》",
         "story": "胡利奥·席尔瓦用整块卡拉拉大理石雕出这个直立的白色形体。",
-        "view": "在 Villon 找一处能以深色塔楼作背景的位置，突出大理石的亮色轮廓。"
+        "view": "在 Villon 找一处能以深色塔楼作背景的位置，突出大理石的亮色轮廓。",
+        "material": "整块卡拉拉大理石",
+        "history": "席尔瓦用一块白色大理石刻出如感叹号般立着的人物。抛光的圆滑轮廓也见于他其他大理石作品。",
+        "walk": "在 Villon 先找一处能够以深色塔楼为背景的位置。走向雕塑侧面再回看，白色体量从窄线变成更厚的曲面。",
+        "question": "最容易辨认《月亮女士》的角度在哪里？",
+        "answer": "先退到暗色楼体在背后的地方辨认轮廓，再横向移动看大理石的厚度。"
       }
-    }
+    },
+    "artist": "Julio Silva",
+    "installed": 1977
   },
   {
     "slug": "doubles-lignes-indeterminees",
@@ -610,24 +1050,46 @@
       "en": {
         "title": "Double Indeterminate Lines",
         "story": "Bernar Venet’s two tall steel lines change their relationship as the viewer moves.",
-        "view": "Walk along the Michelet pedestrian route until the lines overlap, then keep going until the gap reappears in your frame."
+        "view": "Walk along the Michelet pedestrian route until the lines overlap, then keep going until the gap reappears in your frame.",
+        "material": "Painted steel",
+        "history": "Venet brought the language of mathematical lines into urban space. The twelve-metre work belongs to his Indeterminate Lines series, with two curved elements that change their relationship as you move.",
+        "walk": "Walk slowly along Cours Michelet. Use the verticals of the buildings as a reference at first, then find the point where the lines almost overlap. Keep going until the gap opens again.",
+        "question": "Do I need to circle the sculpture to see the lines overlap?",
+        "answer": "Keep to the walkway and look back as you go. After they come closest together, walk a little farther to see them part again."
       },
       "fr": {
         "title": "Doubles lignes indéterminées",
         "story": "Les deux grandes lignes d’acier de Bernar Venet changent de rapport quand on se déplace.",
-        "view": "Suivez le cheminement piéton de Michelet jusqu’à superposer les lignes, puis continuez jusqu’à retrouver un écart dans le cadre."
+        "view": "Suivez le cheminement piéton de Michelet jusqu’à superposer les lignes, puis continuez jusqu’à retrouver un écart dans le cadre.",
+        "material": "Acier peint",
+        "history": "Venet a transposé le langage des lignes mathématiques dans l’espace urbain. Haute de douze mètres, l’œuvre appartient à sa série des Lignes indéterminées. Deux éléments courbes varient l’un par rapport à l’autre selon le regard.",
+        "walk": "Avancez lentement sur le cours Michelet. Prenez d’abord les verticales des immeubles comme repères, puis trouvez le point où les lignes se superposent presque. Continuez jusqu’à voir l’écart se rouvrir.",
+        "question": "Faut-il faire le tour pour voir les lignes se superposer ?",
+        "answer": "Restez sur le passage et retournez-vous en avançant. Une fois les lignes rapprochées, poursuivez pour les voir se séparer de nouveau."
       },
       "es": {
         "title": "Dobles líneas indeterminadas",
         "story": "Las dos grandes líneas de acero de Bernar Venet cambian su relación cuando el observador se desplaza.",
-        "view": "Camina por el itinerario peatonal de Michelet hasta que las líneas se superpongan y sigue hasta que el hueco reaparezca en el encuadre."
+        "view": "Camina por el itinerario peatonal de Michelet hasta que las líneas se superpongan y sigue hasta que el hueco reaparezca en el encuadre.",
+        "material": "Acero pintado",
+        "history": "Venet llevó al espacio urbano el lenguaje de las líneas matemáticas. La obra de doce metros pertenece a su serie de Líneas indeterminadas, con dos curvas cuya relación cambia al caminar.",
+        "walk": "Avanza despacio por Cours Michelet. Usa primero las verticales de los edificios y busca el punto donde las líneas casi se superponen. Sigue hasta que se abra otra vez el hueco.",
+        "question": "¿Hay que dar toda la vuelta para ver las líneas superpuestas?",
+        "answer": "Sigue el paseo y mira atrás mientras avanzas. Tras el punto en que más se juntan, sigue un poco para verlas separarse."
       },
       "zh": {
         "title": "《双重不定线》",
         "story": "贝尔纳·韦内用两道高耸的钢线构成雕塑，人在移动时，两道线的相对位置随之变化。",
-        "view": "沿 Michelet 步行路径走到两道线在画面中重叠，再往前几步，观察间隙何时重新出现。"
+        "view": "沿 Michelet 步行路径走到两道线在画面中重叠，再往前几步，观察间隙何时重新出现。",
+        "material": "涂漆钢材",
+        "history": "韦内把数学中的线带进城市空间。这件约十二米高的作品属于他的“不确定的线”系列，两个弯曲构件随视角改变关系。",
+        "walk": "沿 Cours Michelet 的步行线慢慢前进。远处先以楼体竖线为参照，走近时找两条钢线几乎重合的位置，再多走几步看空隙重现。",
+        "question": "需要绕一整圈才能看到两线重合吗？",
+        "answer": "沿步道前进并不断回看即可。两线靠得最近的角度出现后，再走一小段就会重新分开。"
       }
-    }
+    },
+    "artist": "Bernar Venet",
+    "installed": 1988
   },
   {
     "slug": "fontaine-du-dialogue",
@@ -640,24 +1102,46 @@
       "en": {
         "title": "Fountain of Dialogue",
         "story": "Gualtiero Busato placed two figures in conversation on top of a decorated bronze column at Place Vivaldi.",
-        "view": "Look from the edge of Place Vivaldi to see the two profiles together, then step nearer to inspect the column’s motifs."
+        "view": "Look from the edge of Place Vivaldi to see the two profiles together, then step nearer to inspect the column’s motifs.",
+        "material": "Lost-wax bronze with gold-leaf finish",
+        "history": "Busato made this roughly two-metre group for Place Vivaldi. Two figures face each other above a bronze column with smaller details running down its surface.",
+        "walk": "From the edge of Place Vivaldi see both profiles at once, then approach the column. The outlines above suggest a conversation. At close range, the raised motifs on the column come into focus.",
+        "question": "Where can I photograph the two figures in conversation?",
+        "answer": "Move sideways along the edge of the square until there is a clear gap between the two profiles."
       },
       "fr": {
         "title": "La Fontaine du dialogue",
         "story": "Gualtiero Busato a placé deux personnages en conversation au sommet d’une colonne de bronze ornée, place Vivaldi.",
-        "view": "Depuis le bord de la place Vivaldi, repérez les deux profils ensemble, puis approchez-vous pour examiner les motifs de la colonne."
+        "view": "Depuis le bord de la place Vivaldi, repérez les deux profils ensemble, puis approchez-vous pour examiner les motifs de la colonne.",
+        "material": "Bronze à la cire perdue, finition à la feuille d’or",
+        "history": "Busato a conçu ce groupe d’environ deux mètres pour la place Vivaldi. Deux figures se font face au-dessus d’une colonne de bronze au décor plus fin.",
+        "walk": "Depuis le bord de la place, regardez les deux profils ensemble puis approchez-vous de la colonne. En haut, les silhouettes suggèrent une conversation. De près, les motifs en relief attirent le regard.",
+        "question": "D’où photographier les personnages en train de dialoguer ?",
+        "answer": "Décalez-vous au bord de la place jusqu’à ménager un espace net entre les deux profils."
       },
       "es": {
         "title": "Fuente del diálogo",
         "story": "Gualtiero Busato situó dos figuras conversando sobre una columna de bronce decorada en la plaza Vivaldi.",
-        "view": "Mira desde el borde de la plaza para reunir los dos perfiles y acércate después a los motivos de la columna."
+        "view": "Mira desde el borde de la plaza para reunir los dos perfiles y acércate después a los motivos de la columna.",
+        "material": "Bronce a la cera perdida con acabado de pan de oro",
+        "history": "Busato creó para Place Vivaldi este grupo de unos dos metros. Dos figuras se miran sobre una columna de bronce con detalles más pequeños a lo largo de su superficie.",
+        "walk": "Desde el borde de la plaza mira los dos perfiles juntos y acércate luego a la columna. Arriba, las siluetas sugieren una conversación. De cerca destacan los motivos en relieve.",
+        "question": "¿Desde dónde fotografío a los dos personajes en diálogo?",
+        "answer": "Muévete por el borde de la plaza hasta que quede un espacio claro entre los dos perfiles."
       },
       "zh": {
         "title": "对话喷泉",
         "story": "瓜尔蒂耶罗·布萨托把两个交谈的人物安置在维瓦尔第广场一根带纹饰的青铜柱上。",
-        "view": "先从广场边缘看两个人物的侧影，再走近看柱身的雕刻纹样。"
+        "view": "先从广场边缘看两个人物的侧影，再走近看柱身的雕刻纹样。",
+        "material": "失蜡法铸造的青铜、金箔饰面",
+        "history": "布萨托为 Place Vivaldi 创作这座约两米高的群像。两人面对面，细密的装饰沿青铜柱向下延伸。",
+        "walk": "从 Vivaldi 广场边缘把两个人物的侧脸同时纳入视野，再走近柱身。上方轮廓读作交谈，近处注意力才转移到柱身起伏的纹样。",
+        "question": "适合从哪个位置拍出两人在说话？",
+        "answer": "在广场边缘横移，选两张侧脸之间仍能留出空隙的角度。"
       }
-    }
+    },
+    "artist": "Gualtiero Busato",
+    "installed": 1989
   },
   {
     "slug": "fragments-berlin-wall",
@@ -670,24 +1154,46 @@
       "en": {
         "title": "Berlin Wall Fragments",
         "story": "Courbevoie and Epad acquired this section of the Berlin Wall. Glass panels around it carry names of European cities.",
-        "view": "Find the fragment outside the Galerie de la Coupole. Keep enough distance to see the graffiti alongside the engraved panels."
+        "view": "Find the fragment outside the Galerie de la Coupole. Keep enough distance to see the graffiti alongside the engraved panels.",
+        "material": "Concrete, historic graffiti and engraved glass",
+        "history": "This is an original section of the Berlin Wall. It entered the collection after the border opened in 1989 and has stood outside Galerie de la Coupole since 1996. Names of European cities are engraved on the surrounding glass.",
+        "walk": "See the wall and glass together from the pedestrian area outside the gallery, then walk parallel to them. Up close, look for old paint on the concrete and try reading the glass against a dark background.",
+        "question": "Are the names on the glass part of the original wall?",
+        "answer": "The historic section is the graffiti-covered concrete. The glass surrounding it belongs to the La Défense display and lists European cities."
       },
       "fr": {
         "title": "Fragments du mur de Berlin",
         "story": "Courbevoie et l’Epad ont acquis ce segment du mur de Berlin. Les panneaux de verre qui l’entourent portent des noms de villes européennes.",
-        "view": "Cherchez le fragment devant la Galerie de la Coupole. Reculez pour voir ensemble les graffitis et les panneaux gravés."
+        "view": "Cherchez le fragment devant la Galerie de la Coupole. Reculez pour voir ensemble les graffitis et les panneaux gravés.",
+        "material": "Béton, graffitis d’époque et verre gravé",
+        "history": "Il s’agit d’un fragment d’origine du mur de Berlin. Entré dans la collection après l’ouverture de la frontière en 1989, il est devant la Galerie de la Coupole depuis 1996. Le verre qui l’entoure porte des noms de villes européennes.",
+        "walk": "Regardez le mur et le verre ensemble depuis l’espace piéton devant la galerie, puis longez-les. De près, repérez les couches de peinture sur le béton. Pour lire le verre, cherchez un fond sombre.",
+        "question": "Les noms sur le verre viennent-ils du mur d’origine ?",
+        "answer": "Le fragment historique est le béton couvert de graffitis. Le verre qui l’entoure appartient à la présentation de La Défense et porte des noms de villes européennes."
       },
       "es": {
         "title": "Fragmentos del Muro de Berlín",
         "story": "Courbevoie y Epad adquirieron este fragmento del Muro de Berlín. Los paneles de vidrio que lo rodean llevan nombres de ciudades europeas.",
-        "view": "Busca el fragmento frente a la Galerie de la Coupole y retrocede para ver juntos los grafitis y los paneles grabados."
+        "view": "Busca el fragmento frente a la Galerie de la Coupole y retrocede para ver juntos los grafitis y los paneles grabados.",
+        "material": "Hormigón, grafiti de la época y vidrio grabado",
+        "history": "Este es un tramo original del Muro de Berlín. Entró en la colección tras la apertura de la frontera en 1989 y está frente a la Galerie de la Coupole desde 1996. El vidrio que lo rodea lleva nombres de ciudades europeas.",
+        "walk": "Mira juntos el muro y el vidrio desde el espacio peatonal exterior y camina en paralelo. De cerca, busca capas de pintura en el hormigón y prueba a leer el vidrio contra un fondo oscuro.",
+        "question": "¿Los nombres del vidrio son parte del muro original?",
+        "answer": "El tramo histórico es el hormigón cubierto de grafiti. El vidrio que lo rodea forma parte del montaje de La Défense y enumera ciudades europeas."
       },
       "zh": {
         "title": "柏林墙残段",
         "story": "库尔布瓦市和 Epad 购入这段柏林墙，周围的玻璃板刻有欧洲城市的名字。",
-        "view": "在 Galerie de la Coupole 外找墙体，站远一点，把墙上的涂鸦和刻字玻璃板一起纳入视野。"
+        "view": "在 Galerie de la Coupole 外找墙体，站远一点，把墙上的涂鸦和刻字玻璃板一起纳入视野。",
+        "material": "混凝土、历史涂鸦、刻字玻璃",
+        "history": "这是一段柏林墙原物。它在 1989 年柏林墙开放后进入收藏，1996 年起置于 Galerie de la Coupole 前。周边玻璃刻有欧洲城市名。",
+        "walk": "先从 Galerie de la Coupole 外的步行区看墙与玻璃的整体关系，再沿两者外侧平行走。墙面近看可见旧涂层和涂鸦，玻璃则可试着借背景的深色读字。",
+        "question": "玻璃上的文字也是原墙的一部分吗？",
+        "answer": "原墙是带涂鸦的混凝土段。围绕它的玻璃是拉德芳斯展示的一部分，其上刻有欧洲城市名。"
       }
-    }
+    },
+    "artist": "",
+    "installed": 1996
   },
   {
     "slug": "half-hare",
@@ -700,24 +1206,46 @@
       "en": {
         "title": "Half Hare by Bordalo II",
         "story": "Bordalo II built this giant hare from discarded items such as helmets, pipes and tyres.",
-        "view": "Start far enough away to see the hare’s whole outline, then move closer to distinguish the repurposed parts."
+        "view": "Start far enough away to see the hare’s whole outline, then move closer to distinguish the repurposed parts.",
+        "material": "Reclaimed helmets, plastic pipes, tyres and other materials",
+        "history": "Bordalo II created this roughly four-by-seven-metre animal mural for Urban Week 2021. By making an animal out of discarded objects, he connected plastic pollution to its impact on biodiversity.",
+        "walk": "Pick out the long ears and silhouette from across the Saisons walkway. Approach along the wall to see how what first reads as fur breaks into pieces such as pipes and tyres.",
+        "question": "Where is it easiest to spot individual salvaged objects?",
+        "answer": "From the walkway, look obliquely at a raised edge. Pick out the curve of one object and see where it fits into the hare."
       },
       "fr": {
         "title": "Half Hare de Bordalo II",
         "story": "Bordalo II a assemblé ce lièvre géant avec des objets mis au rebut, dont des casques, des tuyaux et des pneus.",
-        "view": "Reculez d’abord pour voir tout le contour du lièvre, puis approchez-vous pour reconnaître les objets réemployés."
+        "view": "Reculez d’abord pour voir tout le contour du lièvre, puis approchez-vous pour reconnaître les objets réemployés.",
+        "material": "Casques, tuyaux en plastique, pneus et autres matériaux récupérés",
+        "history": "Bordalo II a réalisé cette fresque animalière d’environ quatre mètres sur sept pour l’Urban Week 2021. En façonnant un animal avec des rebuts, il lie la pollution plastique à ses effets sur la biodiversité.",
+        "walk": "Repérez les longues oreilles et la silhouette depuis l’autre côté du passage de Saisons. Longez le mur pour voir ce qui évoquait le pelage se décomposer en tuyaux, pneus et autres objets.",
+        "question": "Où distingue-t-on le mieux les objets récupérés ?",
+        "answer": "Depuis le passage, regardez en biais une arête en relief. Repérez la courbe d’un objet et sa place dans le lièvre."
       },
       "es": {
         "title": "Half Hare de Bordalo II",
         "story": "Bordalo II construyó esta liebre gigante con objetos desechados, entre ellos cascos, tubos y neumáticos.",
-        "view": "Retrocede hasta ver la silueta completa y acércate luego para identificar las piezas reutilizadas."
+        "view": "Retrocede hasta ver la silueta completa y acércate luego para identificar las piezas reutilizadas.",
+        "material": "Cascos, tubos de plástico, neumáticos y otros materiales recuperados",
+        "history": "Bordalo II hizo este mural animal de unos cuatro por siete metros para Urban Week 2021. Al formar un animal con desechos, relacionó la contaminación por plástico con sus efectos en la biodiversidad.",
+        "walk": "Busca las orejas largas y la silueta desde el otro lado del paseo de Saisons. Acércate junto al muro para ver cómo lo que parecía pelo se descompone en tubos, neumáticos y otros objetos.",
+        "question": "¿Dónde se ven mejor los objetos recuperados?",
+        "answer": "Desde el paseo, mira en diagonal un borde en relieve. Distingue la curva de un objeto y su posición en la liebre."
       },
       "zh": {
         "title": "博尔达洛二世的《半身野兔》",
         "story": "博尔达洛二世用废弃头盔、管子和轮胎等材料拼出这只巨型野兔。",
-        "view": "先退远看到完整轮廓，再走近分辨不同的回收物。"
+        "view": "先退远看到完整轮廓，再走近分辨不同的回收物。",
+        "material": "回收头盔、塑料管、轮胎等材料",
+        "history": "博尔达洛二世为 Urban Week 2021 创作这幅约四米乘七米的动物壁画，以捡拾废物的方式将塑料污染和生物多样性放进同一作品。",
+        "walk": "先隔着 Saisons 的公共步道认出长耳和整体轮廓，再沿墙走近，逐件看原来像毛皮的边缘怎样由管道、轮胎等日常物件拼起。",
+        "question": "适合从哪里找出回收物？",
+        "answer": "靠步行道一侧从斜角观察一处厚边，确认单件物品的弧面和它在野兔身体中的位置。"
       }
-    }
+    },
+    "artist": "Bordalo II (Artur Bordalo)",
+    "installed": 2022
   },
   {
     "slug": "hercules-wind",
@@ -730,24 +1258,46 @@
       "en": {
         "title": "Hercules in the Wind",
         "story": "Léo Caillard set a distorted resin bust of Hercules against the modern Latitude building in 2024.",
-        "view": "From the pedestrian square at Latitude, look for a side angle that separates the wavy silhouette from the building’s glazing."
+        "view": "From the pedestrian square at Latitude, look for a side angle that separates the wavy silhouette from the building’s glazing.",
+        "material": "Steel and 3D-printed resin",
+        "history": "At the foot of Latitude, Caillard gave an ancient-style bust of Hercules a flowing outline. The work rises over three metres and echoes the lines of the building beside the pedestrian square.",
+        "walk": "From the landscaped square, stand back to take in the bust with the glazing, then move sideways. From afar a classical head emerges. From the side, the waves in its forehead and shoulders interrupt that reading.",
+        "question": "Where is the distortion clearest?",
+        "answer": "Take an angle from the public square where the wavy edge of the forehead or shoulder sits beside a vertical line on the facade."
       },
       "fr": {
         "title": "Hercules in the wind",
         "story": "En 2024, Léo Caillard a installé devant l’immeuble Latitude un buste d’Hercule en résine aux contours déformés.",
-        "view": "Depuis le parvis de Latitude, cherchez un angle de profil qui détache la silhouette ondulée des vitrages."
+        "view": "Depuis le parvis de Latitude, cherchez un angle de profil qui détache la silhouette ondulée des vitrages.",
+        "material": "Acier et résine imprimée en 3D",
+        "history": "Au pied de Latitude, Caillard a donné un contour fluide à un buste d’Hercule inspiré de l’Antiquité. Haute de plus de trois mètres, l’œuvre répond aux lignes du bâtiment qui borde la place piétonne.",
+        "walk": "Reculez sur la place paysagée pour voir le buste devant les vitrages, puis décalez-vous. De loin émerge une tête classique. De côté, les ondulations du front et des épaules perturbent cette lecture.",
+        "question": "Où voit-on le mieux la déformation ?",
+        "answer": "Depuis la place publique, cherchez un biais où le bord ondulé du front ou de l’épaule côtoie une verticale de la façade."
       },
       "es": {
         "title": "Hércules en el viento",
         "story": "En 2024, Léo Caillard instaló frente al edificio Latitude un busto de Hércules en resina con el contorno deformado.",
-        "view": "Desde la plaza peatonal de Latitude, busca un ángulo lateral que destaque la silueta ondulada frente a los cristales."
+        "view": "Desde la plaza peatonal de Latitude, busca un ángulo lateral que destaque la silueta ondulada frente a los cristales.",
+        "material": "Acero y resina impresa en 3D",
+        "history": "Al pie de Latitude, Caillard dio un contorno fluido a un busto de Hércules inspirado en la Antigüedad. La obra supera los tres metros y dialoga con las líneas del edificio junto a la plaza peatonal.",
+        "walk": "Retrocede en la plaza ajardinada para ver el busto con los cristales y muévete luego de lado. Desde lejos se distingue una cabeza clásica. De perfil, las ondas en la frente y los hombros rompen esa lectura.",
+        "question": "¿Dónde se aprecia mejor la deformación?",
+        "answer": "Busca un ángulo en la plaza donde el borde ondulado de la frente o el hombro quede junto a una línea vertical de la fachada."
       },
       "zh": {
         "title": "风中的赫拉克勒斯",
         "story": "莱奥·卡亚尔于 2024 年在 Latitude 大楼前安放了这尊轮廓扭曲的树脂赫拉克勒斯半身像。",
-        "view": "站在 Latitude 步行广场，从侧面找一个让起伏轮廓与玻璃背景分开的角度。"
+        "view": "站在 Latitude 步行广场，从侧面找一个让起伏轮廓与玻璃背景分开的角度。",
+        "material": "钢与 3D 打印树脂",
+        "history": "凯亚尔借用古代大力神半身像的形式，在 Latitude 楼脚把轮廓扭成流动状。作品高逾三米，呼应新步行广场旁的建筑线条。",
+        "walk": "从 Latitude 前的绿化步行广场退后看半身像和玻璃幕墙，再沿广场横移。远处分辨古典头像，近处从侧面看额头、肩部的起伏怎样打断那个印象。",
+        "question": "现场能看到哪一处最明显的扭曲？",
+        "answer": "在广场的公共区域取侧角，让额头或肩部的波浪状边缘和幕墙竖线同框。"
       }
-    }
+    },
+    "artist": "Léo Caillard",
+    "installed": 2024
   },
   {
     "slug": "icare",
@@ -760,24 +1310,46 @@
       "en": {
         "title": "Icarus by Igor Mitoraj",
         "story": "Igor Mitoraj gave Icare the proportions of a classical colossus and deliberately left the figure visibly incomplete.",
-        "view": "At the Faubourg de l’Arche pin, view the bronze from the front and then from the side to compare its broken contours."
+        "view": "At the Faubourg de l’Arche pin, view the bronze from the front and then from the side to compare its broken contours.",
+        "material": "Patinated bronze",
+        "history": "Also called Colossus, this work borrows the idealised proportions of classical sculpture. Mitoraj deliberately left the head and limbs incomplete to explore the fragility of the body.",
+        "walk": "Start from the front in Faubourg de l’Arche to read the overall proportions, then move sideways along the public passage. The patinated bronze sets irregular edges against the classical figure.",
+        "question": "Was Icare damaged after installation?",
+        "answer": "The missing parts are deliberate. Look at the broken contours from the side, then return to the front to compare them with the classical proportions."
       },
       "fr": {
         "title": "Icare d’Igor Mitoraj",
         "story": "Igor Mitoraj a donné à Icare les proportions d’un colosse antique, en laissant volontairement la figure incomplète.",
-        "view": "Au point indiqué dans le Faubourg de l’Arche, regardez le bronze de face puis de profil pour comparer ses contours brisés."
+        "view": "Au point indiqué dans le Faubourg de l’Arche, regardez le bronze de face puis de profil pour comparer ses contours brisés.",
+        "material": "Bronze patiné",
+        "history": "Aussi appelée Colosse, l’œuvre reprend les proportions idéales de la statuaire antique. Mitoraj a volontairement laissé la tête et les membres incomplets pour évoquer la fragilité du corps.",
+        "walk": "Au Faubourg de l’Arche, commencez de face pour lire les proportions, puis gagnez le côté par le passage public. Le bronze patiné oppose des bords irréguliers à la figure classique.",
+        "question": "Icare a-t-il été abîmé après son installation ?",
+        "answer": "Les parties manquantes sont intentionnelles. Regardez les cassures de biais, puis revenez de face pour les comparer aux proportions classiques."
       },
       "es": {
         "title": "Ícaro de Igor Mitoraj",
         "story": "Igor Mitoraj dio a Ícaro las proporciones de un coloso clásico y dejó la figura deliberadamente incompleta.",
-        "view": "En el punto señalado del Faubourg de l’Arche, mira el bronce de frente y luego de lado para comparar sus contornos truncados."
+        "view": "En el punto señalado del Faubourg de l’Arche, mira el bronce de frente y luego de lado para comparar sus contornos truncados.",
+        "material": "Bronce patinado",
+        "history": "También llamada Coloso, la obra toma las proporciones ideales de la escultura clásica. Mitoraj dejó incompletas la cabeza y las extremidades para explorar la fragilidad del cuerpo.",
+        "walk": "En Faubourg de l’Arche empieza de frente y pasa a un lado por la vía pública. La pátina del bronce acentúa el contraste entre los bordes irregulares y la figura clásica.",
+        "question": "¿Icare se dañó después de instalarse?",
+        "answer": "Las partes ausentes son deliberadas. Observa los contornos truncados de lado y vuelve al frente para compararlos con las proporciones clásicas."
       },
       "zh": {
         "title": "米托拉伊的《伊卡洛斯》",
         "story": "伊戈尔·米托拉伊借鉴古典巨像的比例，并特意留下伊卡洛斯残缺的身体。",
-        "view": "按地图走到 Faubourg de l’Arche 的标记，先正面、后侧面看青铜像，对照断裂的轮廓。"
+        "view": "按地图走到 Faubourg de l’Arche 的标记，先正面、后侧面看青铜像，对照断裂的轮廓。",
+        "material": "着色青铜",
+        "history": "这件又名《巨像》的作品借用了古典雕塑的理想化比例。米托拉伊刻意保留头部及肢体的残缺，借此表现人体的脆弱。",
+        "walk": "在 Faubourg de l’Arche 先从正面看大体比例，再沿公共步道移向侧面。近看头部的断面，青铜旧色使原本完整的比例与不规则的边缘形成反差。",
+        "question": "伊卡洛斯的残缺是后来造成的吗？",
+        "answer": "残缺是作品的构思。自侧面看头部和肢体的终止线，再回到正面比较其古典比例。"
       }
-    }
+    },
+    "artist": "Igor Mitoraj",
+    "installed": 1999
   },
   {
     "slug": "ikaria",
@@ -790,24 +1362,46 @@
       "en": {
         "title": "Ikaria by Igor Mitoraj",
         "story": "Igor Mitoraj juxtaposed outstretched wings with a hand that seems to hold this headless bronze to the ground.",
-        "view": "Find a side view so you can see where the wings spread and the hand meets the base."
+        "view": "Find a side view so you can see where the wings spread and the hand meets the base.",
+        "material": "Patinated bronze",
+        "history": "The roughly six-metre bronze extends Mitoraj’s reworking of classical fragments. A headless body spreads its wings while a hand appears to hold it to the ground.",
+        "walk": "Back up on the Faubourg de l’Arche walkway to see the wingspan, then move to the side to study the hand and base. The sense of lift gives way to the contact with the ground.",
+        "question": "How can I see the tension between flight and restraint in one view?",
+        "answer": "Find a diagonal angle that keeps the spread wings and the low hand in view together."
       },
       "fr": {
         "title": "Ikaria d’Igor Mitoraj",
         "story": "Igor Mitoraj a opposé les ailes déployées à une main qui semble retenir ce bronze sans tête au sol.",
-        "view": "Cherchez un profil qui montre à la fois le déploiement des ailes et le contact de la main avec la base."
+        "view": "Cherchez un profil qui montre à la fois le déploiement des ailes et le contact de la main avec la base.",
+        "material": "Bronze patiné",
+        "history": "Ce bronze d’environ six mètres prolonge le travail de Mitoraj sur les fragments antiques. Un corps sans tête déploie ses ailes tandis qu’une main semble le retenir au sol.",
+        "walk": "Reculez sur le passage du Faubourg de l’Arche pour voir l’envergure, puis gagnez le côté pour étudier la main et le socle. L’élan des ailes cède la place au contact avec le sol.",
+        "question": "D’où voir ensemble l’élan et la retenue ?",
+        "answer": "Cherchez un angle oblique qui montre à la fois les ailes déployées et la main près du sol."
       },
       "es": {
         "title": "Ikaria de Igor Mitoraj",
         "story": "Igor Mitoraj enfrentó unas alas extendidas a una mano que parece sujetar al suelo este bronce sin cabeza.",
-        "view": "Busca un ángulo lateral que permita ver las alas desplegadas y el punto donde la mano se apoya en la base."
+        "view": "Busca un ángulo lateral que permita ver las alas desplegadas y el punto donde la mano se apoya en la base.",
+        "material": "Bronce patinado",
+        "history": "Este bronce de unos seis metros continúa la reinterpretación de fragmentos clásicos de Mitoraj. Un cuerpo sin cabeza despliega las alas mientras una mano parece sujetarlo al suelo.",
+        "walk": "Retrocede por el paseo de Faubourg de l’Arche para ver la envergadura y muévete luego de lado para observar la mano y la base. El impulso de las alas cede paso al contacto con el suelo.",
+        "question": "¿Dónde se aprecian a la vez el vuelo y la sujeción?",
+        "answer": "Busca un ángulo diagonal desde el que se vean las alas abiertas y la mano cerca del suelo."
       },
       "zh": {
         "title": "米托拉伊的《伊卡莉娅》",
         "story": "伊戈尔·米托拉伊让无头青铜像展开双翼，又以一只手营造其被拽向地面的感觉。",
-        "view": "找一个侧向机位，同时观察展开的翅膀与贴近底座的手。"
+        "view": "找一个侧向机位，同时观察展开的翅膀与贴近底座的手。",
+        "material": "着色青铜",
+        "history": "这座约六米高的青铜像延续了米托拉伊对古典雕像残片的重构。无首躯体展开双翼，一只手却好像将它留在地面。",
+        "walk": "从 Faubourg de l’Arche 的步道退后看两翼的跨度，再走到侧面观察手部和底座。远处的上升感，在侧面被手与地面的连接压住。",
+        "question": "怎么在同一个角度看出飞翔和被牵住的感觉？",
+        "answer": "选一个同时看得见张开翅膀和低处手掌的斜角。"
       }
-    }
+    },
+    "artist": "Igor Mitoraj",
+    "installed": 2000
   },
   {
     "slug": "connaissance",
@@ -820,24 +1414,46 @@
       "en": {
         "title": "La Connaissance by Paul Flury",
         "story": "Paul Flury linked red and blue cast-iron slabs with hands and invited participants to leave names in the mould.",
-        "view": "Walk to the side where the coloured slabs part in your view, then look at the junction where the hands meet."
+        "view": "Walk to the side where the coloured slabs part in your view, then look at the junction where the hands meet.",
+        "material": "Painted cast iron",
+        "history": "Flury joined red and blue cast-iron slabs with two hands. Before casting, he invited around eighty participants to leave their names and a word in the sand mould.",
+        "walk": "Identify the red and blue slabs from the Faubourg de l’Arche walkway, then move sideways until the hands are distinct. At the join, the two blocks of colour begin to read as forms reaching toward each other.",
+        "question": "Were names added after the work was installed?",
+        "answer": "Participants left names in the sand mould before casting. Start with the meeting hands, then examine the nearby surfaces."
       },
       "fr": {
         "title": "La Connaissance de Paul Flury",
         "story": "Paul Flury a joint deux lames de fonte par des mains et a invité des participants à laisser leur nom dans le moule.",
-        "view": "Décalez-vous jusqu’à distinguer les deux lames colorées, puis regardez le point de rencontre des mains."
+        "view": "Décalez-vous jusqu’à distinguer les deux lames colorées, puis regardez le point de rencontre des mains.",
+        "material": "Fonte peinte",
+        "history": "Flury a relié deux lames de fonte rouge et bleue par deux mains. Avant la coulée, il a invité près de quatre-vingts personnes à laisser leur nom et un mot dans le moule en sable.",
+        "walk": "Repérez les lames depuis le passage du Faubourg de l’Arche puis décalez-vous jusqu’à distinguer les mains. À la jonction, les deux masses de couleur semblent tendre l’une vers l’autre.",
+        "question": "Les noms ont-ils été ajoutés après l’installation ?",
+        "answer": "Ils ont été inscrits dans le moule en sable avant la coulée. Repérez les mains qui se rencontrent, puis observez les surfaces voisines."
       },
       "es": {
         "title": "La Connaissance de Paul Flury",
         "story": "Paul Flury unió dos placas de hierro fundido mediante unas manos e invitó a varias personas a inscribir sus nombres en el molde.",
-        "view": "Desplázate hasta distinguir las dos placas de colores por separado y mira la unión de las manos."
+        "view": "Desplázate hasta distinguir las dos placas de colores por separado y mira la unión de las manos.",
+        "material": "Hierro fundido pintado",
+        "history": "Flury enlazó dos placas de hierro fundido, una roja y otra azul, con dos manos. Antes de la fundición invitó a unas ochenta personas a dejar su nombre y una palabra en el molde de arena.",
+        "walk": "Localiza las placas desde el paseo de Faubourg de l’Arche y muévete de lado hasta distinguir las manos. En la unión, las masas de color parecen tender la una hacia la otra.",
+        "question": "¿Se añadieron los nombres tras la instalación?",
+        "answer": "Los participantes los dejaron en el molde de arena antes de la fundición. Busca las manos que se juntan y mira las superficies cercanas."
       },
       "zh": {
         "title": "保罗·弗勒里的《知识》",
         "story": "保罗·弗勒里以相握的手连接红蓝两块铸铁，并邀请参与者在砂模上留下姓名。",
-        "view": "从侧面走到红蓝铁板在视野中分开的位置，再观察双手交接处。"
+        "view": "从侧面走到红蓝铁板在视野中分开的位置，再观察双手交接处。",
+        "material": "涂漆铸铁",
+        "history": "弗勒里在红蓝铸铁板的末端做了相接的双手。在浇铸前，他邀请约八十位参与者在砂模上留下名字与文字。",
+        "walk": "在 Faubourg de l’Arche 的步行区从远处先认出红蓝两片，再沿侧缘走到能辨出双手的角度。近看连接处，两个色块才读成彼此伸向对方的形体。",
+        "question": "名字是安装后才写上去的吗？",
+        "answer": "参与者在铸造前把名字留在砂模里。现场先找两片之间的握手，再看附近表面。"
       }
-    }
+    },
+    "artist": "Paul Flury",
+    "installed": 2003
   },
   {
     "slug": "danse",
@@ -850,24 +1466,46 @@
       "en": {
         "title": "La Danse by Shelomo Selinger",
         "story": "Shelomo Selinger placed repeated concrete figures along planters on the lower square below the esplanade.",
-        "view": "Find the lower square, follow the planters and compare how the planted edges change the appearance of each group."
+        "view": "Find the lower square, follow the planters and compare how the planted edges change the appearance of each group.",
+        "material": "Tinted reinforced concrete",
+        "history": "Selinger repeated four cast figures along the planters that define the lower square. As the planting grew, it changed the visible outlines of the groups.",
+        "walk": "Take an open pedestrian connection to the square below the esplanade. Look along a row of planters, then compare two groups from their outer edges. From afar they form a rhythm. Close up, foliage changes the way the same poses read.",
+        "question": "Why do the groups look different from planter to planter?",
+        "answer": "The four figures recur. Compare the same pose by adjacent planters and see how foliage and viewing angle change the silhouette."
       },
       "fr": {
         "title": "La Danse de Shelomo Selinger",
         "story": "Shelomo Selinger a disposé des figures répétées en béton le long des jardinières de la place basse.",
-        "view": "Rejoignez la place basse, longez les jardinières et comparez la façon dont la végétation encadre chaque groupe."
+        "view": "Rejoignez la place basse, longez les jardinières et comparez la façon dont la végétation encadre chaque groupe.",
+        "material": "Béton armé teinté",
+        "history": "Selinger a répété quatre figures moulées le long des jardinières de la place basse. En poussant, la végétation a modifié les contours visibles des groupes.",
+        "walk": "Gagnez la place sous l’esplanade par un accès piéton ouvert. Regardez une rangée entière puis comparez deux groupes depuis les bords. De loin, ils scandent le parcours. De près, les feuillages changent la lecture des mêmes poses.",
+        "question": "Pourquoi les groupes diffèrent-ils d’une jardinière à l’autre ?",
+        "answer": "Les quatre figures se répètent. Comparez une même pose près de deux jardinières pour voir l’effet des feuilles et du point de vue."
       },
       "es": {
         "title": "La Danse de Shelomo Selinger",
         "story": "Shelomo Selinger repitió figuras de hormigón a lo largo de las jardineras de la plaza situada bajo la explanada.",
-        "view": "Baja a la plaza, recorre las jardineras y compara cómo las plantas enmarcan cada grupo."
+        "view": "Baja a la plaza, recorre las jardineras y compara cómo las plantas enmarcan cada grupo.",
+        "material": "Hormigón armado tintado",
+        "history": "Selinger repitió cuatro figuras moldeadas junto a las jardineras de la plaza baja. Al crecer, las plantas cambiaron los contornos visibles de los grupos.",
+        "walk": "Baja a la plaza por un acceso peatonal abierto. Mira una fila completa y luego compara dos grupos desde el borde. De lejos marcan un ritmo. De cerca, el follaje cambia cómo se leen las mismas posturas.",
+        "question": "¿Por qué varían los grupos entre jardineras?",
+        "answer": "Las cuatro figuras se repiten. Compara la misma postura en dos jardineras para ver el efecto de las hojas y del ángulo."
       },
       "zh": {
         "title": "谢洛莫·塞林格的《舞蹈》",
         "story": "谢洛莫·塞林格把反复出现的混凝土人物布置在步行平台下层广场的花池边。",
-        "view": "到下层广场后顺着花池走，比较植物如何围合不同的人物组合。"
+        "view": "到下层广场后顺着花池走，比较植物如何围合不同的人物组合。",
+        "material": "着色钢筋混凝土",
+        "history": "塞林格将四个人物反复铸在划分低处广场的花池旁。植物长成后，枝叶和边缘改变了每组人物的可见轮廓。",
+        "walk": "从开放的人行连接到达主平台下方的广场，先看一整列花池，再沿外缘依次比较两组。远看是连续节奏，近看可以找出相同姿势在植物遮挡下的变化。",
+        "question": "为什么同一组人物在不同花池看起来有差别？",
+        "answer": "四个人物的构图反复出现。相邻花池的枝叶和视角不同，可沿边比较同一个姿势。"
       }
-    }
+    },
+    "artist": "Shelomo Selinger",
+    "installed": 1983
   },
   {
     "slug": "defonce",
@@ -880,24 +1518,46 @@
       "en": {
         "title": "La Défonce by François Morellet",
         "story": "François Morellet tipped long steel bars into the ground so a diagonal looks as if it pierces the adjoining building.",
-        "view": "On the public walkway, find the angle where the steel and facade meet in view. Then shift to read the tilted frame."
+        "view": "On the public walkway, find the angle where the steel and facade meet in view. Then shift to read the tilted frame.",
+        "material": "Painted steel",
+        "history": "Commissioned by the French Ministry of Culture, the title La Défonce plays on La Défense. Morellet angled a bar so that it seems to pierce the building that housed the national contemporary art collection.",
+        "walk": "From the public walkway beside the building, find where the diagonal crosses the facade in your view, then move sideways. From afar the wall seems off balance. Closer in, compare the tilted frame with the building’s verticals.",
+        "question": "Where can I see the bar seem to pierce the building?",
+        "answer": "Move slowly along the public walkway beside the facade and stop where the long diagonal aligns with the wall."
       },
       "fr": {
         "title": "La Défonce de François Morellet",
         "story": "François Morellet a incliné de longues barres d’acier de façon qu’une diagonale semble transpercer le bâtiment voisin.",
-        "view": "Depuis le cheminement public, cherchez l’angle où l’acier et la façade se rejoignent dans le regard, puis décalez-vous pour lire le cadre incliné."
+        "view": "Depuis le cheminement public, cherchez l’angle où l’acier et la façade se rejoignent dans le regard, puis décalez-vous pour lire le cadre incliné.",
+        "material": "Acier peint",
+        "history": "Commandée par le ministère de la Culture, La Défonce joue sur le nom de La Défense. Morellet a incliné une barre qui semble traverser le bâtiment où étaient conservées les collections du Fonds national d’art contemporain.",
+        "walk": "Sur le passage public, trouvez le point où la diagonale croise la façade, puis décalez-vous. De loin, le mur paraît basculer. De près, comparez l’inclinaison du cadre aux verticales du bâtiment.",
+        "question": "D’où voit-on la barre sembler traverser le bâtiment ?",
+        "answer": "Longez lentement la façade par le passage public et arrêtez-vous quand la longue diagonale se superpose au mur."
       },
       "es": {
         "title": "La Défonce de François Morellet",
         "story": "François Morellet inclinó largas barras de acero de modo que una diagonal parece atravesar el edificio contiguo.",
-        "view": "Desde el paso público, busca el ángulo donde se cruzan visualmente el acero y la fachada y desplázate para ver el marco inclinado."
+        "view": "Desde el paso público, busca el ángulo donde se cruzan visualmente el acero y la fachada y desplázate para ver el marco inclinado.",
+        "material": "Acero pintado",
+        "history": "Encargada por el Ministerio de Cultura francés, La Défonce juega con el nombre La Défense. Morellet inclinó una barra para que parezca atravesar el edificio que albergaba la colección nacional de arte contemporáneo.",
+        "walk": "Busca en el paseo público el punto donde la diagonal cruza la fachada y muévete de lado. De lejos, el muro parece perder el equilibrio. De cerca, compara el marco inclinado con las verticales del edificio.",
+        "question": "¿Dónde parece que la barra atraviesa el edificio?",
+        "answer": "Avanza despacio por el paseo público junto a la fachada y detente cuando la diagonal coincida con el muro."
       },
       "zh": {
         "title": "弗朗索瓦·莫雷莱的《La Défonce》",
         "story": "弗朗索瓦·莫雷莱将长钢条斜插入地，让一条斜线仿佛刺穿旁边的建筑。",
-        "view": "在公共步道上先找钢条与外墙在视觉中交汇的位置，再横向挪步看倾斜框架。"
+        "view": "在公共步道上先找钢条与外墙在视觉中交汇的位置，再横向挪步看倾斜框架。",
+        "material": "涂漆钢材",
+        "history": "法国文化部委托创作的《La Défonce》用题名谐音回应 La Défense。莫雷莱让一根斜杆看似刺入曾存放国家当代艺术基金藏品的建筑。",
+        "walk": "先在靠建筑一侧的公共步道寻找斜杆与立面相交的视角，再沿步道横移。远看像楼墙失去平衡，近处能读出作品倾斜边框与建筑竖线之间的角度。",
+        "question": "怎么找到斜杆“刺入”建筑的效果？",
+        "answer": "沿立面这侧的公共步道慢慢移动，在长斜杆恰好与楼面叠合时停下。"
       }
-    }
+    },
+    "artist": "François Morellet",
+    "installed": 1990
   },
   {
     "slug": "terre",
@@ -910,23 +1570,45 @@
       "en": {
         "title": "La Terre by Louis Derbré",
         "story": "Louis Derbré’s two figures suggest a turning globe. This painted resin version was installed after the bronze made for Tokyo.",
-        "view": "From Reflets, keep both figures in view and circle on the public side to see the sweep of their arms."
+        "view": "From Reflets, keep both figures in view and circle on the public side to see the sweep of their arms.",
+        "material": "Polyester composite and paint",
+        "history": "Derbré made the bronze version for Tokyo in 1972. The painted resin pair in La Défense was installed later, with two complementary poses that suggest the rotation of the earth.",
+        "walk": "Start at the edge of the Reflets walkway with both figures in view, then move around the public side. From afar their outlines suggest rotation. Close up, follow the different directions of the outstretched arms.",
+        "question": "Is the La Défense version also bronze?",
+        "answer": "The Reflets version is painted resin. Compare both figures from the side to see how their poses add up to a single turning movement."
       },
       "fr": {
         "title": "La Terre de Louis Derbré",
         "story": "Les deux figures de Louis Derbré évoquent un globe en rotation. Cette version en résine peinte a été installée après le bronze destiné à Tokyo.",
-        "view": "Dans le quartier Reflets, gardez les deux figures en vue et contournez-les par le chemin public pour suivre le mouvement des bras."
+        "view": "Dans le quartier Reflets, gardez les deux figures en vue et contournez-les par le chemin public pour suivre le mouvement des bras.",
+        "material": "Composite polyester et peinture",
+        "history": "Derbré a réalisé la version en bronze pour Tokyo en 1972. Le groupe en résine peinte de La Défense a été installé plus tard. Deux poses complémentaires évoquent la rotation de la Terre.",
+        "walk": "Depuis le bord du passage de Reflets, cadrez les deux figures puis longez le côté public. De loin, leurs contours suggèrent une rotation. De près, suivez les directions différentes des bras tendus.",
+        "question": "La version de La Défense est-elle aussi en bronze ?",
+        "answer": "La version de Reflets est en résine peinte. Comparez les deux figures de côté pour voir comment leurs poses composent un mouvement tournant."
       },
       "es": {
         "title": "La Terre de Louis Derbré",
         "story": "Las dos figuras de Louis Derbré evocan un globo en rotación. Esta versión en resina pintada se instaló después del bronce destinado a Tokio.",
-        "view": "En Reflets, mantén ambas figuras a la vista y rodéalas por el paso público para observar el movimiento de los brazos."
+        "view": "En Reflets, mantén ambas figuras a la vista y rodéalas por el paso público para observar el movimiento de los brazos.",
+        "material": "Compuesto de poliéster y pintura",
+        "history": "Derbré hizo la versión de bronce para Tokio en 1972. La pareja de resina pintada de La Défense se instaló después. Las posturas complementarias sugieren la rotación de la Tierra.",
+        "walk": "Desde el borde del paseo de Reflets mira juntas las figuras y rodea la pieza por el lado público. De lejos, los contornos sugieren un giro. De cerca, sigue las distintas direcciones de los brazos extendidos.",
+        "question": "¿La versión de La Défense también es de bronce?",
+        "answer": "La versión de Reflets es de resina pintada. Compara las figuras de lado para ver cómo forman un único movimiento de giro."
       },
       "zh": {
         "title": "路易·德尔布雷的《地球》",
         "story": "路易·德尔布雷用两个人物表现旋转的地球。这件彩绘树脂版晚于为东京创作的青铜版。",
-        "view": "在 Reflets 保持两个人物都在视野里，沿公共侧绕行，观察手臂的姿态。"
+        "view": "在 Reflets 保持两个人物都在视野里，沿公共侧绕行，观察手臂的姿态。",
+        "material": "聚酯复合材料和彩漆",
+        "history": "德布雷在 1972 年为东京制作了青铜版。拉德芳斯后来安置的这组树脂人物，用相互呼应的姿势表现地球转动。",
+        "walk": "在 Reflets 先从步道外缘让两个人物同时入眼，再沿公共侧绕看。远处观察轮廓的旋转趋势，侧面近看手臂不同的伸展方向怎样带动视线。",
+        "question": "拉德芳斯这一组也是青铜吗？",
+        "answer": "Reflets 的版本用彩绘树脂制成。可从侧面比较两个人物的动作，找出它们如何组成一个旋转的整体。"
       }
-    }
+    },
+    "artist": "Louis Derbré",
+    "installed": 1978
   }
 ]
